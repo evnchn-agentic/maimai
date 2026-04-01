@@ -1,0 +1,25 @@
+{
+  "umiyuri": {
+    "description": "Alternating 拍滑 with hand-coordination interlock. Tap resolves previous slide endpoint while new slide is queued. Typically appears at Lv.12+ (12.6) and above.",
+    "confirmed_songs": [
+      {"title": "ウミユリ海底譚", "notes": "Reference song. Named after this."},
+      {"title": "フィクサー", "notes": "Confirmed by user."},
+      {"title": "ECHO", "notes": "Confirmed by user. Some debate in community but user says yes."},
+      {"title": "妄想感傷代償連盟", "notes": "RE:MASTER ONLY. Master has NO umiyuri. On-beat variant."},
+      {"title": "Never Give Up!", "notes": "DX Re:Master confirmed. Master also detected (3.2%) but Re:Master is the intended difficulty."},
+      {"title": "RIFFRAIN", "notes": "Confirmed by YouTube (Maimai Inner Project). Sections at ~2:01-2:12."},
+      {"title": "ベースラインやってる？笑", "notes": "DX Master. Confirmed by user. Detected by system."},
+      {"title": "KILLER B", "notes": "DX Master Lv.12.8. Confirmed by user. Detected by system."},
+      {"title": "The 90's Decision", "notes": "DX Master Lv.13.0. Confirmed by user. Detector shows 0% after v3 tightening — possible regression, needs investigation."},
+      {"title": "不思議の国のクリスマス", "notes": "SD Master Lv.13.3. Umiyuri only at the END. Correctly isolated by detector."},
+      {"title": "Falling", "notes": "DX Master Lv.13.4. Confirmed by user. SD Falling Roses unknown."},
+      {"title": "アイドル", "notes": "RE:MASTER ONLY. Master has none. Confirmed by user."},
+      {"title": "Fragrance", "notes": "Re:Master only (towards end). Master has none. Confirmed by user."}
+    ],
+    "confirmed_non_umiyuri": [
+      {"title": "Freak Out Hr.", "notes": "Pure 拍滑, not Umiyuri. Each-based tap+slide without endpoint interlock."},
+      {"title": "Future", "notes": "拍滑 practice chart. Prerequisite for Umiyuri but different pattern."},
+      {"title": "Fragrance", "notes": "Master difficulty — 0% Umiyuri. Confirmed by user."}
+    ]
+  }
+}

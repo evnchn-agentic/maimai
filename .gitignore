@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+*.json
+!pattern_ground_truth.json
+audio-data/
+Maichart-Converts-*/
+maimai-scores/
+Output_NoBGA_*/
+*.zip
+web/data/
+highlights/
+review-queue/
