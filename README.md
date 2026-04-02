@@ -16,7 +16,7 @@ This project applies AI to understand and detect these patterns.
 
 ## What's Shipped
 
-### [Chart Pattern Detector](detector/) — 7 patterns
+### [Chart Pattern Detector](detector/) — 9 patterns
 
 Structural detectors for maimai chart patterns: **Umiyuri (海底譚)**, **拍滑**, **slide reading**, **轉圈/掃鍵**, **縦連**, **トリル**, **乱打/散打**. No ML — pure structural rules derived from understanding game mechanics. Includes a NiceGUI web dashboard with multi-timeline visualization and per-pattern leaderboards.
 

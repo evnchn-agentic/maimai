@@ -2,11 +2,9 @@
 
 # Chart Pattern Detector
 
-**7 structural pattern detectors for maimai charts, built through agentic test-driven development with Claude Code.**
+**9 structural pattern detectors for maimai charts, built through agentic test-driven development with Claude Code.**
 
 > Built through agentic coding with [Claude Code](https://claude.ai/claude-code). The AI wrote the code, ran the experiments, and iterated on false positives — while the human validated by reviewing gameplay captures and testing on a simulator.
-
-**Live demo: https://maimai.evnchn.io/**
 
 ---
 
@@ -29,7 +27,7 @@ A suite of structural pattern detectors for maimai chart files. Each detector id
 
 The system:
 - **Parses simai chart format** (maidata.txt) into timestamped note events with proper slide timing (1-beat delay)
-- **7 pattern detectors**: Umiyuri, 拍滑, slide reading, rotation, jacks, trills, 乱打
+- **9 pattern detectors**: Umiyuri, 拍滑, slide reading, rotation, jacks, trills, 乱打, 一筆畫, 魔法陣
 - **Reports combo ranges and timestamps** for each detected section
 - **NiceGUI web dashboard** with multi-timeline visualization and leaderboards
 - **Community-validated**: Umiyuri 97% accuracy (31 ground truth), rotation 14/14, 乱打 10/10
@@ -52,7 +50,6 @@ The system:
 | **縦連** | 929 | Longest same-position run |
 | **トリル** | 2,157 | Longest alternating two-position run (with cross-hand distance) |
 | **乱打/散打** | 2,472 | Longest non-directional run (≥30% direction changes) |
-
 
 ---
 
@@ -176,6 +173,18 @@ Every detector was cross-referenced against JP, CN, and EN community sources:
 | 物量 | 物量 | Not a pattern — raw note density |
 
 Sources: [Gamerch wiki](https://gamerch.com/maimai/533406), [kioblog 10 Famous Patterns](https://gekkouga-kio.hatenablog.com/entry/2023/12/18/000144), [Tonevo Advent Calendar](https://tonevoadventcalendar.hatenablog.com/entry/2023/12/14/2), [Bahamut guide](https://forum.gamer.com.tw/C.php?bsn=21890&snA=955), [乱打のお話 blog](https://keionkakimasen.hatenablog.com/entry/2024/12/25/111359)
+
+### Act 8: Slide Pattern Detectors — 一筆畫 and 魔法陣
+
+With the slide trajectory geometry understood, two slide-specific detectors emerged:
+
+**一筆畫 (One-Stroke)**: Consecutive slides where each endpoint is the next start — a continuous drawing path. The detector chains slides by matching `slide(N).end == slide(N+1).start`. Confirmed on アリサのテーマ (38-chain) and インドア系ならトラックメイカー.
+
+**魔法陣 (Magic Circle)**: Distance-4 straight slides spaced 1 beat apart, whose trajectories cross each other while multiple slides are active on screen. Four rules: (1) straight `-` shape only, (2) distance-4 (through center), (3) beat-spaced, (4) progressive rotation (≥70% unique start positions — eliminates alternating patterns). Confirmed on One Step Ahead, 泥の分際で, アンビバレンス, 前前前世. False positives eliminated: にゃーにゃー (non-straight), Future (repetitive), 39 (alternating not rotating).
+
+### Act 9: The Full Picture
+
+9 structural detectors, each targeting a specific maimai technique. The Umiyuri detector took 20+ iterations over 6 hours. The other 9 were built in under 4 hours — because the foundational understanding of slide timing, hand independence, and chart structure transferred directly. Every detector was validated against community sources (JP/CN/EN) and human ground truth before shipping.
 
 ## Files
 

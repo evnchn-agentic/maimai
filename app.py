@@ -19,6 +19,95 @@ from umiyuri_detector import detect_umiyuri, umiyuri_score
 from paika_detector import detect_paika, paika_score
 from slide_reading_detector import detect_slide_reading, slide_reading_score
 from collections import Counter, defaultdict
+import math
+
+# Inline 一筆畫 and 魔法陣 detectors
+def detect_hitofude(notes, min_chain=3):
+    slides = sorted([n for n in notes if n.note_type == 'slide' and n.slide_duration_ms > 0],
+                     key=lambda n: n.time_ms)
+    if len(slides) < 2: return []
+    detections = []; i = 0
+    while i < len(slides) - 1:
+        chain = [slides[i]]; j = i + 1
+        while j < len(slides):
+            if chain[-1].slide_end == slides[j].position and slides[j].time_ms - chain[-1].time_ms < 2000:
+                chain.append(slides[j]); j += 1
+            else: break
+        if len(chain) >= min_chain:
+            detections.append({'start_s': chain[0].time_ms/1000, 'end_s': chain[-1].time_ms/1000,
+                              'duration_s': (chain[-1].time_ms - chain[0].time_ms)/1000, 'chain': len(chain)})
+        i = j if j > i else i + 1
+    return detections
+
+_POS_A = {i+1: math.radians(45*i) for i in range(8)}
+def _pxy(p): a=_POS_A[p]; return (math.cos(a), math.sin(a))
+def _seg_cross(p1,p2,p3,p4):
+    def c2(a,b): return a[0]*b[1]-a[1]*b[0]
+    d1=(p2[0]-p1[0],p2[1]-p1[1]); d2=(p4[0]-p3[0],p4[1]-p3[1]); dn=c2(d1,d2)
+    if abs(dn)<1e-10: return False
+    t=c2((p3[0]-p1[0],p3[1]-p1[1]),d2)/dn; u=c2((p3[0]-p1[0],p3[1]-p1[1]),d1)/dn
+    return 0.05<t<0.95 and 0.05<u<0.95
+
+def detect_mahoujin(notes, min_slides=3):
+    slides = sorted([n for n in notes if n.note_type == 'slide' and n.slide_duration_ms > 0
+                     and n.slide_shape == '-' and (n.slide_end - n.position) % 8 == 4],
+                    key=lambda n: n.time_ms)
+    if len(slides) < min_slides: return []
+    beat_ms = 60000.0 / notes[0].bpm if notes else 500
+    detections = []; i = 0
+    while i < len(slides) - 2:
+        chain = [slides[i]]; keys = [f'{slides[i].position}-{slides[i].slide_end}']
+        j = i + 1
+        while j < len(slides):
+            s = slides[j]; gap = s.time_ms - chain[-1].time_ms
+            if gap > beat_ms * 1.5: break
+            if gap < beat_ms * 0.5: j += 1; continue
+            nk = f'{s.position}-{s.slide_end}'
+            if nk == keys[-1]: j += 1; continue
+            p1,p2 = _pxy(s.position),_pxy(s.slide_end); ok = False
+            for k in range(max(0,len(chain)-3),len(chain)):
+                if chain[k].time_ms > s.time_ms - beat_ms*2.5:
+                    if _seg_cross(p1,p2,_pxy(chain[k].position),_pxy(chain[k].slide_end)): ok=True; break
+            if ok: chain.append(s); keys.append(nk); j+=1
+            else: break
+        if len(chain) >= min_slides and len(set(keys)) >= 3:
+            starts = [c.position for c in chain]
+            if len(set(starts)) / len(chain) >= 0.7:
+                detections.append({'start_s': chain[0].time_ms/1000, 'end_s': chain[-1].time_ms/1000,
+                                  'duration_s': (chain[-1].time_ms-chain[0].time_ms)/1000, 'chain': len(chain)})
+        i += 1
+    merged = []
+    for d in detections:
+        if merged and d['start_s'] - merged[-1]['end_s'] < 2:
+            if d['chain'] > merged[-1]['chain']: merged[-1] = d
+        else: merged.append(d)
+    return merged
+
+    tg = defaultdict(list)
+    for n in notes:
+        tg[round(n.time_ms / 10) * 10].append(n)
+    ds_times = []
+    for t in sorted(tg.keys()):
+        g = tg[t]; slides = [n for n in g if n.note_type == 'slide']; taps = [n for n in g if n.note_type in ('tap', 'break')]
+        if slides and taps:
+            for s in slides:
+                for tap in taps:
+                    dist = min(abs(tap.position - s.position), 8 - abs(tap.position - s.position))
+                    if dist == 1: ds_times.append(t); break
+                else: continue
+                break
+    if not ds_times: return []
+    detections = []; i = 0
+    while i < len(ds_times):
+        chain = [ds_times[i]]; j = i + 1
+        while j < len(ds_times):
+            if ds_times[j] - chain[-1] < 1500: chain.append(ds_times[j]); j += 1
+            else: break
+        if len(chain) >= min_consecutive:
+            detections.append({'start_s': chain[0]/1000, 'end_s': chain[-1]/1000,
+                              'duration_s': (chain[-1]-chain[0])/1000, 'count': len(chain)})
+        i = j if j > i else i + 1
+    return detections
 
 
 def nav_header():
@@ -31,6 +120,8 @@ def nav_header():
         ui.link('縦連', '/jacks').classes('text-white ml-4')
         ui.link('トリル', '/trills').classes('text-white ml-4')
         ui.link('乱打', '/randaa').classes('text-white ml-4')
+        ui.link('一筆畫', '/hitofude').classes('text-white ml-4')
+        ui.link('魔法陣', '/mahoujin').classes('text-white ml-4')
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 
@@ -230,6 +321,8 @@ def main_page():
                 p_score = paika_score(notes)
                 sr_dets = detect_slide_reading(notes)
                 sr_score = slide_reading_score(notes)
+                hitofude_dets = detect_hitofude(notes)
+                mahoujin_dets = detect_mahoujin(notes)
 
                 # Build mark areas for all detectors
                 umiyuri_mark_areas = []
@@ -248,6 +341,18 @@ def main_page():
                 for d in sr_dets:
                     sr_mark_areas.append([
                         {'xAxis': d['start_s'], 'itemStyle': {'color': 'rgba(251, 146, 60, 0.1)'}},
+                        {'xAxis': d['end_s']},
+                    ])
+                hitofude_mark_areas = []
+                for d in hitofude_dets:
+                    hitofude_mark_areas.append([
+                        {'xAxis': d['start_s'], 'itemStyle': {'color': 'rgba(168, 85, 247, 0.15)'}},
+                        {'xAxis': d['end_s']},
+                    ])
+                mahoujin_mark_areas = []
+                for d in mahoujin_dets:
+                    mahoujin_mark_areas.append([
+                        {'xAxis': d['start_s'], 'itemStyle': {'color': 'rgba(236, 72, 153, 0.15)'}},
                         {'xAxis': d['end_s']},
                     ])
 
@@ -298,6 +403,8 @@ def main_page():
                     ('ウミユリ', None, umiyuri_mark_areas, '#22c55e', 'area'),
                     ('拍滑 (simul)', None, paika_mark_areas, '#06b6d4', 'area'),
                     ('Slide Reading', None, sr_mark_areas, '#fb923c', 'area'),
+                    ('一筆畫', None, hitofude_mark_areas, '#a855f7', 'area'),
+                    ('魔法陣', None, mahoujin_mark_areas, '#ec4899', 'area'),
                 ]
                 # Add coarse pattern rows that have detections
                 for pname, (color, marks) in pattern_mark_builders.items():
@@ -400,10 +507,14 @@ def main_page():
                 ui.echart(echart_options).style(f'width:100%;height:{total_height}px')
 
                 # Detection summary below timeline — show all detectors that found something
+                hitofude_total = sum(d['chain'] for d in hitofude_dets)
+                mahoujin_total = sum(d['chain'] for d in mahoujin_dets)
                 all_detections = [
                     ('Umiyuri', f'{u_score:.0%}', 'green-400', u_score > 0),
                     ('拍滑', f'{p_score:.0%}', 'cyan-400', p_score > 0),
                     ('Slide Reading', f'{sr_score:.0%}', 'orange-400', sr_score > 0),
+                    ('一筆畫', f'{hitofude_total}ch', 'purple-400', hitofude_total > 0),
+                    ('魔法陣', f'{mahoujin_total}ch', 'pink-400', mahoujin_total > 0),
                 ]
                 # Add coarse pattern detections
                 all_patterns = defaultdict(int)
@@ -1279,6 +1390,74 @@ def randaa_page():
                  pagination={'rowsPerPage': 25}).classes('w-full').props('dense')
 
 
+
+
+@ui.page('/hitofude')
+def hitofude_page():
+    ui.dark_mode().enable()
+    nav_header()
+    with ui.column().classes('w-full max-w-6xl mx-auto p-4'):
+        ui.label('一筆畫 Leaderboard (One-Stroke Slides)').classes('text-2xl font-bold mb-2')
+        ui.label('Ranked by longest chain of slides where each endpoint is the next start. Continuous drawing without lifting.').classes('text-gray-400 mb-4')
+        lb_file = os.path.join(BASE, 'hitofude_leaderboard.json')
+        if not os.path.exists(lb_file): return
+        with open(lb_file, encoding='utf-8') as f:
+            lb = json.load(f)
+        with ui.row().classes('gap-6 mb-4'):
+            with ui.card().classes('p-4'):
+                ui.label(str(len(lb))).classes('text-3xl font-bold text-blue-400')
+                ui.label('Charts detected').classes('text-sm text-gray-400')
+            if lb:
+                with ui.card().classes('p-4'):
+                    ui.label(str(lb[0]['longest_chain'])).classes('text-3xl font-bold text-red-400')
+                    ui.label(f"Max: {lb[0]['title'][:25]}").classes('text-sm text-gray-400')
+        columns = [
+            {'name': 'rank', 'label': '#', 'field': 'rank', 'sortable': True},
+            {'name': 'title', 'label': 'Title', 'field': 'title', 'sortable': True},
+            {'name': 'diff', 'label': 'Diff', 'field': 'diff'},
+            {'name': 'level', 'label': 'Level', 'field': 'level', 'sortable': True},
+            {'name': 'bpm', 'label': 'BPM', 'field': 'bpm', 'sortable': True},
+            {'name': 'chain', 'label': 'Chain', 'field': 'chain', 'sortable': True},
+        ]
+        rows = [{'rank': i+1, 'title': r['title'], 'diff': r['diff_name'],
+                 'level': r['level'], 'bpm': r['bpm'], 'chain': r['longest_chain']}
+                for i, r in enumerate(lb)]
+        ui.table(columns=columns, rows=rows, row_key='rank',
+                 pagination={'rowsPerPage': 25}).classes('w-full').props('dense')
+
+
+@ui.page('/mahoujin')
+def mahoujin_page():
+    ui.dark_mode().enable()
+    nav_header()
+    with ui.column().classes('w-full max-w-6xl mx-auto p-4'):
+        ui.label('魔法陣 Leaderboard (Crossing Slides)').classes('text-2xl font-bold mb-2')
+        ui.label('Ranked by longest chain of slides whose trajectories cross each other. No consecutive identical trajectories.').classes('text-gray-400 mb-4')
+        lb_file = os.path.join(BASE, 'mahoujin_leaderboard.json')
+        if not os.path.exists(lb_file): return
+        with open(lb_file, encoding='utf-8') as f:
+            lb = json.load(f)
+        with ui.row().classes('gap-6 mb-4'):
+            with ui.card().classes('p-4'):
+                ui.label(str(len(lb))).classes('text-3xl font-bold text-blue-400')
+                ui.label('Charts detected').classes('text-sm text-gray-400')
+            if lb:
+                with ui.card().classes('p-4'):
+                    ui.label(str(lb[0]['longest_chain'])).classes('text-3xl font-bold text-red-400')
+                    ui.label(f"Max: {lb[0]['title'][:25]}").classes('text-sm text-gray-400')
+        columns = [
+            {'name': 'rank', 'label': '#', 'field': 'rank', 'sortable': True},
+            {'name': 'title', 'label': 'Title', 'field': 'title', 'sortable': True},
+            {'name': 'diff', 'label': 'Diff', 'field': 'diff'},
+            {'name': 'level', 'label': 'Level', 'field': 'level', 'sortable': True},
+            {'name': 'bpm', 'label': 'BPM', 'field': 'bpm', 'sortable': True},
+            {'name': 'chain', 'label': 'Crossings', 'field': 'chain', 'sortable': True},
+        ]
+        rows = [{'rank': i+1, 'title': r['title'], 'diff': r['diff_name'],
+                 'level': r['level'], 'bpm': r['bpm'], 'chain': r['longest_chain']}
+                for i, r in enumerate(lb)]
+        ui.table(columns=columns, rows=rows, row_key='rank',
+                 pagination={'rowsPerPage': 25}).classes('w-full').props('dense')
 
 
 ui.run(host='0.0.0.0', port=8888, title='maimai-claude-code', reload=False)

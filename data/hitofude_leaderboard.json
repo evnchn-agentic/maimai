@@ -1,0 +1,9164 @@
+[
+ {
+  "title": "アリサのテーマ[SD]",
+  "bpm": 129.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 38,
+  "sections": 5,
+  "total_chained": 73
+ },
+ {
+  "title": "ジンギスカン[SD]",
+  "bpm": 150.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 17,
+  "sections": 3,
+  "total_chained": 24
+ },
+ {
+  "title": "Calamity Fortune[SD]",
+  "bpm": 200.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 16,
+  "sections": 2,
+  "total_chained": 19
+ },
+ {
+  "title": "エンドマークに希望と涙を添えて[SD]",
+  "bpm": 257.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 15,
+  "sections": 9,
+  "total_chained": 45
+ },
+ {
+  "title": "ガラテアの螺旋[SD]",
+  "bpm": 200.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_chain": 15,
+  "sections": 3,
+  "total_chained": 23
+ },
+ {
+  "title": "LUCIA[SD]",
+  "bpm": 154.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 15,
+  "sections": 5,
+  "total_chained": 31
+ },
+ {
+  "title": "Choo Choo TRAIN[SD]",
+  "bpm": 115.0,
+  "level": "10.2",
+  "diff_name": "Master",
+  "longest_chain": 14,
+  "sections": 1,
+  "total_chained": 14
+ },
+ {
+  "title": "真・ハンサム体操でズンドコホイ[SD]",
+  "bpm": 140.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 14,
+  "sections": 1,
+  "total_chained": 14
+ },
+ {
+  "title": "shake it![SD]",
+  "bpm": 130.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 14,
+  "sections": 2,
+  "total_chained": 28
+ },
+ {
+  "title": "ロストワンの号哭[SD]",
+  "bpm": 162.0,
+  "level": "14.2",
+  "diff_name": "Re:Master",
+  "longest_chain": 14,
+  "sections": 11,
+  "total_chained": 52
+ },
+ {
+  "title": "Turn around[SD]",
+  "bpm": 156.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 14,
+  "sections": 2,
+  "total_chained": 25
+ },
+ {
+  "title": "maiム・maiム feat.週刊少年マガジン[SD]",
+  "bpm": 140.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 14,
+  "sections": 4,
+  "total_chained": 32
+ },
+ {
+  "title": "CYCLES[SD]",
+  "bpm": 135.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 14,
+  "sections": 20,
+  "total_chained": 88
+ },
+ {
+  "title": "ないせんのうた[SD]",
+  "bpm": 184.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 13,
+  "sections": 3,
+  "total_chained": 19
+ },
+ {
+  "title": "前衛的Landscape[DX]",
+  "bpm": 153.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 13,
+  "sections": 2,
+  "total_chained": 16
+ },
+ {
+  "title": "ツムギボシ[DX]",
+  "bpm": 190.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 13,
+  "sections": 4,
+  "total_chained": 27
+ },
+ {
+  "title": "Selector[SD]",
+  "bpm": 148.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 13,
+  "sections": 14,
+  "total_chained": 58
+ },
+ {
+  "title": "Cider P@rty[DX]",
+  "bpm": 180.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 13,
+  "sections": 2,
+  "total_chained": 16
+ },
+ {
+  "title": "ギリギリ最強あいまいみー！[SD]",
+  "bpm": 185.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 12,
+  "sections": 3,
+  "total_chained": 30
+ },
+ {
+  "title": "明星ロケット[SD]",
+  "bpm": 163.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 12,
+  "sections": 2,
+  "total_chained": 16
+ },
+ {
+  "title": "Paranoia[DX]",
+  "bpm": 150.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 12,
+  "sections": 2,
+  "total_chained": 24
+ },
+ {
+  "title": "コネクト[SD]",
+  "bpm": 175.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "longest_chain": 11,
+  "sections": 3,
+  "total_chained": 24
+ },
+ {
+  "title": "青春コンプレックス[DX]",
+  "bpm": 190.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 11,
+  "sections": 1,
+  "total_chained": 11
+ },
+ {
+  "title": "Photon Melodies[DX]",
+  "bpm": 128.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 11,
+  "sections": 10,
+  "total_chained": 39
+ },
+ {
+  "title": "白い雪のプリンセスは[SD]",
+  "bpm": 200.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 11,
+  "sections": 3,
+  "total_chained": 19
+ },
+ {
+  "title": "ミラクルペイント[SD]",
+  "bpm": 215.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 11,
+  "sections": 2,
+  "total_chained": 22
+ },
+ {
+  "title": "taboo tears you up[SD]",
+  "bpm": 180.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 11,
+  "sections": 4,
+  "total_chained": 29
+ },
+ {
+  "title": "幻想のサテライト[SD]",
+  "bpm": 230.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 11,
+  "sections": 17,
+  "total_chained": 87
+ },
+ {
+  "title": "Let's Go Away[SD]",
+  "bpm": 240.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 11,
+  "sections": 1,
+  "total_chained": 11
+ },
+ {
+  "title": "L9[SD]",
+  "bpm": 256.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 11,
+  "sections": 4,
+  "total_chained": 21
+ },
+ {
+  "title": "Endless World[SD]",
+  "bpm": 142.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 11,
+  "sections": 4,
+  "total_chained": 25
+ },
+ {
+  "title": "ホラフキパペット[DX]",
+  "bpm": 205.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 10,
+  "sections": 1,
+  "total_chained": 10
+ },
+ {
+  "title": "唱[DX]",
+  "bpm": 132.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "longest_chain": 10,
+  "sections": 2,
+  "total_chained": 13
+ },
+ {
+  "title": "れっつ！みらくる☆はーどこあっ！[DX]",
+  "bpm": 185.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 10,
+  "sections": 2,
+  "total_chained": 19
+ },
+ {
+  "title": "ozma[DX]",
+  "bpm": 220.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 10,
+  "sections": 2,
+  "total_chained": 14
+ },
+ {
+  "title": "空威張りビヘイビア[SD]",
+  "bpm": 186.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 10,
+  "sections": 1,
+  "total_chained": 10
+ },
+ {
+  "title": "うぇいびー[DX]",
+  "bpm": 200.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 1,
+  "total_chained": 9
+ },
+ {
+  "title": "にじよめちゃん体操第一億[SD]",
+  "bpm": 120.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 3,
+  "total_chained": 15
+ },
+ {
+  "title": "敗北の少年[SD]",
+  "bpm": 185.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 4,
+  "total_chained": 21
+ },
+ {
+  "title": "ゴーストルール[DX]",
+  "bpm": 210.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 6,
+  "total_chained": 42
+ },
+ {
+  "title": "三妖精SAY YA!!![DX]",
+  "bpm": 150.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 1,
+  "total_chained": 9
+ },
+ {
+  "title": "神々の祈り[SD]",
+  "bpm": 130.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 7,
+  "total_chained": 34
+ },
+ {
+  "title": "Bad Apple!! feat.nomico (REDALiCE Remix)[DX]",
+  "bpm": 170.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 9,
+  "total_chained": 62
+ },
+ {
+  "title": "Starlight Vision[SD]",
+  "bpm": 180.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 2,
+  "total_chained": 14
+ },
+ {
+  "title": "Apollo[DX]",
+  "bpm": 339.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 5,
+  "total_chained": 25
+ },
+ {
+  "title": "Luminaria[DX]",
+  "bpm": 227.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 2,
+  "total_chained": 15
+ },
+ {
+  "title": "ENERGY SYNERGY MATRIX[DX]",
+  "bpm": 160.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 1,
+  "total_chained": 9
+ },
+ {
+  "title": "Maxi[DX]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 1,
+  "total_chained": 9
+ },
+ {
+  "title": "Estahv[DX]",
+  "bpm": 191.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 3,
+  "total_chained": 17
+ },
+ {
+  "title": "きたさいたま2000[SD]",
+  "bpm": 222.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "Believe the Rainbow[DX]",
+  "bpm": 133.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 4,
+  "total_chained": 19
+ },
+ {
+  "title": "planet dancer[SD]",
+  "bpm": 127.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 9,
+  "sections": 2,
+  "total_chained": 17
+ },
+ {
+  "title": "シエルブルーマルシェ[DX]",
+  "bpm": 180.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 9,
+  "sections": 3,
+  "total_chained": 18
+ },
+ {
+  "title": "うまるん体操[SD]",
+  "bpm": 170.0,
+  "level": "12.2",
+  "diff_name": "Re:Master",
+  "longest_chain": 8,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "In my world (Prod. KOTONOHOUSE)[DX]",
+  "bpm": 160.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 3,
+  "total_chained": 22
+ },
+ {
+  "title": "シリウスの輝きのように[DX]",
+  "bpm": 158.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "longest_chain": 8,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "コネクト[DX]",
+  "bpm": 175.0,
+  "level": "11.3",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 3,
+  "total_chained": 20
+ },
+ {
+  "title": "コネクト[DX]",
+  "bpm": 175.0,
+  "level": "12.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 8,
+  "sections": 6,
+  "total_chained": 31
+ },
+ {
+  "title": "Future[SD]",
+  "bpm": 130.0,
+  "level": "10.7",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 1,
+  "total_chained": 8
+ },
+ {
+  "title": "ファミリーパーティー[SD]",
+  "bpm": 142.0,
+  "level": "10.7",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 4,
+  "total_chained": 24
+ },
+ {
+  "title": "目覚めRETURNER[DX]",
+  "bpm": 145.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "千本桜[DX]",
+  "bpm": 154.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 3,
+  "total_chained": 15
+ },
+ {
+  "title": "初音ミクの激唱[SD]",
+  "bpm": 200.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 2,
+  "total_chained": 15
+ },
+ {
+  "title": "M.S.S.Planet[SD]",
+  "bpm": 145.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 3,
+  "total_chained": 14
+ },
+ {
+  "title": "千本桜[SD]",
+  "bpm": 154.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 3,
+  "total_chained": 17
+ },
+ {
+  "title": "泡沫、哀のまほろば[SD]",
+  "bpm": 155.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 5,
+  "total_chained": 20
+ },
+ {
+  "title": "みんなの[SD]",
+  "bpm": 190.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 4,
+  "total_chained": 28
+ },
+ {
+  "title": "Like the Wind [Reborn][SD]",
+  "bpm": 200.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 1,
+  "total_chained": 8
+ },
+ {
+  "title": "Chronomia[DX]",
+  "bpm": 227.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 1,
+  "total_chained": 8
+ },
+ {
+  "title": "Mysterious Destiny[SD]",
+  "bpm": 140.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 12,
+  "total_chained": 53
+ },
+ {
+  "title": "YA･DA･YO [Reborn][SD]",
+  "bpm": 105.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 1,
+  "total_chained": 8
+ },
+ {
+  "title": "Secret Sleuth[DX]",
+  "bpm": 288.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 8,
+  "sections": 4,
+  "total_chained": 22
+ },
+ {
+  "title": "Dragoon[SD]",
+  "bpm": 175.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 4,
+  "total_chained": 19
+ },
+ {
+  "title": "ViRTUS[DX]",
+  "bpm": 225.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 3,
+  "total_chained": 20
+ },
+ {
+  "title": "炎歌 -ほむらうた-[SD]",
+  "bpm": 108.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 2,
+  "total_chained": 15
+ },
+ {
+  "title": "ナミダと流星[SD]",
+  "bpm": 190.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 4,
+  "total_chained": 24
+ },
+ {
+  "title": "生命不詳[DX]",
+  "bpm": 200.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 8,
+  "sections": 1,
+  "total_chained": 8
+ },
+ {
+  "title": "STEREOSCAPE[DX]",
+  "bpm": 164.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 8,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "超常マイマイン[DX]",
+  "bpm": 178.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 8,
+  "sections": 4,
+  "total_chained": 28
+ },
+ {
+  "title": "夏にキスしていいですか？[SD]",
+  "bpm": 160.0,
+  "level": "10.2",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 3,
+  "total_chained": 13
+ },
+ {
+  "title": "Burn My Soul[DX]",
+  "bpm": 180.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 5,
+  "total_chained": 28
+ },
+ {
+  "title": "おいでよ！妖精の森[SD]",
+  "bpm": 220.0,
+  "level": "11.4",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 7,
+  "total_chained": 37
+ },
+ {
+  "title": "前前前世[SD]",
+  "bpm": 190.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 1,
+  "total_chained": 7
+ },
+ {
+  "title": "カルマ[SD]",
+  "bpm": 195.0,
+  "level": "9.9",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "夜に駆ける[DX]",
+  "bpm": 130.0,
+  "level": "11.2",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 1,
+  "total_chained": 7
+ },
+ {
+  "title": "Butter-Fly[SD]",
+  "bpm": 165.0,
+  "level": "10.6",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 1,
+  "total_chained": 7
+ },
+ {
+  "title": "HIMITSUスパーク[SD]",
+  "bpm": 156.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "創聖のアクエリオン[SD]",
+  "bpm": 151.0,
+  "level": "10.7",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "ハム太郎とっとこうた[DX]",
+  "bpm": 140.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 3,
+  "total_chained": 18
+ },
+ {
+  "title": "ココロオドル[SD]",
+  "bpm": 226.0,
+  "level": "11.5",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 1,
+  "total_chained": 7
+ },
+ {
+  "title": "SPiCa[SD]",
+  "bpm": 162.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 5,
+  "total_chained": 22
+ },
+ {
+  "title": "39[SD]",
+  "bpm": 175.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "longest_chain": 7,
+  "sections": 4,
+  "total_chained": 17
+ },
+ {
+  "title": "絶対敵対メチャキライヤー[DX]",
+  "bpm": 190.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 1,
+  "total_chained": 7
+ },
+ {
+  "title": "アカリがやってきたぞっ[DX]",
+  "bpm": 136.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 7,
+  "total_chained": 34
+ },
+ {
+  "title": "カラフル×メロディ[SD]",
+  "bpm": 185.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 4,
+  "total_chained": 21
+ },
+ {
+  "title": "アンノウン・マザーグース[SD]",
+  "bpm": 222.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "放課後ストライド[SD]",
+  "bpm": 225.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 3,
+  "total_chained": 19
+ },
+ {
+  "title": "妄想感傷代償連盟[SD]",
+  "bpm": 110.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "longest_chain": 7,
+  "sections": 4,
+  "total_chained": 20
+ },
+ {
+  "title": "からくりピエロ[SD]",
+  "bpm": 102.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 4,
+  "total_chained": 28
+ },
+ {
+  "title": "天ノ弱[SD]",
+  "bpm": 200.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 4,
+  "total_chained": 18
+ },
+ {
+  "title": "片想いサンバ[SD]",
+  "bpm": 150.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 7,
+  "total_chained": 29
+ },
+ {
+  "title": "絶え間なく藍色[DX]",
+  "bpm": 125.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 1,
+  "total_chained": 7
+ },
+ {
+  "title": "ラビットホール[DX]",
+  "bpm": 173.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 7,
+  "sections": 7,
+  "total_chained": 31
+ },
+ {
+  "title": "モザイクロール[SD]",
+  "bpm": 145.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 3,
+  "total_chained": 15
+ },
+ {
+  "title": "二息歩行[SD]",
+  "bpm": 180.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "Idoratrize World[DX]",
+  "bpm": 170.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 3,
+  "total_chained": 16
+ },
+ {
+  "title": "Little \"Sister\" Bitch[DX]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 1,
+  "total_chained": 7
+ },
+ {
+  "title": "Bad Apple!! feat.nomico[SD]",
+  "bpm": 138.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 3,
+  "total_chained": 18
+ },
+ {
+  "title": "sweet little sister[DX]",
+  "bpm": 168.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 1,
+  "total_chained": 7
+ },
+ {
+  "title": "オーディエンスを沸かす程度の能力 feat.タイツォン[SD]",
+  "bpm": 216.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 3,
+  "total_chained": 21
+ },
+ {
+  "title": "今、誰が為のかがり火へ[DX]",
+  "bpm": 156.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 5,
+  "total_chained": 22
+ },
+ {
+  "title": "天狗の落とし文 feat. ｙｔｒ[DX]",
+  "bpm": 160.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 2,
+  "total_chained": 13
+ },
+ {
+  "title": "Sweets Time[DX]",
+  "bpm": 150.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 2,
+  "total_chained": 11
+ },
+ {
+  "title": "儚きもの人間[SD]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 3,
+  "total_chained": 21
+ },
+ {
+  "title": "待チ人ハ来ズ。[SD]",
+  "bpm": 160.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 9,
+  "total_chained": 37
+ },
+ {
+  "title": "天狗の落とし文 feat. ｙｔｒ[SD]",
+  "bpm": 160.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 8,
+  "total_chained": 37
+ },
+ {
+  "title": "Change Our MIRAI！[SD]",
+  "bpm": 256.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 4,
+  "total_chained": 20
+ },
+ {
+  "title": "無敵We are one!![SD]",
+  "bpm": 190.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "まっすぐ→→→ストリーム！[DX]",
+  "bpm": 184.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "怒槌[SD]",
+  "bpm": 200.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 9,
+  "total_chained": 38
+ },
+ {
+  "title": "CHOCOLATE BOMB!!!![DX]",
+  "bpm": 190.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 4,
+  "total_chained": 26
+ },
+ {
+  "title": "Caterpillar Song[DX]",
+  "bpm": 90.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 4,
+  "total_chained": 19
+ },
+ {
+  "title": "Back 2 Back[SD]",
+  "bpm": 150.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 29,
+  "total_chained": 121
+ },
+ {
+  "title": "B.B.K.K.B.K.K.[SD]",
+  "bpm": 170.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 9,
+  "total_chained": 37
+ },
+ {
+  "title": "ばかみたい【Taxi Driver Edition】[DX]",
+  "bpm": 74.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 1,
+  "total_chained": 7
+ },
+ {
+  "title": "終わりなき物語[SD]",
+  "bpm": 150.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 3,
+  "total_chained": 13
+ },
+ {
+  "title": "バーチャルダム　ネーション[DX]",
+  "bpm": 210.0,
+  "level": "14.4",
+  "diff_name": "Re:Master",
+  "longest_chain": 7,
+  "sections": 8,
+  "total_chained": 50
+ },
+ {
+  "title": "L'épilogue[SD]",
+  "bpm": 145.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 6,
+  "total_chained": 22
+ },
+ {
+  "title": "Blows Up Everything[DX]",
+  "bpm": 215.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 5,
+  "total_chained": 22
+ },
+ {
+  "title": "Lunatic Vibes[DX]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 1,
+  "total_chained": 7
+ },
+ {
+  "title": "MIRROR of MAGIC[SD]",
+  "bpm": 135.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 3,
+  "total_chained": 17
+ },
+ {
+  "title": "Cosmic Train[SD]",
+  "bpm": 130.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 5,
+  "total_chained": 27
+ },
+ {
+  "title": "Strive against fate[DX]",
+  "bpm": 209.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 2,
+  "total_chained": 11
+ },
+ {
+  "title": "Heartbeats[SD]",
+  "bpm": 170.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "Sweets×Sweets[SD]",
+  "bpm": 132.0,
+  "level": "11.4",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 1,
+  "total_chained": 7
+ },
+ {
+  "title": "FFT[SD]",
+  "bpm": 180.0,
+  "level": "14.5",
+  "diff_name": "Re:Master",
+  "longest_chain": 7,
+  "sections": 4,
+  "total_chained": 17
+ },
+ {
+  "title": "曖昧mind[SD]",
+  "bpm": 135.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 4,
+  "total_chained": 16
+ },
+ {
+  "title": "みんなのマイマイマー[SD]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 7,
+  "sections": 4,
+  "total_chained": 17
+ },
+ {
+  "title": "超常マイマイン[DX]",
+  "bpm": 178.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 2,
+  "total_chained": 14
+ },
+ {
+  "title": "MYTHOS[SD]",
+  "bpm": 158.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 7,
+  "total_chained": 29
+ },
+ {
+  "title": "Prophesy One[SD]",
+  "bpm": 264.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 5,
+  "total_chained": 28
+ },
+ {
+  "title": "夢花火[SD]",
+  "bpm": 186.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 7,
+  "total_chained": 25
+ },
+ {
+  "title": "FEEL the BEATS[SD]",
+  "bpm": 166.0,
+  "level": "13.9",
+  "diff_name": "Re:Master",
+  "longest_chain": 7,
+  "sections": 5,
+  "total_chained": 19
+ },
+ {
+  "title": "Spin me harder[SD]",
+  "bpm": 130.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 3,
+  "total_chained": 14
+ },
+ {
+  "title": "Feel My Fire[SD]",
+  "bpm": 123.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 4,
+  "total_chained": 28
+ },
+ {
+  "title": "Technicians High[SD]",
+  "bpm": 165.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 7,
+  "sections": 1,
+  "total_chained": 7
+ },
+ {
+  "title": "Garakuta Doll Play[SD]",
+  "bpm": 256.0,
+  "level": "14.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 7,
+  "sections": 4,
+  "total_chained": 19
+ },
+ {
+  "title": "おとせサンダー[DX]",
+  "bpm": 177.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "モンスターカミング[DX]",
+  "bpm": 210.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "若い力 -SEGA HARD GIRLS MIX-[SD]",
+  "bpm": 162.0,
+  "level": "12.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 6,
+  "sections": 14,
+  "total_chained": 55
+ },
+ {
+  "title": "バラライカ[SD]",
+  "bpm": 140.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "オルフェ[SD]",
+  "bpm": 184.0,
+  "level": "10.4",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "Stand Up!!!![SD]",
+  "bpm": 185.0,
+  "level": "11.0",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "剣を抜け！GCCX MAX[DX]",
+  "bpm": 140.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 11
+ },
+ {
+  "title": "ラブって♡ジュエリー♪えんじぇる☆ブレイク！！[SD]",
+  "bpm": 238.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "愛包ダンスホール[DX]",
+  "bpm": 141.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 11
+ },
+ {
+  "title": "REVIVER オルタンシア・サーガ -蒼の騎士団- オリジナルVer.[SD]",
+  "bpm": 200.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 7,
+  "total_chained": 28
+ },
+ {
+  "title": "POP TEAM EPIC[DX]",
+  "bpm": 142.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 4,
+  "total_chained": 22
+ },
+ {
+  "title": "いぇす！ゆゆゆ☆ゆるゆり♪♪[SD]",
+  "bpm": 182.0,
+  "level": "11.2",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 4,
+  "total_chained": 19
+ },
+ {
+  "title": "INTERNET YAMERO[DX]",
+  "bpm": 185.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "壱雫空[DX]",
+  "bpm": 204.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "ミラクル・ショッピング[SD]",
+  "bpm": 167.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 9,
+  "total_chained": 39
+ },
+ {
+  "title": "Now Loading!!!![SD]",
+  "bpm": 193.0,
+  "level": "11.2",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "プラネタリウム・レヴュー[DX]",
+  "bpm": 170.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "深海少女[SD]",
+  "bpm": 137.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 4,
+  "total_chained": 24
+ },
+ {
+  "title": "バベル[DX]",
+  "bpm": 225.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "厨病激発ボーイ[SD]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 10,
+  "total_chained": 36
+ },
+ {
+  "title": "テトリス[DX]",
+  "bpm": 170.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 6,
+  "sections": 8,
+  "total_chained": 36
+ },
+ {
+  "title": "フキゲンワルツ[SD]",
+  "bpm": 210.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 5,
+  "total_chained": 24
+ },
+ {
+  "title": "てらてら[DX]",
+  "bpm": 190.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "フォニイ[DX]",
+  "bpm": 170.0,
+  "level": "11.5",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "インビジブル[SD]",
+  "bpm": 192.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 6,
+  "sections": 5,
+  "total_chained": 21
+ },
+ {
+  "title": "ダンスロボットダンス[SD]",
+  "bpm": 190.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 4,
+  "total_chained": 17
+ },
+ {
+  "title": "ローリンガール[DX]",
+  "bpm": 195.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 3,
+  "total_chained": 15
+ },
+ {
+  "title": "ジレンマ[DX]",
+  "bpm": 188.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "東京リアルワールド[SD]",
+  "bpm": 150.0,
+  "level": "10.8",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "StargazeR[SD]",
+  "bpm": 195.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 7,
+  "total_chained": 36
+ },
+ {
+  "title": "初音天地開闢神話[DX]",
+  "bpm": 240.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "初音ミクの消失[SD]",
+  "bpm": 240.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 3,
+  "total_chained": 16
+ },
+ {
+  "title": "METEOR[DX]",
+  "bpm": 170.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "39[DX]",
+  "bpm": 175.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 3,
+  "total_chained": 13
+ },
+ {
+  "title": "すーぱーぬこになりたい[SD]",
+  "bpm": 194.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 4,
+  "total_chained": 19
+ },
+ {
+  "title": "ダーリンダンス[DX]",
+  "bpm": 153.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "イノコリ先生[SD]",
+  "bpm": 162.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 4,
+  "total_chained": 15
+ },
+ {
+  "title": "オーバーライド[DX]",
+  "bpm": 204.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 4,
+  "total_chained": 17
+ },
+ {
+  "title": "好き！雪！本気マジック[SD]",
+  "bpm": 167.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 6,
+  "total_chained": 31
+ },
+ {
+  "title": "解けないように[DX]",
+  "bpm": 112.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "蒼空に舞え、墨染の桜[SD]",
+  "bpm": 150.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 5,
+  "total_chained": 26
+ },
+ {
+  "title": "全力ハッピーライフ[DX]",
+  "bpm": 190.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 4,
+  "total_chained": 15
+ },
+ {
+  "title": "永遠のメロディ[SD]",
+  "bpm": 155.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "ソリッド[DX]",
+  "bpm": 222.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 6,
+  "total_chained": 26
+ },
+ {
+  "title": "エピクロスの虹はもう見えない[SD]",
+  "bpm": 155.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "願いを呼ぶ季節[SD]",
+  "bpm": 170.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 3,
+  "total_chained": 14
+ },
+ {
+  "title": "チルノのパーフェクトさんすう教室[SD]",
+  "bpm": 175.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "キャプテン・ムラサのケツアンカー[SD]",
+  "bpm": 190.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察[SD]",
+  "bpm": 175.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 4,
+  "total_chained": 15
+ },
+ {
+  "title": "インパアフェクシオン・ホワイトガアル[DX]",
+  "bpm": 207.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "玩具狂奏曲 -終焉-[DX]",
+  "bpm": 130.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "Tic Tac DREAMIN’[SD]",
+  "bpm": 125.0,
+  "level": "12.1",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 3,
+  "total_chained": 13
+ },
+ {
+  "title": "蜘蛛の糸[DX]",
+  "bpm": 180.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 11
+ },
+ {
+  "title": "心象蜃気楼[SD]",
+  "bpm": 190.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 6,
+  "total_chained": 30
+ },
+ {
+  "title": "No Limit RED Force[DX]",
+  "bpm": 146.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "Good bye, Merry-Go-Round.[DX]",
+  "bpm": 185.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 6,
+  "total_chained": 28
+ },
+ {
+  "title": "DETARAME ROCK&ROLL THEORY[SD]",
+  "bpm": 140.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 6,
+  "total_chained": 21
+ },
+ {
+  "title": "MUSIC PЯAYER[DX]",
+  "bpm": 168.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 11
+ },
+ {
+  "title": "Sky High [Reborn][SD]",
+  "bpm": 144.0,
+  "level": "12.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 6,
+  "sections": 4,
+  "total_chained": 24
+ },
+ {
+  "title": "最強STRONGER[DX]",
+  "bpm": 205.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 4,
+  "total_chained": 22
+ },
+ {
+  "title": "Lights of Muse[DX]",
+  "bpm": 180.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "KONNANじゃないっ！[SD]",
+  "bpm": 155.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 5,
+  "total_chained": 26
+ },
+ {
+  "title": "Jack-the-Ripper◆[SD]",
+  "bpm": 210.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 7,
+  "total_chained": 34
+ },
+ {
+  "title": "New York Back Raise[DX]",
+  "bpm": 160.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "GOODMEN[SD]",
+  "bpm": 175.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "Synthesis.[DX]",
+  "bpm": 180.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "NightTheater[DX]",
+  "bpm": 151.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "カラッポ・ノンフィクション[DX]",
+  "bpm": 170.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 3,
+  "total_chained": 14
+ },
+ {
+  "title": "麒麟[SD]",
+  "bpm": 220.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 6,
+  "total_chained": 31
+ },
+ {
+  "title": "キズナの物語[SD]",
+  "bpm": 128.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 4,
+  "total_chained": 19
+ },
+ {
+  "title": "Save This World νMIX[SD]",
+  "bpm": 143.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 6,
+  "sections": 9,
+  "total_chained": 30
+ },
+ {
+  "title": "セイクリッド　ルイン[SD]",
+  "bpm": 186.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 6,
+  "total_chained": 26
+ },
+ {
+  "title": "Alice's Suitcase[DX]",
+  "bpm": 190.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 5,
+  "total_chained": 18
+ },
+ {
+  "title": "セガサターン起動音[H.][Remix][SD]",
+  "bpm": 148.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 3,
+  "total_chained": 15
+ },
+ {
+  "title": "ULTRA SYNERGY MATRIX[DX]",
+  "bpm": 160.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "Unwelcome School[DX]",
+  "bpm": 180.0,
+  "level": "12.2",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "神室雪月花[SD]",
+  "bpm": 86.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "BOOM! BOOM!! BOOM!!![DX]",
+  "bpm": 170.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "the EmpErroR[SD]",
+  "bpm": 240.0,
+  "level": "14.9",
+  "diff_name": "Re:Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "いっしそう電☆舞舞神拳！[SD]",
+  "bpm": 185.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 4,
+  "total_chained": 24
+ },
+ {
+  "title": "渦状銀河のシンフォニエッタ[SD]",
+  "bpm": 238.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "Imitation:Loud Lounge[DX]",
+  "bpm": 145.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "ユビキリ[SD]",
+  "bpm": 174.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 10,
+  "total_chained": 41
+ },
+ {
+  "title": "ピーマンたべたら[SD]",
+  "bpm": 178.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 8,
+  "total_chained": 40
+ },
+ {
+  "title": "Swift Swing[DX]",
+  "bpm": 150.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "四月の雨[SD]",
+  "bpm": 79.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 7,
+  "total_chained": 27
+ },
+ {
+  "title": "Get Happy[SD]",
+  "bpm": 150.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 11
+ },
+ {
+  "title": "LANCE[SD]",
+  "bpm": 156.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 8,
+  "total_chained": 31
+ },
+ {
+  "title": "Monochrome Rainbow[SD]",
+  "bpm": 182.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "my flow[DX]",
+  "bpm": 157.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "フェイクフェイス・フェイルセイフ[DX]",
+  "bpm": 202.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "記憶、記録[SD]",
+  "bpm": 185.0,
+  "level": "14.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "分からない[SD]",
+  "bpm": 200.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "星空パーティーチューン[DX]",
+  "bpm": 230.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 3,
+  "total_chained": 18
+ },
+ {
+  "title": "Lionheart[SD]",
+  "bpm": 132.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 1,
+  "total_chained": 6
+ },
+ {
+  "title": "時計の国のジェミニ[DX]",
+  "bpm": 180.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 2,
+  "total_chained": 12
+ },
+ {
+  "title": "Ourania[DX]",
+  "bpm": 204.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 6,
+  "sections": 6,
+  "total_chained": 23
+ },
+ {
+  "title": "ウマイネームイズうまみちゃん[DX]",
+  "bpm": 184.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "アイドル[DX]",
+  "bpm": 166.0,
+  "level": "11.5",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "On your mark (104期 Ver.)[DX]",
+  "bpm": 154.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "廻廻奇譚[DX]",
+  "bpm": 185.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 13
+ },
+ {
+  "title": "もういいよ[DX]",
+  "bpm": 147.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 20
+ },
+ {
+  "title": "ほとんど違法行為[SD]",
+  "bpm": 128.0,
+  "level": "10.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "はいよろこんで[DX]",
+  "bpm": 147.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "SAKURAスキップ[SD]",
+  "bpm": 165.0,
+  "level": "10.9",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "マヌルネコのうた[DX]",
+  "bpm": 137.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 17
+ },
+ {
+  "title": "POP STAR[SD]",
+  "bpm": 140.0,
+  "level": "11.4",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "君だったから[DX]",
+  "bpm": 125.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "Dragon Night[SD]",
+  "bpm": 124.0,
+  "level": "10.2",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "Jumping!![SD]",
+  "bpm": 175.0,
+  "level": "10.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "君の知らない物語[DX]",
+  "bpm": 165.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "Can Do[SD]",
+  "bpm": 200.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "POPPY PAPPY DAY[DX]",
+  "bpm": 157.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 7,
+  "total_chained": 23
+ },
+ {
+  "title": "くらべられっ子[DX]",
+  "bpm": 194.0,
+  "level": "13.0",
+  "diff_name": "Re:Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "サラバ、愛しき悲しみたちよ[SD]",
+  "bpm": 168.0,
+  "level": "10.0",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 17
+ },
+ {
+  "title": "NOISY LOVE POWER☆[SD]",
+  "bpm": 140.0,
+  "level": "12.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "フレ！フレ！ベストフレンズ[DX]",
+  "bpm": 166.0,
+  "level": "11.5",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "残響散歌[DX]",
+  "bpm": 171.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 13
+ },
+ {
+  "title": "Paradisus-Paradoxum[SD]",
+  "bpm": 201.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "リクライム[SD]",
+  "bpm": 188.0,
+  "level": "10.9",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "シリウス[SD]",
+  "bpm": 176.0,
+  "level": "10.6",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 13
+ },
+ {
+  "title": "夢現妄想世界[DX]",
+  "bpm": 195.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "セハガガガンバッちゃう！！[SD]",
+  "bpm": 202.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 7,
+  "total_chained": 29
+ },
+ {
+  "title": "ロミオとシンデレラ[SD]",
+  "bpm": 170.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "デリヘル呼んだら君が来た[DX]",
+  "bpm": 190.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "電話革命ナイセン[DX]",
+  "bpm": 145.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 13
+ },
+ {
+  "title": "抜錨[DX]",
+  "bpm": 140.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "はじめまして地球人さん[SD]",
+  "bpm": 175.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "セツナトリップ[DX]",
+  "bpm": 145.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 20
+ },
+ {
+  "title": "結ンデ開イテ羅刹ト骸[SD]",
+  "bpm": 169.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 5,
+  "sections": 6,
+  "total_chained": 22
+ },
+ {
+  "title": "弱虫モンブラン[SD]",
+  "bpm": 120.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 15
+ },
+ {
+  "title": "カゲロウデイズ[SD]",
+  "bpm": 200.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "メルト[DX]",
+  "bpm": 170.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 17
+ },
+ {
+  "title": "吉原ラメント[SD]",
+  "bpm": 191.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 14
+ },
+ {
+  "title": "キミノヨゾラ哨戒班[SD]",
+  "bpm": 185.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "パーフェクト生命[SD]",
+  "bpm": 200.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 20
+ },
+ {
+  "title": "不毛！[SD]",
+  "bpm": 200.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 7,
+  "total_chained": 35
+ },
+ {
+  "title": "エイプリルスター[DX]",
+  "bpm": 185.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "メズマライザー[DX]",
+  "bpm": 185.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "One Step Ahead[DX]",
+  "bpm": 186.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 15
+ },
+ {
+  "title": "僕は空気が嫁ない[DX]",
+  "bpm": 192.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 19
+ },
+ {
+  "title": "＊ハロー、プラネット。[DX]",
+  "bpm": 150.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "アニマル[DX]",
+  "bpm": 188.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "ローリンガール[SD]",
+  "bpm": 195.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 7,
+  "total_chained": 28
+ },
+ {
+  "title": "KING[DX]",
+  "bpm": 166.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "すろぉもぉしょん[SD]",
+  "bpm": 160.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "ゴーストルール[SD]",
+  "bpm": 210.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 20
+ },
+ {
+  "title": "バグ[DX]",
+  "bpm": 186.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "ラビットホール[DX]",
+  "bpm": 173.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 6,
+  "total_chained": 25
+ },
+ {
+  "title": "スターナイトスノウ[SD]",
+  "bpm": 180.0,
+  "level": "11.5",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "マトリョシカ[SD]",
+  "bpm": 205.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 14
+ },
+ {
+  "title": "ロータスイーター[DX]",
+  "bpm": 142.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 16
+ },
+ {
+  "title": "ラブチーノ[SD]",
+  "bpm": 126.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 17
+ },
+ {
+  "title": "Grip & Break down !![SD]",
+  "bpm": 160.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "エテルニタス・ルドロジー[SD]",
+  "bpm": 178.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 18
+ },
+ {
+  "title": "Ultimate taste[DX]",
+  "bpm": 200.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 6,
+  "total_chained": 20
+ },
+ {
+  "title": "不思議の国のクリスマス[SD]",
+  "bpm": 128.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "トランスダンスアナーキー[DX]",
+  "bpm": 195.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 15
+ },
+ {
+  "title": "物凄い勢いでけーねが物凄いうた[SD]",
+  "bpm": 180.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "Oath Act[DX]",
+  "bpm": 172.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "最速最高シャッターガール[SD]",
+  "bpm": 160.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "Bad Apple!! feat.nomico[SD]",
+  "bpm": 138.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 5,
+  "sections": 8,
+  "total_chained": 30
+ },
+ {
+  "title": "Armageddon[DX]",
+  "bpm": 210.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "幻想に咲いた花[DX]",
+  "bpm": 186.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 6,
+  "total_chained": 20
+ },
+ {
+  "title": "Endless, Sleepless Night[SD]",
+  "bpm": 165.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 6,
+  "total_chained": 20
+ },
+ {
+  "title": "ハウリング[DX]",
+  "bpm": 184.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "緋色のDance[SD]",
+  "bpm": 155.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 5,
+  "total_chained": 17
+ },
+ {
+  "title": "色は匂へど散りぬるを[SD]",
+  "bpm": 138.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 7,
+  "total_chained": 24
+ },
+ {
+  "title": "イロトリドリのメロディ[SD]",
+  "bpm": 140.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "テリトリーバトル[DX]",
+  "bpm": 140.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 7,
+  "total_chained": 27
+ },
+ {
+  "title": "なるとなぎのパーフェクトロックンロール教室[SD]",
+  "bpm": 216.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "ピュグマリオンの咒文[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 16
+ },
+ {
+  "title": "最強 the サマータイム!!!!![DX]",
+  "bpm": 178.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "その群青が愛しかったようだった[SD]",
+  "bpm": 220.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "My First Phone[SD]",
+  "bpm": 114.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "幾四音-Ixion-[SD]",
+  "bpm": 210.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 18
+ },
+ {
+  "title": "ドキドキDREAM!!![SD]",
+  "bpm": 210.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "Zitronectar[DX]",
+  "bpm": 222.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "Bang Babang Bang!!![SD]",
+  "bpm": 200.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 13
+ },
+ {
+  "title": "スーパーシンメトリー[DX]",
+  "bpm": 210.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "GO MY WAY!![SD]",
+  "bpm": 180.0,
+  "level": "10.6",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "KISS CANDY FLAVOR[SD]",
+  "bpm": 146.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "Lunar Mare[DX]",
+  "bpm": 165.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 14
+ },
+ {
+  "title": "Living Universe[SD]",
+  "bpm": 155.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "H-A-J-I-M-A-R-I-U-T-A-!![SD]",
+  "bpm": 140.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 13
+ },
+ {
+  "title": "City Escape: Act1[SD]",
+  "bpm": 130.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "デコボコ体操第二[SD]",
+  "bpm": 140.0,
+  "level": "10.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "魔法少女になるしかねぇ[SD]",
+  "bpm": 165.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 5,
+  "total_chained": 19
+ },
+ {
+  "title": "采配の刻 Power of order[SD]",
+  "bpm": 185.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "PERSONA feat. PANXI[DX]",
+  "bpm": 175.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "電車で電車でGO!GO!GO!GC! -GMT remix-[SD]",
+  "bpm": 134.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 6,
+  "total_chained": 21
+ },
+ {
+  "title": "ピポピポ -People People- feat. ななひら[DX]",
+  "bpm": 230.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 18
+ },
+ {
+  "title": "FREEDOM DiVE (tpz Overcute Remix)[SD]",
+  "bpm": 234.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "enchanted love[DX]",
+  "bpm": 95.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "Saika[DX]",
+  "bpm": 145.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "FLOWER[SD]",
+  "bpm": 173.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 8,
+  "total_chained": 29
+ },
+ {
+  "title": "月面基地[DX]",
+  "bpm": 180.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "キラメキ居残り大戦争[DX]",
+  "bpm": 212.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "Final Step![DX]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "Entrance[DX]",
+  "bpm": 180.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 6,
+  "total_chained": 22
+ },
+ {
+  "title": "Reach For The Stars (Re-Colors)[DX]",
+  "bpm": 203.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "NO ONE YES MAN[DX]",
+  "bpm": 170.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "System “Z”[SD]",
+  "bpm": 147.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 18
+ },
+ {
+  "title": "バーチャルダム　ネーション[DX]",
+  "bpm": 210.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 6,
+  "total_chained": 30
+ },
+ {
+  "title": "パラボラ[DX]",
+  "bpm": 192.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 5,
+  "total_chained": 18
+ },
+ {
+  "title": "Pixel Voyage[SD]",
+  "bpm": 170.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 17
+ },
+ {
+  "title": "Sprintrances[SD]",
+  "bpm": 178.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "U&iVERSE -銀河鸞翔-[DX]",
+  "bpm": 140.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "7thSense[SD]",
+  "bpm": 150.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 13
+ },
+ {
+  "title": "ワンダーシャッフェンの法則[DX]",
+  "bpm": 170.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 5,
+  "total_chained": 19
+ },
+ {
+  "title": "OTOGEMA[DX]",
+  "bpm": 145.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "Caliburne ～Story of the Legendary sword～[SD]",
+  "bpm": 190.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 6,
+  "total_chained": 24
+ },
+ {
+  "title": "Feel The Luv[DX]",
+  "bpm": 155.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 5,
+  "total_chained": 18
+ },
+ {
+  "title": "Blew Moon[SD]",
+  "bpm": 180.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "184億回のマルチトニック[DX]",
+  "bpm": 184.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "果ての空、僕らが見た光。[DX]",
+  "bpm": 178.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "Justified[SD]",
+  "bpm": 185.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 15
+ },
+ {
+  "title": "Link[SD]",
+  "bpm": 132.0,
+  "level": "13.5",
+  "diff_name": "Re:Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 14
+ },
+ {
+  "title": "ナミダと流星[DX]",
+  "bpm": 190.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "ガラテアの螺旋[SD]",
+  "bpm": 200.0,
+  "level": "14.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "Aetheric Energy[DX]",
+  "bpm": 205.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "VIIIbit Explorer[SD]",
+  "bpm": 188.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "VERTeX (rintaro soma deconstructed remix)[DX]",
+  "bpm": 158.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "咲キ誇レ常世ノ華[SD]",
+  "bpm": 170.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 15
+ },
+ {
+  "title": "ネコ日和。[DX]",
+  "bpm": 171.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "アンバークロニクル[DX]",
+  "bpm": 192.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "Last Samurai[DX]",
+  "bpm": 57.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "分解収束テイル[DX]",
+  "bpm": 186.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 9
+ },
+ {
+  "title": "マイオドレ！舞舞タイム[DX]",
+  "bpm": 183.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 15
+ },
+ {
+  "title": "Streak[SD]",
+  "bpm": 150.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 14
+ },
+ {
+  "title": "キリキリ舞Mine[DX]",
+  "bpm": 168.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "りばーぶ[SD]",
+  "bpm": 120.0,
+  "level": "11.4",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "Believe the Rainbow[SD]",
+  "bpm": 133.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 10,
+  "total_chained": 42
+ },
+ {
+  "title": "スローアライズ[DX]",
+  "bpm": 185.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "届かない花束[DX]",
+  "bpm": 180.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 10
+ },
+ {
+  "title": "言ノ葉カルマ[SD]",
+  "bpm": 150.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "ホシシズク[DX]",
+  "bpm": 182.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "Endless World[SD]",
+  "bpm": 142.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "longest_chain": 5,
+  "sections": 7,
+  "total_chained": 23
+ },
+ {
+  "title": "アンビバレンス[DX]",
+  "bpm": 187.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "Garakuta Doll Play[SD]",
+  "bpm": 256.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 1,
+  "total_chained": 5
+ },
+ {
+  "title": "Shining Ray ～僕らの絆～[DX]",
+  "bpm": 180.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 5,
+  "sections": 4,
+  "total_chained": 15
+ },
+ {
+  "title": "おとせサンダー[DX]",
+  "bpm": 177.0,
+  "level": "11.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "紅蓮の弓矢[SD]",
+  "bpm": 180.0,
+  "level": "11.1",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "ちょちょちょ！ゆるゆり☆かぷりっちょ！！！[SD]",
+  "bpm": 190.0,
+  "level": "11.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Arrival of Tears[SD]",
+  "bpm": 200.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "God knows...[DX]",
+  "bpm": 150.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 14
+ },
+ {
+  "title": "Baddest[DX]",
+  "bpm": 215.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "BlackFlagBreaker!![DX]",
+  "bpm": 163.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 8,
+  "total_chained": 25
+ },
+ {
+  "title": "にめんせい☆ウラオモテライフ！[SD]",
+  "bpm": 170.0,
+  "level": "10.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "VICTORY[SD]",
+  "bpm": 130.0,
+  "level": "9.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "若い力 -SEGA HARD GIRLS MIX-[SD]",
+  "bpm": 162.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "さくゆいたいそう[DX]",
+  "bpm": 160.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 16
+ },
+ {
+  "title": "はいよろこんで[DX]",
+  "bpm": 147.0,
+  "level": "11.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "あ・え・い・う・え・お・あお!![SD]",
+  "bpm": 145.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "ビビデバ[DX]",
+  "bpm": 120.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "メイトなやつら（FEAT. 天開司, 佐藤ホームズ, あっくん大魔王 & 歌衣メイカ）[DX]",
+  "bpm": 160.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "うっせぇわ[DX]",
+  "bpm": 178.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 7,
+  "total_chained": 22
+ },
+ {
+  "title": "ヒトガタ[DX]",
+  "bpm": 150.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "どんぐりGAME[DX]",
+  "bpm": 130.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 13
+ },
+ {
+  "title": "シリウスの輝きのように[DX]",
+  "bpm": 158.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "ひみつをちょーだい[SD]",
+  "bpm": 160.0,
+  "level": "9.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "だから僕は音楽を辞めた[DX]",
+  "bpm": 125.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "YONA YONA DANCE[DX]",
+  "bpm": 145.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "モエチャッカファイア[DX]",
+  "bpm": 163.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "Shooting Stars[DX]",
+  "bpm": 150.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "fantastic dreamer[SD]",
+  "bpm": 185.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "青春コンプレックス[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Touch Tap Baby[SD]",
+  "bpm": 162.0,
+  "level": "10.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "秒針を噛む[DX]",
+  "bpm": 130.0,
+  "level": "12.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "過去を喰らう[DX]",
+  "bpm": 187.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "ようこそジャパリパークへ[SD]",
+  "bpm": 170.0,
+  "level": "12.9",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "オントロジー[DX]",
+  "bpm": 192.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "MIRACLE RUSH[DX]",
+  "bpm": 168.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "死ぬな！[DX]",
+  "bpm": 220.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "POP TEAM EPIC[SD]",
+  "bpm": 142.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "アマカミサマ[DX]",
+  "bpm": 174.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 13
+ },
+ {
+  "title": "only my railgun[SD]",
+  "bpm": 143.0,
+  "level": "11.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "only my railgun[SD]",
+  "bpm": 143.0,
+  "level": "12.6",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "ヘタリアン☆ジェット[SD]",
+  "bpm": 132.0,
+  "level": "10.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "VOLTAGE[DX]",
+  "bpm": 194.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "紅蓮華[DX]",
+  "bpm": 135.0,
+  "level": "13.0",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "秘密の扉から会いにきて[SD]",
+  "bpm": 184.0,
+  "level": "11.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "ラブリー☆えんじぇる!![SD]",
+  "bpm": 173.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 16
+ },
+ {
+  "title": "新宝島[DX]",
+  "bpm": 158.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "愛のシュプリーム！[DX]",
+  "bpm": 135.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "UNION[DX]",
+  "bpm": 178.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "えれくとりっく・えんじぇぅ[SD]",
+  "bpm": 150.0,
+  "level": "11.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "初音ミクの消失[DX]",
+  "bpm": 240.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "バレリーコ[SD]",
+  "bpm": 150.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "ももいろの鍵[DX]",
+  "bpm": 165.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 17
+ },
+ {
+  "title": "炉心融解[SD]",
+  "bpm": 165.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Link[SD]",
+  "bpm": 198.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "アンクローズ・ヒューマン[DX]",
+  "bpm": 178.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "アマツキツネ[DX]",
+  "bpm": 190.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "Hand in Hand[SD]",
+  "bpm": 128.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "ヴァンパイア[DX]",
+  "bpm": 164.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Just Be Friends[SD]",
+  "bpm": 128.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "セカイはまだ始まってすらいない[DX]",
+  "bpm": 138.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "このふざけた素晴らしき世界は、僕の為にある[SD]",
+  "bpm": 152.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "ドクハク[SD]",
+  "bpm": 208.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "おじゃま虫[SD]",
+  "bpm": 143.0,
+  "level": "12.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "テトリス[DX]",
+  "bpm": 170.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 6,
+  "total_chained": 20
+ },
+ {
+  "title": "失敗作少女[DX]",
+  "bpm": 235.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "六兆年と一夜物語[SD]",
+  "bpm": 186.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "ロールプレイングゲーム[SD]",
+  "bpm": 162.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "劣等上等[DX]",
+  "bpm": 160.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "サウンド[SD]",
+  "bpm": 160.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "マーシャル・マキシマイザー[DX]",
+  "bpm": 190.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "グリーンライツ・セレナーデ[DX]",
+  "bpm": 200.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 16
+ },
+ {
+  "title": "お気に召すまま[SD]",
+  "bpm": 143.0,
+  "level": "11.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "ココロ[SD]",
+  "bpm": 140.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "ワールドワイドワンダー[DX]",
+  "bpm": 142.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "深海少女[DX]",
+  "bpm": 137.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "さよならプリンセス[DX]",
+  "bpm": 195.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "サヨナラチェーンソー[DX]",
+  "bpm": 154.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "天ノ弱[DX]",
+  "bpm": 200.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "だからパンを焼いたんだ[DX]",
+  "bpm": 170.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "スターリースカイ☆パレード[DX]",
+  "bpm": 177.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "夜咄ディセイブ[SD]",
+  "bpm": 260.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "金の聖夜霜雪に朽ちて[SD]",
+  "bpm": 185.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "スロウダウナー[DX]",
+  "bpm": 194.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "ダンスロボットダンス[DX]",
+  "bpm": 190.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 13
+ },
+ {
+  "title": "ゼロトーキング[DX]",
+  "bpm": 133.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "命に嫌われている[DX]",
+  "bpm": 200.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "グラーヴェ[DX]",
+  "bpm": 185.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "とりあえずアナタがいなくなるまえに[DX]",
+  "bpm": 140.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 7,
+  "total_chained": 27
+ },
+ {
+  "title": "ナンセンス文学[SD]",
+  "bpm": 154.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "トンデモワンダーズ[DX]",
+  "bpm": 172.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "自傷無色[DX]",
+  "bpm": 120.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "モニタリング[DX]",
+  "bpm": 132.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "IMAWANOKIWA[DX]",
+  "bpm": 178.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "ドーナツホール[SD]",
+  "bpm": 252.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 15
+ },
+ {
+  "title": "はやくそれになりたい！[SD]",
+  "bpm": 185.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "骸骨楽団とリリア[DX]",
+  "bpm": 260.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "Alice in 冷凍庫[DX]",
+  "bpm": 176.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "トルコ行進曲 - オワタ＼(^o^)／[SD]",
+  "bpm": 120.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "ド屑[DX]",
+  "bpm": 115.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 13
+ },
+ {
+  "title": "きゅうくらりん[DX]",
+  "bpm": 220.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Tell Your World[SD]",
+  "bpm": 150.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 16
+ },
+ {
+  "title": "エゴロック[DX]",
+  "bpm": 225.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "QUEEN[DX]",
+  "bpm": 170.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 13
+ },
+ {
+  "title": "galaxias![SD]",
+  "bpm": 123.0,
+  "level": "10.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "ロキ[SD]",
+  "bpm": 150.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "空回りライブラリ[DX]",
+  "bpm": 130.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "ありきたりな恋の歌[DX]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "だんだん早くなる[SD]",
+  "bpm": 160.0,
+  "level": "12.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 16,
+  "total_chained": 49
+ },
+ {
+  "title": "終焉逃避行[DX]",
+  "bpm": 147.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 17
+ },
+ {
+  "title": "クローバー♣クラブ[SD]",
+  "bpm": 150.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "フラグメンツ -T.V. maimai edit-[SD]",
+  "bpm": 160.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 7,
+  "total_chained": 23
+ },
+ {
+  "title": "患部で止まってすぐ溶ける～狂気の優曇華院[DX]",
+  "bpm": 200.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Sweet Requiem[DX]",
+  "bpm": 190.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "もうみんなしねばいいのに[SD]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Phantasm Brigade[SD]",
+  "bpm": 168.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 17
+ },
+ {
+  "title": "響縁[SD]",
+  "bpm": 180.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "wheel[DX]",
+  "bpm": 136.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 8,
+  "total_chained": 29
+ },
+ {
+  "title": "しゅわスパ大作戦☆[SD]",
+  "bpm": 140.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "CYBER Sparks[SD]",
+  "bpm": 192.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 16
+ },
+ {
+  "title": "クレイジークレイジーダンサーズ[SD]",
+  "bpm": 172.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "絡繰りドール[DX]",
+  "bpm": 160.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "【東方ニコカラ】秘神マターラ feat.魂音泉【IOSYS】[SD]",
+  "bpm": 168.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 16
+ },
+ {
+  "title": "ゆけむり魂温泉 II[DX]",
+  "bpm": 140.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Doll Judgment[SD]",
+  "bpm": 230.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 18
+ },
+ {
+  "title": "隠然[SD]",
+  "bpm": 210.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 15
+ },
+ {
+  "title": "下克上々[DX]",
+  "bpm": 164.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "月に叢雲華に風[SD]",
+  "bpm": 160.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 15
+ },
+ {
+  "title": "幻想に咲いた花[DX]",
+  "bpm": 186.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "疾走あんさんぶる[SD]",
+  "bpm": 195.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 16
+ },
+ {
+  "title": "患部で止まってすぐ溶ける～狂気の優曇華院[SD]",
+  "bpm": 200.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "マツヨイナイトバグ[DX]",
+  "bpm": 190.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "マツヨイナイトバグ[DX]",
+  "bpm": 190.0,
+  "level": "14.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 17
+ },
+ {
+  "title": "響け！CHIREI MY WAY![DX]",
+  "bpm": 181.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 16
+ },
+ {
+  "title": "Jimang Shot[SD]",
+  "bpm": 164.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 12,
+  "total_chained": 39
+ },
+ {
+  "title": "チルノのパーフェクトさんすう教室[DX]",
+  "bpm": 175.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "色は匂へど散りぬるを[DX]",
+  "bpm": 138.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "ナイト・オブ・ナイツ[DX]",
+  "bpm": 180.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "LiftOff[DX]",
+  "bpm": 137.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "Drivessover[DX]",
+  "bpm": 182.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "タテマエと本心の大乱闘[DX]",
+  "bpm": 180.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 14
+ },
+ {
+  "title": "奏者はただ背中と提琴で語るのみ[SD]",
+  "bpm": 230.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 16
+ },
+ {
+  "title": "光線チューニング[SD]",
+  "bpm": 190.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 17
+ },
+ {
+  "title": "立川浄穢捕物帳[DX]",
+  "bpm": 210.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "スピカの天秤[DX]",
+  "bpm": 252.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "brilliant better[SD]",
+  "bpm": 172.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "Help me, あーりん！[SD]",
+  "bpm": 183.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "MarbleBlue.[DX]",
+  "bpm": 198.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "ハードコア・シンドローム[DX]",
+  "bpm": 180.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "-OutsideR:RequieM-[SD]",
+  "bpm": 181.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "Kiss Me Kiss[DX]",
+  "bpm": 140.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "単一指向性オーバーブルーム[DX]",
+  "bpm": 158.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "美夜月鏡[DX]",
+  "bpm": 164.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "crazy (about you)[DX]",
+  "bpm": 145.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "SUPER AMBULANCE[DX]",
+  "bpm": 200.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "JIGOKU STATION CENTRAL GATE[DX]",
+  "bpm": 160.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "YURUSHITE[DX]",
+  "bpm": 270.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "ハジマリノピアノ[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "Make Up Your World feat. キョンシーのCiちゃん & らっぷびと[DX]",
+  "bpm": 180.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "Maxi[SD]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "コンティニュー！ feat. 藍月なくる[DX]",
+  "bpm": 170.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Party 4U ”holy nite mix”[SD]",
+  "bpm": 159.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 16
+ },
+ {
+  "title": "MilK[SD]",
+  "bpm": 150.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 13
+ },
+ {
+  "title": "オモイヨシノ[SD]",
+  "bpm": 168.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 6,
+  "total_chained": 20
+ },
+ {
+  "title": "BLUE ZONE[DX]",
+  "bpm": 168.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Luminescence[DX]",
+  "bpm": 184.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Strange Bar[DX]",
+  "bpm": 110.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 6,
+  "total_chained": 24
+ },
+ {
+  "title": "アトロポスと最果の探究者[DX]",
+  "bpm": 230.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 18
+ },
+ {
+  "title": "Sunshine world tour[SD]",
+  "bpm": 140.0,
+  "level": "11.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 13
+ },
+ {
+  "title": "with U[DX]",
+  "bpm": 155.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "LOSE CONTROL[DX]",
+  "bpm": 150.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 15
+ },
+ {
+  "title": "VOLT[DX]",
+  "bpm": 174.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "First Dance[DX]",
+  "bpm": 174.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 14
+ },
+ {
+  "title": "THE IDOLM@STER 2nd-mix[SD]",
+  "bpm": 168.0,
+  "level": "9.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "BULK UP (GAME EXCLUSIVE EDIT)[DX]",
+  "bpm": 200.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Burning Hearts ～炎のANGEL～[SD]",
+  "bpm": 155.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "QUATTUORUX[DX]",
+  "bpm": 220.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "Scars of FAUNA[SD]",
+  "bpm": 165.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 7,
+  "total_chained": 22
+ },
+ {
+  "title": "DANGEROOOOUS JUNGLE[DX]",
+  "bpm": 160.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "Knight Rider[DX]",
+  "bpm": 200.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 6,
+  "total_chained": 21
+ },
+ {
+  "title": "人里に下ったアタイがいつの間にか社畜になっていた件[SD]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "METATRON[SD]",
+  "bpm": 190.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "レッツゴー!陰陽師[SD]",
+  "bpm": 150.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 11,
+  "total_chained": 35
+ },
+ {
+  "title": "Lost Princess[SD]",
+  "bpm": 150.0,
+  "level": "12.5",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "Sound Chimera[DX]",
+  "bpm": 190.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 12
+ },
+ {
+  "title": "Retribution ～ Cycle of Redemption ～[DX]",
+  "bpm": 112.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "Black Lair[DX]",
+  "bpm": 150.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 19
+ },
+ {
+  "title": "ENERGY SYNERGY MATRIX[SD]",
+  "bpm": 160.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "MAKE IT FUNKY NOW[DX]",
+  "bpm": 146.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "CHAOS[DX]",
+  "bpm": 150.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 6,
+  "total_chained": 22
+ },
+ {
+  "title": "若い力[DX]",
+  "bpm": 114.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "ミラクルポップ☆アドベンチャー!!!!![DX]",
+  "bpm": 180.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "Star☆Glitter[SD]",
+  "bpm": 171.0,
+  "level": "11.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "Define[DX]",
+  "bpm": 175.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 6,
+  "total_chained": 22
+ },
+ {
+  "title": "∀[DX]",
+  "bpm": 245.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "GO BACK 2 YOUR RAVE[SD]",
+  "bpm": 170.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "System “Z”[SD]",
+  "bpm": 147.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 6,
+  "total_chained": 20
+ },
+ {
+  "title": "AMAZING MIGHTYYYY!!!![SD]",
+  "bpm": 185.0,
+  "level": "14.5",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 11,
+  "total_chained": 36
+ },
+ {
+  "title": "Fraq[DX]",
+  "bpm": 221.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "GEMINI -M-[SD]",
+  "bpm": 180.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 6,
+  "total_chained": 22
+ },
+ {
+  "title": "Imitation:Loud Lounge[SD]",
+  "bpm": 145.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 6,
+  "total_chained": 19
+ },
+ {
+  "title": "Dragoon[SD]",
+  "bpm": 175.0,
+  "level": "14.5",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 15
+ },
+ {
+  "title": "群青シグナル[DX]",
+  "bpm": 206.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "ふらふらふら、[DX]",
+  "bpm": 125.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "VERTeX[SD]",
+  "bpm": 237.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 19
+ },
+ {
+  "title": "地獄[DX]",
+  "bpm": 190.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "ウタヒメナイトストーム[DX]",
+  "bpm": 164.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 17
+ },
+ {
+  "title": "ぽわわん劇場[DX]",
+  "bpm": 190.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Night Fly[SD]",
+  "bpm": 127.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 19
+ },
+ {
+  "title": "Candy Tall Woman[SD]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 16
+ },
+ {
+  "title": "\"411Ψ892\"[DX]",
+  "bpm": 184.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "パーフェクション[DX]",
+  "bpm": 190.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 14
+ },
+ {
+  "title": "天火明命[SD]",
+  "bpm": 155.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 13
+ },
+ {
+  "title": "Starlight Disco[SD]",
+  "bpm": 128.0,
+  "level": "12.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 13
+ },
+ {
+  "title": "keep hopping[SD]",
+  "bpm": 155.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Unfinished Epic[DX]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "系ぎて[DX]",
+  "bpm": 88.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "Death Scythe[SD]",
+  "bpm": 182.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 14
+ },
+ {
+  "title": "忙シー日[DX]",
+  "bpm": 150.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "花と、雪と、ドラムンベース。[SD]",
+  "bpm": 180.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "oboro[SD]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 16
+ },
+ {
+  "title": "PANDORA PARADOXXX[SD]",
+  "bpm": 150.0,
+  "level": "15.0",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 14
+ },
+ {
+  "title": "Xenovcipher[DX]",
+  "bpm": 210.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "MAXRAGE[DX]",
+  "bpm": 222.0,
+  "level": "14.2",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "IMBRUED:FLUX[DX]",
+  "bpm": 176.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Scarlet Wings[DX]",
+  "bpm": 183.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 16
+ },
+ {
+  "title": "ここからはじまるプロローグ。 (Kanon Remix)[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "地球[DX]",
+  "bpm": 79.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 14
+ },
+ {
+  "title": "有明/Ariake[DX]",
+  "bpm": 190.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "アージェントシンメトリー[SD]",
+  "bpm": 172.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "雨露霜雪[DX]",
+  "bpm": 250.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Alcyone[DX]",
+  "bpm": 176.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 19
+ },
+ {
+  "title": "Ututu[DX]",
+  "bpm": 172.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "Our Wrenally[SD]",
+  "bpm": 105.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 16
+ },
+ {
+  "title": "welcome to maimai!! with マイマイマー[SD]",
+  "bpm": 163.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 6,
+  "total_chained": 20
+ },
+ {
+  "title": "Glorious Crown[SD]",
+  "bpm": 225.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 7,
+  "total_chained": 23
+ },
+ {
+  "title": "Metamorphosism[DX]",
+  "bpm": 144.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 8,
+  "total_chained": 31
+ },
+ {
+  "title": "BLACK SWAN[DX]",
+  "bpm": 201.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "SPILL OVER COLORS[SD]",
+  "bpm": 142.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 7,
+  "total_chained": 25
+ },
+ {
+  "title": "Edelweiss[DX]",
+  "bpm": 252.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 15
+ },
+ {
+  "title": "QZKago Requiem[SD]",
+  "bpm": 257.0,
+  "level": "14.9",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "BIRTH[DX]",
+  "bpm": 176.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "BREAK YOU!![SD]",
+  "bpm": 167.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 6,
+  "total_chained": 21
+ },
+ {
+  "title": "砂の函[DX]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Now or Never[DX]",
+  "bpm": 202.0,
+  "level": "14.1",
+  "diff_name": "Re:Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "End of Twilight[SD]",
+  "bpm": 180.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "白花の天使[DX]",
+  "bpm": 200.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 7
+ },
+ {
+  "title": "シエルブルーマルシェ[DX]",
+  "bpm": 180.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "FestivaLight[SD]",
+  "bpm": 125.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 11
+ },
+ {
+  "title": "パラマウント☆ショータイム！！[DX]",
+  "bpm": 222.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "YKWTD[DX]",
+  "bpm": 174.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Straight into the lights[DX]",
+  "bpm": 90.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "ミルキースター・シューティングスター[DX]",
+  "bpm": 184.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 4,
+  "total_chained": 13
+ },
+ {
+  "title": "言ノ葉カルマ[SD]",
+  "bpm": 150.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 5,
+  "total_chained": 20
+ },
+ {
+  "title": "CiRCLE CAMPAiGN[DX]",
+  "bpm": 182.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "Lia=Fail[DX]",
+  "bpm": 186.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 6,
+  "total_chained": 24
+ },
+ {
+  "title": "VIIIbit Explorer[DX]",
+  "bpm": 188.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 1,
+  "total_chained": 4
+ },
+ {
+  "title": "Dreampainter[SD]",
+  "bpm": 136.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "HERA[SD]",
+  "bpm": 185.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 2,
+  "total_chained": 8
+ },
+ {
+  "title": "POWER OF UNITY[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "のじゃロリック[DX]",
+  "bpm": 160.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 4,
+  "sections": 3,
+  "total_chained": 10
+ },
+ {
+  "title": "うぇいびー[DX]",
+  "bpm": 200.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "吾輩よ猫であれ[DX]",
+  "bpm": 136.0,
+  "level": "12.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "偉大なる悪魔は実は大天使パトラちゃん様なのだ！[DX]",
+  "bpm": 195.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "CAN'T GET BACK[SD]",
+  "bpm": 140.0,
+  "level": "9.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "なだめスかし Negotiation（TVsize）[DX]",
+  "bpm": 150.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "みかんのうた[SD]",
+  "bpm": 288.0,
+  "level": "12.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "ふ・れ・ん・ど・し・た・い[SD]",
+  "bpm": 148.0,
+  "level": "10.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ふ・れ・ん・ど・し・た・い[SD]",
+  "bpm": 148.0,
+  "level": "11.5",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "God knows...[DX]",
+  "bpm": 150.0,
+  "level": "13.0",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "廻廻奇譚[DX]",
+  "bpm": 185.0,
+  "level": "13.5",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 5,
+  "total_chained": 15
+ },
+ {
+  "title": "7 Girls War[SD]",
+  "bpm": 180.0,
+  "level": "10.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "1/3の純情な感情[SD]",
+  "bpm": 152.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "スナネコのうた[DX]",
+  "bpm": 92.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "インドア系ならトラックメイカー[DX]",
+  "bpm": 128.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "Virtual to LIVE[DX]",
+  "bpm": 156.0,
+  "level": "12.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "君の知らない物語[SD]",
+  "bpm": 165.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "[DX]",
+  "bpm": 130.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "PERFECT HUMAN[SD]",
+  "bpm": 128.0,
+  "level": "11.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "あつすぎの歌[DX]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "夏祭り[SD]",
+  "bpm": 141.0,
+  "level": "11.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "お願いマッスル[DX]",
+  "bpm": 132.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ノーポイッ![DX]",
+  "bpm": 158.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "ビビデバ[DX]",
+  "bpm": 120.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "ようこそジャパリパークへ[DX]",
+  "bpm": 170.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Blank Paper (Prod. TEMPLIME)[DX]",
+  "bpm": 133.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "モンダイナイトリッパー！[DX]",
+  "bpm": 180.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "サブリナ[SD]",
+  "bpm": 136.0,
+  "level": "11.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "異世界かるてっと[DX]",
+  "bpm": 148.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "SHINY DAYS[SD]",
+  "bpm": 110.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "乗ってけ！ジャパリビート[DX]",
+  "bpm": 134.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "六厘歌[DX]",
+  "bpm": 140.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "Rodeo Machine[SD]",
+  "bpm": 115.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 7,
+  "total_chained": 21
+ },
+ {
+  "title": "Falling Roses[SD]",
+  "bpm": 200.0,
+  "level": "12.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "全力☆Summer![SD]",
+  "bpm": 158.0,
+  "level": "10.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ポップミュージックは僕のもの[SD]",
+  "bpm": 135.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "カノン[SD]",
+  "bpm": 208.0,
+  "level": "10.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "つけまつける[SD]",
+  "bpm": 145.0,
+  "level": "9.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ホシトハナ[SD]",
+  "bpm": 158.0,
+  "level": "11.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "勇者[DX]",
+  "bpm": 104.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "HOT LIMIT[DX]",
+  "bpm": 138.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Dive into the ZONe[DX]",
+  "bpm": 160.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "ガチャガチャきゅ～と・ふぃぎゅ@メイト[SD]",
+  "bpm": 178.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "うまぴょい伝説[DX]",
+  "bpm": 170.0,
+  "level": "13.5",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "きゅびびびびずむ[DX]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ヤバい○○[SD]",
+  "bpm": 133.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "はんぶんこ[DX]",
+  "bpm": 124.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ようこそジャパリパークへ[SD]",
+  "bpm": 170.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "SAVIOR OF SONG[SD]",
+  "bpm": 192.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "でんでんぱっしょん[SD]",
+  "bpm": 186.0,
+  "level": "11.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ビックカメラのテーマソング[DX]",
+  "bpm": 160.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "インフェルノ[DX]",
+  "bpm": 185.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "RED[DX]",
+  "bpm": 168.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "あの世行きのバスに乗ってさらば。[DX]",
+  "bpm": 240.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "イチズレシピ[SD]",
+  "bpm": 170.0,
+  "level": "10.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "プラネタリウム・レヴュー[DX]",
+  "bpm": 170.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "naraku within[SD]",
+  "bpm": 130.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "LOSER[DX]",
+  "bpm": 121.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "シカ色デイズ[DX]",
+  "bpm": 183.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Daydream café[SD]",
+  "bpm": 150.0,
+  "level": "12.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "SUSHI食べたい feat.ソイソース[SD]",
+  "bpm": 135.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "veil[DX]",
+  "bpm": 150.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Overdose[DX]",
+  "bpm": 118.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "ZIGG-ZAGG[SD]",
+  "bpm": 138.0,
+  "level": "11.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ZIGG-ZAGG[SD]",
+  "bpm": 138.0,
+  "level": "12.5",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "猫猫的宇宙論[DX]",
+  "bpm": 134.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "サイバーサンダーサイダー[DX]",
+  "bpm": 145.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "バッド・ダンス・ホール[SD]",
+  "bpm": 152.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "39[SD]",
+  "bpm": 175.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "エンヴィーベイビー[DX]",
+  "bpm": 171.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "キャットラビング[DX]",
+  "bpm": 163.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "ECHO[SD]",
+  "bpm": 140.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "ジャガーノート[DX]",
+  "bpm": 190.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "EYE[DX]",
+  "bpm": 137.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ワンダーラスト[SD]",
+  "bpm": 230.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 5,
+  "total_chained": 15
+ },
+ {
+  "title": "幽霊東京[DX]",
+  "bpm": 124.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ずんだもんの朝食　〜目覚ましずんラップ〜[DX]",
+  "bpm": 260.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ノイローゼ[DX]",
+  "bpm": 200.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "右肩の蝶[SD]",
+  "bpm": 140.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "チュルリラ・チュルリラ・ダッダッダ！[SD]",
+  "bpm": 220.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "匿名M[DX]",
+  "bpm": 140.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "ネトゲ廃人シュプレヒコール[SD]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ハオ[DX]",
+  "bpm": 176.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "KILLER B[DX]",
+  "bpm": 130.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "デッドレッドガールズ[SD]",
+  "bpm": 230.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "on the rocks[DX]",
+  "bpm": 150.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "quiet room[DX]",
+  "bpm": 93.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "深海シティアンダーグラウンド[DX]",
+  "bpm": 170.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "お気に召すまま[SD]",
+  "bpm": 143.0,
+  "level": "13.0",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 6,
+  "total_chained": 18
+ },
+ {
+  "title": "ボッカデラベリタ[DX]",
+  "bpm": 170.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "ワールズエンド・ダンスホール[SD]",
+  "bpm": 171.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "赤心性：カマトト荒療治[SD]",
+  "bpm": 205.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "彗星ハネムーン[SD]",
+  "bpm": 145.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "ぽっぴっぽー[SD]",
+  "bpm": 150.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "メルティランドナイトメア[DX]",
+  "bpm": 140.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "共感覚おばけ[SD]",
+  "bpm": 184.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "フォニイ[DX]",
+  "bpm": 170.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "独りんぼエンヴィー[DX]",
+  "bpm": 132.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "のだ[DX]",
+  "bpm": 142.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "回る空うさぎ[DX]",
+  "bpm": 120.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "乙女解剖[DX]",
+  "bpm": 134.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "サイエンス[DX]",
+  "bpm": 188.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ノンブレス・オブリージュ[DX]",
+  "bpm": 148.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "WORLD'S END UMBRELLA[SD]",
+  "bpm": 180.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ライアーダンサー[DX]",
+  "bpm": 170.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "MIRA[DX]",
+  "bpm": 148.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "群青讃歌[DX]",
+  "bpm": 168.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ゴーゴー幽霊船[DX]",
+  "bpm": 180.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "セツナトリップ[SD]",
+  "bpm": 145.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "いーあるふぁんくらぶ[SD]",
+  "bpm": 145.0,
+  "level": "12.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "少女A[DX]",
+  "bpm": 130.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "スティールユー[DX]",
+  "bpm": 190.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "ストリーミングハート[SD]",
+  "bpm": 210.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Strobe♡Girl[DX]",
+  "bpm": 190.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "LOL -lots of laugh-[SD]",
+  "bpm": 138.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "しねばいいのに[SD]",
+  "bpm": 138.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "1000年生きてる[DX]",
+  "bpm": 100.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ヒビカセ[SD]",
+  "bpm": 140.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "needLe[DX]",
+  "bpm": 190.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "デッドマンズバラッド[DX]",
+  "bpm": 300.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Mr. Wonderland[SD]",
+  "bpm": 140.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "エイリアンエイリアン[SD]",
+  "bpm": 152.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ダブルラリアット[SD]",
+  "bpm": 138.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "バイオレンストリガー[DX]",
+  "bpm": 196.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "木彫り鯰と右肩ゾンビ[SD]",
+  "bpm": 150.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "セカイ[DX]",
+  "bpm": 133.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "カーニバルハッピー[DX]",
+  "bpm": 208.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ナイトメア☆パーティーナイト[SD]",
+  "bpm": 175.0,
+  "level": "12.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "幸せになれる隠しコマンドがあるらしい[SD]",
+  "bpm": 142.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "少女レイ[DX]",
+  "bpm": 150.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "ヘルシーエンド[SD]",
+  "bpm": 150.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "アスノヨゾラ哨戒班[DX]",
+  "bpm": 185.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "バグ[DX]",
+  "bpm": 186.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "ディカディズム[DX]",
+  "bpm": 124.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "I ♥[SD]",
+  "bpm": 132.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "神っぽいな[DX]",
+  "bpm": 142.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "アディショナルメモリー[DX]",
+  "bpm": 200.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "みくみくにしてあげる♪【してやんよ】[SD]",
+  "bpm": 160.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "magician's operation[SD]",
+  "bpm": 125.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "雨とペトラ[DX]",
+  "bpm": 195.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ラヴィ[DX]",
+  "bpm": 183.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ダーリンダンス[DX]",
+  "bpm": 153.0,
+  "level": "13.5",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "テレキャスタービーボーイ[DX]",
+  "bpm": 182.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "テレキャスタービーボーイ[DX]",
+  "bpm": 182.0,
+  "level": "12.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "終点[SD]",
+  "bpm": 222.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "お呪い[DX]",
+  "bpm": 115.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "にっこり^^調査隊のテーマ[DX]",
+  "bpm": 180.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "どういうことなの！？[SD]",
+  "bpm": 175.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "毒占欲[SD]",
+  "bpm": 117.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "白ゆき[SD]",
+  "bpm": 210.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "アルカリレットウセイ[SD]",
+  "bpm": 158.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "立ち入り禁止[SD]",
+  "bpm": 160.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "名探偵連続殺人事件[SD]",
+  "bpm": 140.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "アンハッピーリフレイン[SD]",
+  "bpm": 205.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Prismatic[DX]",
+  "bpm": 180.0,
+  "level": "12.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "YU-MU[SD]",
+  "bpm": 160.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "神々が恋した幻想郷[DX]",
+  "bpm": 155.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "進め！イッスン軍団 -Rebellion of the Dwarfs-[SD]",
+  "bpm": 172.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "人間が大好きなこわれた妖怪の唄[DX]",
+  "bpm": 55.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "White Traveling Girl[SD]",
+  "bpm": 154.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 8,
+  "total_chained": 24
+ },
+ {
+  "title": "Destiny Runner[DX]",
+  "bpm": 190.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "少女幻葬戦慄曲 ～ Necro Fantasia[SD]",
+  "bpm": 182.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 5,
+  "total_chained": 15
+ },
+ {
+  "title": "げきオコスティックファイナリアリティぷんぷんマスタースパーク[DX]",
+  "bpm": 200.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ナイト・オブ・ナイツ[SD]",
+  "bpm": 180.0,
+  "level": "14.4",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Help me, ERINNNNNN!!（Band ver.）[SD]",
+  "bpm": 183.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ひれ伏せ愚民どもっ！[SD]",
+  "bpm": 180.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "幽闇に目醒めしは[SD]",
+  "bpm": 120.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "宿題が終わらないっ！[SD]",
+  "bpm": 180.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 5,
+  "total_chained": 15
+ },
+ {
+  "title": "紅星ミゼラブル～廃憶編[DX]",
+  "bpm": 160.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "月に叢雲華に風[DX]",
+  "bpm": 160.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "幻想のサテライト[DX]",
+  "bpm": 230.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 6,
+  "total_chained": 18
+ },
+ {
+  "title": "インターネットサバイバー[DX]",
+  "bpm": 172.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "究極焼肉レストラン！お燐の地獄亭！[SD]",
+  "bpm": 185.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "INFINITE WORLD[SD]",
+  "bpm": 167.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "魔理沙は大変なものを盗んでいきました[SD]",
+  "bpm": 170.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Cosmic Magic Shooter[SD]",
+  "bpm": 163.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Witches night[DX]",
+  "bpm": 154.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "紅に染まる恋の花[DX]",
+  "bpm": 140.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "エピクロスの虹はもう見えない[SD]",
+  "bpm": 155.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "最終鬼畜妹フランドール・S[SD]",
+  "bpm": 200.0,
+  "level": "12.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ウサテイ[SD]",
+  "bpm": 190.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "隠然[SD]",
+  "bpm": 210.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 5,
+  "total_chained": 15
+ },
+ {
+  "title": "スカーレット警察のゲットーパトロール24時[DX]",
+  "bpm": 160.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "囲い無き世は一期の月影[SD]",
+  "bpm": 172.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "Bad Apple!! feat.nomico (Tetsuya Komuro Remix)[DX]",
+  "bpm": 135.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ケロ⑨destiny[DX]",
+  "bpm": 172.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "物凄いヴァイブスで魔理沙が物凄いラップ[DX]",
+  "bpm": 173.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "サドマミホリック[SD]",
+  "bpm": 200.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "患部で止まってすぐ溶ける～狂気の優曇華院[SD]",
+  "bpm": 200.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Scream out! -maimai SONIC WASHER Edit-[DX]",
+  "bpm": 174.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ネクロファンタジア～Arr.Demetori[SD]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "チルノのパーフェクトさんすう教室　⑨周年バージョン[SD]",
+  "bpm": 175.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "無間嫉妬劇場『666』[DX]",
+  "bpm": 108.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Spring of Dreams[DX]",
+  "bpm": 153.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "有頂天ドリーマーズ[DX]",
+  "bpm": 188.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "We Are Us[DX]",
+  "bpm": 145.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Tidal Wave[DX]",
+  "bpm": 175.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "We Gonna Journey[SD]",
+  "bpm": 160.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "はちみつアドベンチャー[DX]",
+  "bpm": 160.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "サウンドプレイヤー[DX]",
+  "bpm": 143.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "コスモポップファンクラブ[DX]",
+  "bpm": 129.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Counselor[SD]",
+  "bpm": 135.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 11,
+  "total_chained": 33
+ },
+ {
+  "title": "最っ高のエンタメだ!![DX]",
+  "bpm": 276.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "レーイレーイ[DX]",
+  "bpm": 188.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2[DX]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Splash Dance!![DX]",
+  "bpm": 155.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "My Dearest Song[SD]",
+  "bpm": 145.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "サヨナラフリーウェイ[DX]",
+  "bpm": 170.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Kattobi KEIKYU Rider[SD]",
+  "bpm": 220.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "LAMIA[DX]",
+  "bpm": 199.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "猛進ソリストライフ！[SD]",
+  "bpm": 189.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "STARTLINER[DX]",
+  "bpm": 135.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "Y.Y.Y.計画!!!![DX]",
+  "bpm": 186.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "R'N'R Monsta[DX]",
+  "bpm": 220.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "オーケー？　オーライ！[DX]",
+  "bpm": 150.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "あねぺったん[SD]",
+  "bpm": 180.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Baqeela[DX]",
+  "bpm": 130.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 5,
+  "total_chained": 15
+ },
+ {
+  "title": "Climax[DX]",
+  "bpm": 190.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Radiance[DX]",
+  "bpm": 155.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "フォルテシモBELL[SD]",
+  "bpm": 121.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Snow Colored Score[DX]",
+  "bpm": 164.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "宿星審判[DX]",
+  "bpm": 189.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "単一指向性オーバーブルーム[DX]",
+  "bpm": 158.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "エータ・ベータ・イータ[DX]",
+  "bpm": 186.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "WE'RE BACK!![DX]",
+  "bpm": 185.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "TRUST[SD]",
+  "bpm": 190.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "MAGNETAR GIRL[DX]",
+  "bpm": 170.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "猫祭り[SD]",
+  "bpm": 160.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "World Vanquisher[SD]",
+  "bpm": 170.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Ring[DX]",
+  "bpm": 132.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "otorii INNOVATED -[i]3-[DX]",
+  "bpm": 210.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Good Bye, Mr. Jack[SD]",
+  "bpm": 180.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "End Time[SD]",
+  "bpm": 180.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Sunday Night feat Kanata.N[DX]",
+  "bpm": 143.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "いっぱい食べる君が好きだよ[DX]",
+  "bpm": 224.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "Last Brave ～ Go to zero[SD]",
+  "bpm": 132.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 5,
+  "total_chained": 15
+ },
+ {
+  "title": "ファンタジーゾーン OPA-OPA! -GMT remix-[SD]",
+  "bpm": 142.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 5,
+  "total_chained": 15
+ },
+ {
+  "title": "ULTRA B+K[SD]",
+  "bpm": 175.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "ヒステリックナイトガール[DX]",
+  "bpm": 126.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "キミとボクのミライ[SD]",
+  "bpm": 178.0,
+  "level": "12.7",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "I’m Here (feat. Merry Kirk-Holmes)[DX]",
+  "bpm": 187.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "円舞曲、君に[SD]",
+  "bpm": 128.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Altale[SD]",
+  "bpm": 90.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 11,
+  "total_chained": 33
+ },
+ {
+  "title": "時空を超えて久しぶり！[SD]",
+  "bpm": 145.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Garden Of The Dragon[SD]",
+  "bpm": 120.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "HYP3RTRIBE[DX]",
+  "bpm": 190.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Destined Marionette[DX]",
+  "bpm": 186.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "CO5M1C R4ILR0AD[DX]",
+  "bpm": 155.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Trust[DX]",
+  "bpm": 155.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "かせげ！ジャリンコヒーロー[SD]",
+  "bpm": 186.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Shooting Shower～DANCE TIME(シンディ)～[DX]",
+  "bpm": 149.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "DADDY MULK -Groove remix-[SD]",
+  "bpm": 154.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "檄！帝国華撃団(改)[SD]",
+  "bpm": 144.0,
+  "level": "13.1",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "超絶！Superlative[SD]",
+  "bpm": 200.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "Save This World νMIX[SD]",
+  "bpm": 143.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Rush-More[DX]",
+  "bpm": 160.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ベースラインやってる？笑[DX]",
+  "bpm": 128.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "felys -final remix-[DX]",
+  "bpm": 180.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "田中[DX]",
+  "bpm": 186.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Overjoy ★ OVERDOSE!![DX]",
+  "bpm": 143.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "tiny tales continue[DX]",
+  "bpm": 188.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Aegleseeker[DX]",
+  "bpm": 234.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Halcyon[SD]",
+  "bpm": 191.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "Big Daddy[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Halfway(>∀<)[DX]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "電車で電車でOPA!OPA!OPA! -GMT mashup-[SD]",
+  "bpm": 134.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 6,
+  "total_chained": 18
+ },
+ {
+  "title": "MORNINGLOOM[DX]",
+  "bpm": 102.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "c.s.q.n.[DX]",
+  "bpm": 174.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "お願い！コンコンお稲荷さま[DX]",
+  "bpm": 175.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Lost Princess[SD]",
+  "bpm": 150.0,
+  "level": "11.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "Cthugha[DX]",
+  "bpm": 213.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "L4TS:2018 (feat. あひる & KTA)[SD]",
+  "bpm": 190.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "MAGENTA POTION[DX]",
+  "bpm": 150.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "サンバランド[DX]",
+  "bpm": 132.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Ignite Infinity[SD]",
+  "bpm": 160.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "神威[DX]",
+  "bpm": 210.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Unwelcome School[DX]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "BATTLE NO.1[DX]",
+  "bpm": 200.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Ether Strike[DX]",
+  "bpm": 156.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Brain Power[SD]",
+  "bpm": 170.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Empire of Winter[DX]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ヒミツCULT[DX]",
+  "bpm": 190.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "サンバランド[SD]",
+  "bpm": 132.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 7,
+  "total_chained": 21
+ },
+ {
+  "title": "JACKY [Remix][SD]",
+  "bpm": 135.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ALiVE[DX]",
+  "bpm": 170.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "Beat Of Mind[SD]",
+  "bpm": 140.0,
+  "level": "14.2",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "VeRForTe αRtE:VEiN[DX]",
+  "bpm": 190.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "AMAZING MIGHTYYYY!!!![SD]",
+  "bpm": 185.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "超熊猫的周遊記（ワンダーパンダートラベラー）[DX]",
+  "bpm": 121.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "enchanted wanderer[DX]",
+  "bpm": 102.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Horoscope Express[DX]",
+  "bpm": 236.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Oshama Scramble![DX]",
+  "bpm": 190.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "HAGAKIRI[DX]",
+  "bpm": 172.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "トリアージ[DX]",
+  "bpm": 180.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Secret Sleuth[DX]",
+  "bpm": 288.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Rainbow Rush Story[DX]",
+  "bpm": 200.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "GIGANTØMAKHIA[DX]",
+  "bpm": 190.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Blows Up Everything[DX]",
+  "bpm": 215.0,
+  "level": "14.3",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "The Cursed Doll[DX]",
+  "bpm": 131.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "The Great Banquet[DX]",
+  "bpm": 170.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Paradisoda[DX]",
+  "bpm": 135.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Monochrome Rainbow[DX]",
+  "bpm": 182.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "オトヒメモリー☆ウタゲーション[SD]",
+  "bpm": 140.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "プリズム△▽リズム[DX]",
+  "bpm": 155.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "Ref:rain (for 7th Heaven)[DX]",
+  "bpm": 188.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "系ぎて[DX]",
+  "bpm": 88.0,
+  "level": "15.0",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Xaleid◆scopiX[DX]",
+  "bpm": 180.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "天蓋[DX]",
+  "bpm": 178.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "プリズム△▽リズム[SD]",
+  "bpm": 155.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Beginning together![DX]",
+  "bpm": 142.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Round Round Spinning Around[DX]",
+  "bpm": 175.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "花と、雪と、ドラムンベース。[SD]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Ultranova[SD]",
+  "bpm": 156.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Alea jacta est![SD]",
+  "bpm": 162.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Alea jacta est![SD]",
+  "bpm": 162.0,
+  "level": "14.8",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "PANDORA PARADOXXX[SD]",
+  "bpm": 150.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "JUMPIN' JUMPIN'[SD]",
+  "bpm": 163.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 5,
+  "total_chained": 15
+ },
+ {
+  "title": "MAXRAGE[DX]",
+  "bpm": 222.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "DEVOTION[DX]",
+  "bpm": 167.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "高気圧ねこロック[SD]",
+  "bpm": 260.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Lividi[SD]",
+  "bpm": 191.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "My My My[DX]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Mare Maris[SD]",
+  "bpm": 150.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "FFT[SD]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "蒼穹舞楽[DX]",
+  "bpm": 195.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "アージェントシンメトリー[SD]",
+  "bpm": 172.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "シスターシスター[DX]",
+  "bpm": 150.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "氷滅の135小節[DX]",
+  "bpm": 205.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "概して過誤[DX]",
+  "bpm": 170.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "躯樹の墓守[DX]",
+  "bpm": 211.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ヤミツキ[DX]",
+  "bpm": 208.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Axeria[SD]",
+  "bpm": 193.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "ヱデン[DX]",
+  "bpm": 137.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Trick tear[DX]",
+  "bpm": 222.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "ぐるぐるWASH！コインランドリー・ディスコ[SD]",
+  "bpm": 132.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Moon of Noon[SD]",
+  "bpm": 200.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "宙天[DX]",
+  "bpm": 125.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "一か罰[DX]",
+  "bpm": 196.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "一か罰[DX]",
+  "bpm": 196.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Excalibur ～Revived resolution～[SD]",
+  "bpm": 200.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "炎歌 -ほむらうた-[DX]",
+  "bpm": 108.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "噛み係[DX]",
+  "bpm": 148.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "スリップフリップ[SD]",
+  "bpm": 143.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "華の集落、秋のお届け[DX]",
+  "bpm": 165.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "フタタビ[DX]",
+  "bpm": 136.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "相思創愛[SD]",
+  "bpm": 195.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Tricolor⁂circuS[DX]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "タカハせ！名人マン[SD]",
+  "bpm": 150.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "星めぐり、果ての君へ。[DX]",
+  "bpm": 175.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "WiPE OUT MEMORIES[DX]",
+  "bpm": 210.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Starry Colors[DX]",
+  "bpm": 177.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "パラドクスイヴ[DX]",
+  "bpm": 180.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "でらっくmaimai♪てんてこまい![DX]",
+  "bpm": 178.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "天国と地獄 -言ノ葉リンネ-[SD]",
+  "bpm": 138.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "QuiQ[DX]",
+  "bpm": 120.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 4,
+  "total_chained": 12
+ },
+ {
+  "title": "悪戯[SD]",
+  "bpm": 140.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "CITRUS MONSTER[SD]",
+  "bpm": 220.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "GRÄNDIR[DX]",
+  "bpm": 170.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "泣き虫O'clock[SD]",
+  "bpm": 152.0,
+  "level": "12.9",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "星見草[DX]",
+  "bpm": 164.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Fragrance[SD]",
+  "bpm": 180.0,
+  "level": "14.6",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 9,
+  "total_chained": 27
+ },
+ {
+  "title": "遺伝子レベル∞スパイラル[DX]",
+  "bpm": 164.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Magical Paradox[DX]",
+  "bpm": 192.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Beat of getting entangled[SD]",
+  "bpm": 140.0,
+  "level": "14.5",
+  "diff_name": "Re:Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Raven Emperor[DX]",
+  "bpm": 205.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "FEEL the BEATS[SD]",
+  "bpm": 166.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Life Feels Good[SD]",
+  "bpm": 180.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "ほしぞらスペクタクル[DX]",
+  "bpm": 200.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Cryptarithm[DX]",
+  "bpm": 175.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Geranium[DX]",
+  "bpm": 150.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 2,
+  "total_chained": 6
+ },
+ {
+  "title": "Panopticon[SD]",
+  "bpm": 110.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "にゃーにゃー冒険譚[DX]",
+  "bpm": 188.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ },
+ {
+  "title": "connecting with you[SD]",
+  "bpm": 155.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 1,
+  "total_chained": 3
+ },
+ {
+  "title": "Åntinomiε[DX]",
+  "bpm": 242.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_chain": 3,
+  "sections": 3,
+  "total_chained": 9
+ }
+]
