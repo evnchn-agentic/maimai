@@ -1,0 +1,6505 @@
+[
+ {
+  "title": "[狂]タカハせ！名人マン[宴]",
+  "bpm": 150.0,
+  "level": "14.7?",
+  "diff_name": "Utage",
+  "longest_jack": 428
+ },
+ {
+  "title": "HERA[SD]",
+  "bpm": 185.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 65
+ },
+ {
+  "title": "HAGAKIRI[DX]",
+  "bpm": 172.0,
+  "level": "12.5",
+  "diff_name": "Expert",
+  "longest_jack": 62
+ },
+ {
+  "title": "エータ・ベータ・イータ[DX]",
+  "bpm": 186.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_jack": 52
+ },
+ {
+  "title": "タカハせ！名人マン[SD]",
+  "bpm": 150.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_jack": 49
+ },
+ {
+  "title": "WiPE OUT MEMORIES[DX]",
+  "bpm": 210.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_jack": 49
+ },
+ {
+  "title": "[耐]Space Harrier Main Theme [Reborn][宴]",
+  "bpm": 125.0,
+  "level": "14.7?",
+  "diff_name": "Utage",
+  "longest_jack": 48
+ },
+ {
+  "title": "[協]青春コンプレックス[宴]",
+  "bpm": 190.0,
+  "level": "14.7?",
+  "diff_name": "Basic",
+  "longest_jack": 32
+ },
+ {
+  "title": "ワンダーラスト[SD]",
+  "bpm": 230.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 32
+ },
+ {
+  "title": "康莊大道[DX]",
+  "bpm": 208.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_jack": 31
+ },
+ {
+  "title": "[爆]Love's Theme of BADASS ～バッド・アス 愛のテーマ～[宴]",
+  "bpm": 202.0,
+  "level": "14.0?",
+  "diff_name": "Utage",
+  "longest_jack": 27
+ },
+ {
+  "title": "Love's Theme of BADASS ～バッド・アス 愛のテーマ～[DX]",
+  "bpm": 202.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_jack": 27
+ },
+ {
+  "title": "敗北の少年[SD]",
+  "bpm": 185.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 25
+ },
+ {
+  "title": "もうみんなしねばいいのに[SD]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 25
+ },
+ {
+  "title": "[息]ノンブレス・オブリージュ[宴]",
+  "bpm": 148.0,
+  "level": "13.7?",
+  "diff_name": "Utage",
+  "longest_jack": 24
+ },
+ {
+  "title": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～[宴]",
+  "bpm": 144.0,
+  "level": "13.0?",
+  "diff_name": "Basic",
+  "longest_jack": 24
+ },
+ {
+  "title": "蜘蛛の糸[DX]",
+  "bpm": 180.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 24
+ },
+ {
+  "title": "[宴]Oshama Scramble! (Cranky Remix)[宴]",
+  "bpm": 190.0,
+  "level": "14.7?",
+  "diff_name": "Utage",
+  "longest_jack": 20
+ },
+ {
+  "title": "TiamaT:F minor[SD]",
+  "bpm": 215.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_jack": 20
+ },
+ {
+  "title": "ozma[DX]",
+  "bpm": 220.0,
+  "level": "12.9",
+  "diff_name": "Expert",
+  "longest_jack": 17
+ },
+ {
+  "title": "系ぎて[DX]",
+  "bpm": 88.0,
+  "level": "15.0",
+  "diff_name": "Re:Master",
+  "longest_jack": 17
+ },
+ {
+  "title": "KHYMΞXΛ[DX]",
+  "bpm": 220.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_jack": 17
+ },
+ {
+  "title": "カゲロウデイズ[SD]",
+  "bpm": 200.0,
+  "level": "14.1",
+  "diff_name": "Re:Master",
+  "longest_jack": 16
+ },
+ {
+  "title": "つづみぐさ[DX]",
+  "bpm": 170.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_jack": 16
+ },
+ {
+  "title": "FLUFFY FLASH[DX]",
+  "bpm": 252.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 16
+ },
+ {
+  "title": "Reach For The Stars[SD]",
+  "bpm": 203.0,
+  "level": "10.9",
+  "diff_name": "Expert",
+  "longest_jack": 16
+ },
+ {
+  "title": "Dreadnought[DX]",
+  "bpm": 192.0,
+  "level": "12.6",
+  "diff_name": "Expert",
+  "longest_jack": 16
+ },
+ {
+  "title": "神威[DX]",
+  "bpm": 210.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_jack": 16
+ },
+ {
+  "title": "GEMINI -M-[SD]",
+  "bpm": 180.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 16
+ },
+ {
+  "title": "QZKago Requiem[SD]",
+  "bpm": 257.0,
+  "level": "13.0",
+  "diff_name": "Expert",
+  "longest_jack": 16
+ },
+ {
+  "title": "分からない[SD]",
+  "bpm": 200.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 16
+ },
+ {
+  "title": "Garakuta Doll Play[SD]",
+  "bpm": 256.0,
+  "level": "13.1",
+  "diff_name": "Expert",
+  "longest_jack": 16
+ },
+ {
+  "title": "アイデンティティ[SD]",
+  "bpm": 140.0,
+  "level": "9.8",
+  "diff_name": "Master",
+  "longest_jack": 15
+ },
+ {
+  "title": "Drivessover[DX]",
+  "bpm": 182.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 15
+ },
+ {
+  "title": "Blows Up Everything[DX]",
+  "bpm": 215.0,
+  "level": "14.3",
+  "diff_name": "Re:Master",
+  "longest_jack": 15
+ },
+ {
+  "title": "チエルカ／エソテリカ[DX]",
+  "bpm": 205.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 15
+ },
+ {
+  "title": "ヒバナ[SD]",
+  "bpm": 200.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "longest_jack": 14
+ },
+ {
+  "title": "QuiQ[DX]",
+  "bpm": 120.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 14
+ },
+ {
+  "title": "初音ミクの消失[DX]",
+  "bpm": 240.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_jack": 13
+ },
+ {
+  "title": "片想いサンバ[SD]",
+  "bpm": 150.0,
+  "level": "11.7",
+  "diff_name": "Expert",
+  "longest_jack": 13
+ },
+ {
+  "title": "スカーレット警察のゲットーパトロール24時[DX]",
+  "bpm": 160.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_jack": 13
+ },
+ {
+  "title": "Unwelcome School[DX]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "longest_jack": 13
+ },
+ {
+  "title": "群青シグナル[DX]",
+  "bpm": 206.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 13
+ },
+ {
+  "title": "ENJOY POLIS[SD]",
+  "bpm": 220.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 13
+ },
+ {
+  "title": "VIIIbit Explorer[SD]",
+  "bpm": 188.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_jack": 13
+ },
+ {
+  "title": "World's end BLACKBOX[DX]",
+  "bpm": 205.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "longest_jack": 13
+ },
+ {
+  "title": "タカハせ！名人マン[SD]",
+  "bpm": 150.0,
+  "level": "9.8",
+  "diff_name": "Expert",
+  "longest_jack": 13
+ },
+ {
+  "title": "UniTas[DX]",
+  "bpm": 205.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 13
+ },
+ {
+  "title": "渦状銀河のシンフォニエッタ[DX]",
+  "bpm": 238.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_jack": 13
+ },
+ {
+  "title": "患部で止まってすぐ溶ける～狂気の優曇華院[DX]",
+  "bpm": 200.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_jack": 12
+ },
+ {
+  "title": "脳天直撃[DX]",
+  "bpm": 145.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_jack": 12
+ },
+ {
+  "title": "New York Back Raise[DX]",
+  "bpm": 160.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 12
+ },
+ {
+  "title": "雷切-RAIKIRI-[SD]",
+  "bpm": 165.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_jack": 12
+ },
+ {
+  "title": "チューリングの跡[DX]",
+  "bpm": 180.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_jack": 12
+ },
+ {
+  "title": "ずんだもんの朝食　〜目覚ましずんラップ〜[DX]",
+  "bpm": 260.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_jack": 11
+ },
+ {
+  "title": "モ°ルモ°ル (MZK Skippin' Remix)[DX]",
+  "bpm": 136.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 11
+ },
+ {
+  "title": "Latent Kingdom[DX]",
+  "bpm": 201.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "longest_jack": 11
+ },
+ {
+  "title": "[音]ラビットホール[宴]",
+  "bpm": 173.0,
+  "level": "13.7?",
+  "diff_name": "Utage",
+  "longest_jack": 10
+ },
+ {
+  "title": "God knows...[DX]",
+  "bpm": 150.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "longest_jack": 10
+ },
+ {
+  "title": "エンドマークに希望と涙を添えて[SD]",
+  "bpm": 257.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 10
+ },
+ {
+  "title": "DETARAME ROCK&ROLL THEORY[SD]",
+  "bpm": 140.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 10
+ },
+ {
+  "title": "Make Up Your World feat. キョンシーのCiちゃん & らっぷびと[DX]",
+  "bpm": 180.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 10
+ },
+ {
+  "title": "田中[DX]",
+  "bpm": 186.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 10
+ },
+ {
+  "title": "極圏[SD]",
+  "bpm": 207.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 10
+ },
+ {
+  "title": "バーチャルダム　ネーション[DX]",
+  "bpm": 210.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 10
+ },
+ {
+  "title": "バーチャルダム　ネーション[DX]",
+  "bpm": 210.0,
+  "level": "14.4",
+  "diff_name": "Re:Master",
+  "longest_jack": 10
+ },
+ {
+  "title": "Heavenly Blast[DX]",
+  "bpm": 234.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_jack": 10
+ },
+ {
+  "title": "Beginning together![DX]",
+  "bpm": 142.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 10
+ },
+ {
+  "title": "シアトリカル・ケース[DX]",
+  "bpm": 150.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 10
+ },
+ {
+  "title": "Garakuta Doll Play[SD]",
+  "bpm": 256.0,
+  "level": "14.8",
+  "diff_name": "Re:Master",
+  "longest_jack": 10
+ },
+ {
+  "title": "[某]Garakuta Doll Play[宴]",
+  "bpm": 256.0,
+  "level": "14.7?",
+  "diff_name": "Utage",
+  "longest_jack": 9
+ },
+ {
+  "title": "[宴]DRAGONLADY[宴]",
+  "bpm": 150.0,
+  "level": "14.6?",
+  "diff_name": "Utage",
+  "longest_jack": 9
+ },
+ {
+  "title": "【東方ニコカラ】秘神マターラ feat.魂音泉【IOSYS】[SD]",
+  "bpm": 168.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 9
+ },
+ {
+  "title": "Apollo[DX]",
+  "bpm": 339.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_jack": 9
+ },
+ {
+  "title": "ニルヴの心臓[DX]",
+  "bpm": 256.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 9
+ },
+ {
+  "title": "GOODMEN[SD]",
+  "bpm": 175.0,
+  "level": "11.7",
+  "diff_name": "Expert",
+  "longest_jack": 9
+ },
+ {
+  "title": "Arty Party[DX]",
+  "bpm": 180.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 9
+ },
+ {
+  "title": "MAKE IT FUNKY NOW[DX]",
+  "bpm": 146.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 9
+ },
+ {
+  "title": "energy trixxx[DX]",
+  "bpm": 160.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 9
+ },
+ {
+  "title": "AMAZING MIGHTYYYY!!!![SD]",
+  "bpm": 185.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_jack": 9
+ },
+ {
+  "title": "とびだせ！TO THE COSMIC!![DX]",
+  "bpm": 185.0,
+  "level": "12.5",
+  "diff_name": "Expert",
+  "longest_jack": 9
+ },
+ {
+  "title": "とびだせ！TO THE COSMIC!![DX]",
+  "bpm": 185.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 9
+ },
+ {
+  "title": "封焔の135秒[DX]",
+  "bpm": 200.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_jack": 9
+ },
+ {
+  "title": "MAXRAGE[DX]",
+  "bpm": 222.0,
+  "level": "14.2",
+  "diff_name": "Re:Master",
+  "longest_jack": 9
+ },
+ {
+  "title": "ジングルベル[SD]",
+  "bpm": 100.0,
+  "level": "14.2",
+  "diff_name": "Re:Master",
+  "longest_jack": 9
+ },
+ {
+  "title": "Alcyone[DX]",
+  "bpm": 176.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 9
+ },
+ {
+  "title": "Our Wrenally[SD]",
+  "bpm": 105.0,
+  "level": "13.0",
+  "diff_name": "Expert",
+  "longest_jack": 9
+ },
+ {
+  "title": "CITRUS MONSTER[SD]",
+  "bpm": 220.0,
+  "level": "12.9",
+  "diff_name": "Expert",
+  "longest_jack": 9
+ },
+ {
+  "title": "[面]好きな惣菜発表ドラゴン[宴]",
+  "bpm": 160.0,
+  "level": "14.0?",
+  "diff_name": "Utage",
+  "longest_jack": 8
+ },
+ {
+  "title": "[協]エイリアンエイリアン[宴]",
+  "bpm": 152.0,
+  "level": "13.0?",
+  "diff_name": "Basic",
+  "longest_jack": 8
+ },
+ {
+  "title": "[協]エイリアンエイリアン[宴]",
+  "bpm": 152.0,
+  "level": "13.0?",
+  "diff_name": "Adv",
+  "longest_jack": 8
+ },
+ {
+  "title": "[右]The wheel to the right[宴]",
+  "bpm": 200.0,
+  "level": "14.7?",
+  "diff_name": "Utage",
+  "longest_jack": 8
+ },
+ {
+  "title": "[は]Garakuta Doll Play[宴]",
+  "bpm": 256.0,
+  "level": "14.0?",
+  "diff_name": "Utage",
+  "longest_jack": 8
+ },
+ {
+  "title": "[協]Ultimate taste[宴]",
+  "bpm": 200.0,
+  "level": "13.7?",
+  "diff_name": "Basic",
+  "longest_jack": 8
+ },
+ {
+  "title": "[協]Ultimate taste[宴]",
+  "bpm": 200.0,
+  "level": "13.7?",
+  "diff_name": "Adv",
+  "longest_jack": 8
+ },
+ {
+  "title": "あつすぎの歌[DX]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "ヤバい○○[SD]",
+  "bpm": 133.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "イカサマライフゲイム[DX]",
+  "bpm": 200.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "ゆっくりしていってね！！！[SD]",
+  "bpm": 221.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "まにまに[DX]",
+  "bpm": 174.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "デッドマンズバラッド[DX]",
+  "bpm": 300.0,
+  "level": "12.5",
+  "diff_name": "Expert",
+  "longest_jack": 8
+ },
+ {
+  "title": "デッドマンズバラッド[DX]",
+  "bpm": 300.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "Armageddon[DX]",
+  "bpm": 210.0,
+  "level": "12.9",
+  "diff_name": "Expert",
+  "longest_jack": 8
+ },
+ {
+  "title": "エンドマークに希望と涙を添えて[SD]",
+  "bpm": 257.0,
+  "level": "12.7",
+  "diff_name": "Expert",
+  "longest_jack": 8
+ },
+ {
+  "title": "立川浄穢捕物帳[DX]",
+  "bpm": 210.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "BOUNCE & DANCE[DX]",
+  "bpm": 135.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "ハードコア・シンドローム[DX]",
+  "bpm": 180.0,
+  "level": "12.5",
+  "diff_name": "Expert",
+  "longest_jack": 8
+ },
+ {
+  "title": "GEOMETRIC DANCE[DX]",
+  "bpm": 150.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "エータ・ベータ・イータ[DX]",
+  "bpm": 186.0,
+  "level": "12.4",
+  "diff_name": "Expert",
+  "longest_jack": 8
+ },
+ {
+  "title": "Maxi[SD]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "竹[DX]",
+  "bpm": 150.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "B.M.S.[SD]",
+  "bpm": 200.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "Catch The Future[SD]",
+  "bpm": 210.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "魔法少女になるしかねぇ[SD]",
+  "bpm": 165.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "Let you DIVE![DX]",
+  "bpm": 185.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "NULCTRL[DX]",
+  "bpm": 100.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "YA･DA･YO [Reborn][SD]",
+  "bpm": 105.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "Signature[SD]",
+  "bpm": 128.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "Yorugao[DX]",
+  "bpm": 182.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "the EmpErroR[SD]",
+  "bpm": 240.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "HAGAKIRI[DX]",
+  "bpm": 172.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "康莊大道[DX]",
+  "bpm": 208.0,
+  "level": "13.2",
+  "diff_name": "Expert",
+  "longest_jack": 8
+ },
+ {
+  "title": "Energizing Flame[DX]",
+  "bpm": 201.0,
+  "level": "12.8",
+  "diff_name": "Expert",
+  "longest_jack": 8
+ },
+ {
+  "title": "アポカリプスに反逆の焔を焚べろ[DX]",
+  "bpm": 222.0,
+  "level": "12.5",
+  "diff_name": "Expert",
+  "longest_jack": 8
+ },
+ {
+  "title": "アポカリプスに反逆の焔を焚べろ[DX]",
+  "bpm": 222.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "Xaleid◆scopiX (2)[DX]",
+  "bpm": 180.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "HECATONCHEIR[DX]",
+  "bpm": 155.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "Xaleid◆scopiX[DX]",
+  "bpm": 180.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "Xaleid◆scopiX[DX]",
+  "bpm": 180.0,
+  "level": "15.0",
+  "diff_name": "Re:Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "oboro[DX]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "Aiolos[SD]",
+  "bpm": 205.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "咲キ誇レ常世ノ華[SD]",
+  "bpm": 170.0,
+  "level": "11.8",
+  "diff_name": "Expert",
+  "longest_jack": 8
+ },
+ {
+  "title": "Technicians High[DX]",
+  "bpm": 165.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "Amereistr[DX]",
+  "bpm": 147.0,
+  "level": "12.5",
+  "diff_name": "Expert",
+  "longest_jack": 8
+ },
+ {
+  "title": "Moon of Noon[SD]",
+  "bpm": 200.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "雷切-RAIKIRI-[SD]",
+  "bpm": 165.0,
+  "level": "14.8",
+  "diff_name": "Re:Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "ツムギボシ[DX]",
+  "bpm": 190.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "Technicians High[SD]",
+  "bpm": 165.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "sølips[DX]",
+  "bpm": 199.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "longest_jack": 8
+ },
+ {
+  "title": "[協]青春コンプレックス[宴]",
+  "bpm": 190.0,
+  "level": "14.7?",
+  "diff_name": "Adv",
+  "longest_jack": 7
+ },
+ {
+  "title": "[星]ほしぞらスペクタクル[宴]",
+  "bpm": 200.0,
+  "level": "14.0?",
+  "diff_name": "Utage",
+  "longest_jack": 7
+ },
+ {
+  "title": "[J]Garakuta Doll Play[宴]",
+  "bpm": 256.0,
+  "level": "14.0?",
+  "diff_name": "Utage",
+  "longest_jack": 7
+ },
+ {
+  "title": "[片]神々が恋した幻想郷[宴]",
+  "bpm": 155.0,
+  "level": "14.0?",
+  "diff_name": "Utage",
+  "longest_jack": 7
+ },
+ {
+  "title": "[藏]Reach For The Stars[宴]",
+  "bpm": 203.0,
+  "level": "14.0?",
+  "diff_name": "Utage",
+  "longest_jack": 7
+ },
+ {
+  "title": "ジンギスカン[SD]",
+  "bpm": 150.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "Can Do[SD]",
+  "bpm": 200.0,
+  "level": "9.0",
+  "diff_name": "Expert",
+  "longest_jack": 7
+ },
+ {
+  "title": "感情ディシーブ[DX]",
+  "bpm": 175.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "ワンダーラスト[SD]",
+  "bpm": 230.0,
+  "level": "11.8",
+  "diff_name": "Expert",
+  "longest_jack": 7
+ },
+ {
+  "title": "リンカーネイション[SD]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "ハオ[DX]",
+  "bpm": 176.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "深海シティアンダーグラウンド[DX]",
+  "bpm": 170.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "彗星ハネムーン[SD]",
+  "bpm": 145.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "永遠にゲームで対戦したいキリタン[DX]",
+  "bpm": 126.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "深海少女[DX]",
+  "bpm": 137.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "初音ミクの激唱[SD]",
+  "bpm": 200.0,
+  "level": "7.0",
+  "diff_name": "Basic",
+  "longest_jack": 7
+ },
+ {
+  "title": "バカ通信[DX]",
+  "bpm": 240.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "命に嫌われている[DX]",
+  "bpm": 200.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "ストリーミングハート[SD]",
+  "bpm": 210.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "1000年生きてる[DX]",
+  "bpm": 100.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "初音ミクの消失[SD]",
+  "bpm": 240.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 7
+ },
+ {
+  "title": "初音ミクの消失[SD]",
+  "bpm": 240.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "＊ハロー、プラネット。[DX]",
+  "bpm": 150.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "表裏一体[DX]",
+  "bpm": 150.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "スカーレット警察のゲットーパトロール24時[DX]",
+  "bpm": 160.0,
+  "level": "9.5",
+  "diff_name": "Expert",
+  "longest_jack": 7
+ },
+ {
+  "title": "患部で止まってすぐ溶ける～狂気の優曇華院[SD]",
+  "bpm": 200.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "宛城、炎上！！[DX]",
+  "bpm": 175.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 7
+ },
+ {
+  "title": "竹[DX]",
+  "bpm": 150.0,
+  "level": "12.0",
+  "diff_name": "Expert",
+  "longest_jack": 7
+ },
+ {
+  "title": "れっつ！みらくる☆はーどこあっ！[DX]",
+  "bpm": 185.0,
+  "level": "8.2",
+  "diff_name": "Adv",
+  "longest_jack": 7
+ },
+ {
+  "title": "GOODMEN[SD]",
+  "bpm": 175.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "LOSE CONTROL[DX]",
+  "bpm": 150.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "conflict[SD]",
+  "bpm": 160.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "NULCTRL[DX]",
+  "bpm": 100.0,
+  "level": "12.6",
+  "diff_name": "Expert",
+  "longest_jack": 7
+ },
+ {
+  "title": "Retribution ～ Cycle of Redemption ～[DX]",
+  "bpm": 112.0,
+  "level": "13.0",
+  "diff_name": "Expert",
+  "longest_jack": 7
+ },
+ {
+  "title": "サンバランド[DX]",
+  "bpm": 132.0,
+  "level": "11.0",
+  "diff_name": "Expert",
+  "longest_jack": 7
+ },
+ {
+  "title": "MEGATON KICK[DX]",
+  "bpm": 200.0,
+  "level": "11.8",
+  "diff_name": "Expert",
+  "longest_jack": 7
+ },
+ {
+  "title": "ミラクルポップ☆アドベンチャー!!!!![DX]",
+  "bpm": 180.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "神威[DX]",
+  "bpm": 210.0,
+  "level": "12.8",
+  "diff_name": "Expert",
+  "longest_jack": 7
+ },
+ {
+  "title": "BATTLE NO.1[DX]",
+  "bpm": 200.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "チエルカ／エソテリカ[DX]",
+  "bpm": 205.0,
+  "level": "12.5",
+  "diff_name": "Expert",
+  "longest_jack": 7
+ },
+ {
+  "title": "有明/Ariake[DX]",
+  "bpm": 190.0,
+  "level": "12.4",
+  "diff_name": "Expert",
+  "longest_jack": 7
+ },
+ {
+  "title": "生命不詳[DX]",
+  "bpm": 200.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "Contrapasso -paradiso-[SD]",
+  "bpm": 243.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 7
+ },
+ {
+  "title": "アージェントシンメトリー[SD]",
+  "bpm": 172.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "FLΛME/FRΦST[DX]",
+  "bpm": 174.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "Our Wrenally[SD]",
+  "bpm": 105.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "BLACK ROSE[DX]",
+  "bpm": 145.0,
+  "level": "12.2",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "QZKago Requiem[SD]",
+  "bpm": 257.0,
+  "level": "7.0",
+  "diff_name": "Basic",
+  "longest_jack": 7
+ },
+ {
+  "title": "QZKago Requiem[SD]",
+  "bpm": 257.0,
+  "level": "14.9",
+  "diff_name": "Re:Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "QuiQ[DX]",
+  "bpm": 120.0,
+  "level": "12.9",
+  "diff_name": "Expert",
+  "longest_jack": 7
+ },
+ {
+  "title": "Selector[DX]",
+  "bpm": 148.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "Beat of getting entangled[SD]",
+  "bpm": 140.0,
+  "level": "14.5",
+  "diff_name": "Re:Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "ほしぞらスペクタクル[DX]",
+  "bpm": 200.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "Panopticon[SD]",
+  "bpm": 110.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "Lia=Fail[DX]",
+  "bpm": 186.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "AMABIE[DX]",
+  "bpm": 190.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_jack": 7
+ },
+ {
+  "title": "[奏]アカツキアライヴァル[宴]",
+  "bpm": 125.0,
+  "level": "13.0?",
+  "diff_name": "Basic",
+  "longest_jack": 6
+ },
+ {
+  "title": "[X]人マニア[宴]",
+  "bpm": 150.0,
+  "level": "14.0?",
+  "diff_name": "Utage",
+  "longest_jack": 6
+ },
+ {
+  "title": "未完成人[DX]",
+  "bpm": 148.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "かくしん的☆めたまるふぉ～ぜっ！[SD]",
+  "bpm": 139.0,
+  "level": "12.7",
+  "diff_name": "Re:Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "BlackFlagBreaker!![DX]",
+  "bpm": 163.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "ヒトガタ[DX]",
+  "bpm": 150.0,
+  "level": "10.8",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "Los! Los! Los![SD]",
+  "bpm": 240.0,
+  "level": "11.3",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "壱雫空[DX]",
+  "bpm": 204.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "ハム太郎とっとこうた[DX]",
+  "bpm": 140.0,
+  "level": "12.8",
+  "diff_name": "Re:Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "ずんだもんの朝食　〜目覚ましずんラップ〜[DX]",
+  "bpm": 260.0,
+  "level": "10.8",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "Ievan Polkka[SD]",
+  "bpm": 119.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "BAD∞END∞NIGHT[SD]",
+  "bpm": 204.0,
+  "level": "10.7",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "片想いサンバ[SD]",
+  "bpm": 150.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "【東方ニコカラ】秘神マターラ feat.魂音泉【IOSYS】[SD]",
+  "bpm": 168.0,
+  "level": "11.8",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "Armageddon[DX]",
+  "bpm": 210.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "Scream out! -maimai SONIC WASHER Edit-[SD]",
+  "bpm": 174.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "悪戯センセーション[DX]",
+  "bpm": 192.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "LiftOff[DX]",
+  "bpm": 137.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "Trrricksters!![DX]",
+  "bpm": 155.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "ポケットからぬりつぶせ！[DX]",
+  "bpm": 126.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "SUPER AMBULANCE[DX]",
+  "bpm": 200.0,
+  "level": "12.0",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "JIGOKU STATION CENTRAL GATE[DX]",
+  "bpm": 160.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "Apollo[DX]",
+  "bpm": 339.0,
+  "level": "8.8",
+  "diff_name": "Adv",
+  "longest_jack": 6
+ },
+ {
+  "title": "MUSIC PЯAYER[DX]",
+  "bpm": 168.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "最強STRONGER[DX]",
+  "bpm": 205.0,
+  "level": "12.8",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "Space Harrier Main Theme [Reborn][SD]",
+  "bpm": 125.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "conflict[DX]",
+  "bpm": 160.0,
+  "level": "8.2",
+  "diff_name": "Adv",
+  "longest_jack": 6
+ },
+ {
+  "title": "Got more raves？[SD]",
+  "bpm": 266.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 6
+ },
+ {
+  "title": "Chronomia[DX]",
+  "bpm": 227.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "Let's Go Away[SD]",
+  "bpm": 240.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "First Dance[DX]",
+  "bpm": 174.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "DADDY MULK -Groove remix-[SD]",
+  "bpm": 154.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "BULK UP (GAME EXCLUSIVE EDIT)[DX]",
+  "bpm": 200.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "Halcyon[DX]",
+  "bpm": 191.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "セイクリッド　ルイン[SD]",
+  "bpm": 186.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "Sun Dance[SD]",
+  "bpm": 102.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "DANGEROOOOUS JUNGLE[DX]",
+  "bpm": 160.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "Abstruse Dilemma[DX]",
+  "bpm": 216.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "キラメキ居残り大戦争[DX]",
+  "bpm": 212.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "Brain Power[SD]",
+  "bpm": 170.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "TwisteD! XD[DX]",
+  "bpm": 200.0,
+  "level": "11.2",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "トリアージ[DX]",
+  "bpm": 180.0,
+  "level": "10.0",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "いっしそう電☆舞舞神拳！[SD]",
+  "bpm": 185.0,
+  "level": "11.5",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "STEEL TRANSONIC[DX]",
+  "bpm": 236.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "果ての空、僕らが見た光。[DX]",
+  "bpm": 178.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "keep hopping[SD]",
+  "bpm": 155.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "忙シー日[DX]",
+  "bpm": 150.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "RE:INCARNATED DRAGNER[DX]",
+  "bpm": 188.0,
+  "level": "11.8",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "生命不詳[DX]",
+  "bpm": 200.0,
+  "level": "11.7",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "雨露霜雪[DX]",
+  "bpm": 250.0,
+  "level": "13.5",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "超常マイマイン[DX]",
+  "bpm": 178.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "Metamorphosism[DX]",
+  "bpm": 144.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "Streak[SD]",
+  "bpm": 150.0,
+  "level": "12.7",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "フェイクフェイス・フェイルセイフ[DX]",
+  "bpm": 202.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "RIFFRAIN[DX]",
+  "bpm": 122.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "チューリングの跡[DX]",
+  "bpm": 180.0,
+  "level": "13.5",
+  "diff_name": "Expert",
+  "longest_jack": 6
+ },
+ {
+  "title": "QZKago Requiem[SD]",
+  "bpm": 257.0,
+  "level": "10.7",
+  "diff_name": "Adv",
+  "longest_jack": 6
+ },
+ {
+  "title": "Now or Never[DX]",
+  "bpm": 202.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "Komplexe[DX]",
+  "bpm": 165.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 6
+ },
+ {
+  "title": "[耐]星界ちゃんと可不ちゃんのおつかい合騒曲[宴]",
+  "bpm": 220.0,
+  "level": "14.0?",
+  "diff_name": "Utage",
+  "longest_jack": 5
+ },
+ {
+  "title": "[玉]Garakuta Doll Play[宴]",
+  "bpm": 256.0,
+  "level": "14.7?",
+  "diff_name": "Utage",
+  "longest_jack": 5
+ },
+ {
+  "title": "うぇいびー[DX]",
+  "bpm": 200.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "はいよろこんで[DX]",
+  "bpm": 147.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "お願いマッスル[DX]",
+  "bpm": 132.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "泥の分際で私だけの大切を奪おうだなんて[DX]",
+  "bpm": 225.0,
+  "level": "10.7",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "モエチャッカファイア[DX]",
+  "bpm": 163.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "でんでんぱっしょん[SD]",
+  "bpm": 186.0,
+  "level": "11.2",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "初音ミクの消失[DX]",
+  "bpm": 240.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 5
+ },
+ {
+  "title": "初音ミクの消失[DX]",
+  "bpm": 240.0,
+  "level": "12.0",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "ヴァンパイア[DX]",
+  "bpm": 164.0,
+  "level": "10.2",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "すーぱーぬこになれんかった[DX]",
+  "bpm": 190.0,
+  "level": "10.0",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "Magical Sound Shower[SD]",
+  "bpm": 120.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "右肩の蝶[SD]",
+  "bpm": 140.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "どうしてこうなった[SD]",
+  "bpm": 180.0,
+  "level": "11.7",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "M.S.S.Planet[DX]",
+  "bpm": 145.0,
+  "level": "9.7",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "てらてら[DX]",
+  "bpm": 190.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "BAD∞END∞NIGHT[SD]",
+  "bpm": 204.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "転生林檎[DX]",
+  "bpm": 145.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "星界ちゃんと可不ちゃんのおつかい合騒曲[DX]",
+  "bpm": 220.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "キュートなカノジョ[DX]",
+  "bpm": 160.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "初音ミクの消失[SD]",
+  "bpm": 240.0,
+  "level": "11.8",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "エイリアンエイリアン[SD]",
+  "bpm": 152.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "バイオレンストリガー[DX]",
+  "bpm": 196.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "ビターチョコデコレーション[DX]",
+  "bpm": 174.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "生きてるおばけは生きている[SD]",
+  "bpm": 140.0,
+  "level": "11.0",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "月光[DX]",
+  "bpm": 195.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "二息歩行[SD]",
+  "bpm": 180.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Sweet Requiem[DX]",
+  "bpm": 190.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "LOVE EAST[SD]",
+  "bpm": 168.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "魔理沙は大変なものを盗んでいきました[SD]",
+  "bpm": 170.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "幻想に咲いた花[DX]",
+  "bpm": 186.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "taboo tears you up[DX]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "進捗どうですか？[SD]",
+  "bpm": 199.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Bad Apple!! feat.nomico ～五十嵐 撫子 Ver.～[DX]",
+  "bpm": 141.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "なるとなぎのパーフェクトロックンロール教室[SD]",
+  "bpm": 216.0,
+  "level": "11.1",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "FLUFFY FLASH[DX]",
+  "bpm": 252.0,
+  "level": "12.8",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "撩乱乙女†無双劇[DX]",
+  "bpm": 165.0,
+  "level": "11.7",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "Don't Fight The Music[DX]",
+  "bpm": 195.0,
+  "level": "9.0",
+  "diff_name": "Adv",
+  "longest_jack": 5
+ },
+ {
+  "title": "Don't Fight The Music[DX]",
+  "bpm": 195.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "R'N'R Monsta[DX]",
+  "bpm": 220.0,
+  "level": "12.0",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "The wheel to the right[SD]",
+  "bpm": 200.0,
+  "level": "13.3",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "The wheel to the right[SD]",
+  "bpm": 200.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "WE'RE BACK!![DX]",
+  "bpm": 185.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "MAGNETAR GIRL[DX]",
+  "bpm": 170.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "YURUSHITE[DX]",
+  "bpm": 270.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Λzure Vixen[DX]",
+  "bpm": 163.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "僕の和風本当上手[DX]",
+  "bpm": 120.0,
+  "level": "12.0",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "最強STRONGER[DX]",
+  "bpm": 205.0,
+  "level": "8.7",
+  "diff_name": "Adv",
+  "longest_jack": 5
+ },
+ {
+  "title": "conflict[DX]",
+  "bpm": 160.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "プナイプナイせんそう[DX]",
+  "bpm": 271.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Party 4U ”holy nite mix”[SD]",
+  "bpm": 159.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "DRAGONLADY[SD]",
+  "bpm": 150.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "BLUE ZONE[DX]",
+  "bpm": 168.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Lunar Mare[DX]",
+  "bpm": 165.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Fist Bump[SD]",
+  "bpm": 217.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "B.M.S.[SD]",
+  "bpm": 200.0,
+  "level": "12.6",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "Maxi[DX]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "STAIRWAY TO GENERATION[SD]",
+  "bpm": 150.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Love Kills U[DX]",
+  "bpm": 160.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Credits[SD]",
+  "bpm": 179.0,
+  "level": "9.0",
+  "diff_name": "Adv",
+  "longest_jack": 5
+ },
+ {
+  "title": "Credits[SD]",
+  "bpm": 179.0,
+  "level": "13.3",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "カラッポ・ノンフィクション[DX]",
+  "bpm": 170.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "麒麟[SD]",
+  "bpm": 220.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Scarlet Lance[SD]",
+  "bpm": 185.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Love's Theme of BADASS ～バッド・アス 愛のテーマ～[DX]",
+  "bpm": 202.0,
+  "level": "13.0",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "Re：End of a Dream[DX]",
+  "bpm": 212.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Halcyon[DX]",
+  "bpm": 191.0,
+  "level": "11.4",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "アルカンシエル[DX]",
+  "bpm": 176.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "EVERGREEN[SD]",
+  "bpm": 145.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "FREEDOM DiVE (tpz Overcute Remix)[SD]",
+  "bpm": 234.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Aegleseeker[DX]",
+  "bpm": 234.0,
+  "level": "12.8",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "DANGEROOOOUS JUNGLE[DX]",
+  "bpm": 160.0,
+  "level": "11.8",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "Halcyon[SD]",
+  "bpm": 191.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Crush On You[SD]",
+  "bpm": 125.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "YA･DA･YO [Reborn][SD]",
+  "bpm": 105.0,
+  "level": "13.0",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "CHAOS[DX]",
+  "bpm": 150.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "BOOM! BOOM!! BOOM!!![DX]",
+  "bpm": 170.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Cyaegha[DX]",
+  "bpm": 200.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "∀[DX]",
+  "bpm": 245.0,
+  "level": "8.2",
+  "diff_name": "Adv",
+  "longest_jack": 5
+ },
+ {
+  "title": "∀[DX]",
+  "bpm": 245.0,
+  "level": "11.9",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "ヒミツCULT[DX]",
+  "bpm": 190.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "エナドリおいしいソング[DX]",
+  "bpm": 140.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "VeRForTe αRtE:VEiN[DX]",
+  "bpm": 190.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "L'épilogue[SD]",
+  "bpm": 145.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Horoscope Express[DX]",
+  "bpm": 236.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Oshama Scramble![DX]",
+  "bpm": 190.0,
+  "level": "11.4",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "Oshama Scramble![DX]",
+  "bpm": 190.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "SILENT BLUE[SD]",
+  "bpm": 210.0,
+  "level": "12.8",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "モ°ルモ°ル[DX]",
+  "bpm": 256.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "larva[SD]",
+  "bpm": 202.0,
+  "level": "9.3",
+  "diff_name": "Adv",
+  "longest_jack": 5
+ },
+ {
+  "title": "Rainbow Rush Story[DX]",
+  "bpm": 200.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "虹と太陽[SD]",
+  "bpm": 146.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "7thSense[SD]",
+  "bpm": 150.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Kairos[DX]",
+  "bpm": 200.0,
+  "level": "11.2",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "Energizing Flame[DX]",
+  "bpm": 201.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 5
+ },
+ {
+  "title": "Bloody Trail[DX]",
+  "bpm": 195.0,
+  "level": "8.8",
+  "diff_name": "Adv",
+  "longest_jack": 5
+ },
+ {
+  "title": "Ragnarok[SD]",
+  "bpm": 184.0,
+  "level": "7.0",
+  "diff_name": "Basic",
+  "longest_jack": 5
+ },
+ {
+  "title": "アポカリプスに反逆の焔を焚べろ[DX]",
+  "bpm": 222.0,
+  "level": "8.5",
+  "diff_name": "Adv",
+  "longest_jack": 5
+ },
+ {
+  "title": "Backyun! －悪い女－[SD]",
+  "bpm": 140.0,
+  "level": "7.5",
+  "diff_name": "Adv",
+  "longest_jack": 5
+ },
+ {
+  "title": "Sqlupp (Camellia's \"Sqleipd*Hiytex\" Remix)[DX]",
+  "bpm": 154.0,
+  "level": "12.2",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "魔ジョ狩リ[DX]",
+  "bpm": 190.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "STEEL TRANSONIC[DX]",
+  "bpm": 236.0,
+  "level": "13.0",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "Strive against fate[DX]",
+  "bpm": 209.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Unfinished Epic[DX]",
+  "bpm": 185.0,
+  "level": "11.5",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "系ぎて[DX]",
+  "bpm": 88.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "World's end loneliness[DX]",
+  "bpm": 205.0,
+  "level": "13.0",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "花と、雪と、ドラムンベース。[SD]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Aiolos[SD]",
+  "bpm": 205.0,
+  "level": "12.7",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "Aetheric Energy[DX]",
+  "bpm": 205.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "MAXRAGE[DX]",
+  "bpm": 222.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 5
+ },
+ {
+  "title": "MAXRAGE[DX]",
+  "bpm": 222.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "ぼくたちいつでも　しゅわっしゅわ！[DX]",
+  "bpm": 132.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "LANCE[DX]",
+  "bpm": 156.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "ここからはじまるプロローグ。 (Kanon Remix)[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Contrapasso -paradiso-[SD]",
+  "bpm": 243.0,
+  "level": "13.0",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "オリフィス[DX]",
+  "bpm": 200.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Rising on the horizon[DX]",
+  "bpm": 200.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "雨露霜雪[DX]",
+  "bpm": 250.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "みんなのマイマイマー[SD]",
+  "bpm": 175.0,
+  "level": "8.6",
+  "diff_name": "Adv",
+  "longest_jack": 5
+ },
+ {
+  "title": "氷滅の135小節[DX]",
+  "bpm": 205.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Monochrome Rainbow[SD]",
+  "bpm": 182.0,
+  "level": "10.9",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "[X][DX]",
+  "bpm": 162.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Valsqotch[DX]",
+  "bpm": 125.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "宙天[DX]",
+  "bpm": 125.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "分解収束テイル[DX]",
+  "bpm": 186.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Excalibur ～Revived resolution～[SD]",
+  "bpm": 200.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "噛み係[DX]",
+  "bpm": 148.0,
+  "level": "10.8",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "KHYMΞXΛ[DX]",
+  "bpm": 220.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 5
+ },
+ {
+  "title": "WiPE OUT MEMORIES[DX]",
+  "bpm": 210.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 5
+ },
+ {
+  "title": "CITRUS MONSTER[SD]",
+  "bpm": 220.0,
+  "level": "7.0",
+  "diff_name": "Basic",
+  "longest_jack": 5
+ },
+ {
+  "title": "Oshama Scramble![SD]",
+  "bpm": 190.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "泣き虫O'clock[SD]",
+  "bpm": 152.0,
+  "level": "12.9",
+  "diff_name": "Re:Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Straight into the lights[DX]",
+  "bpm": 90.0,
+  "level": "12.5",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "Raven Emperor[DX]",
+  "bpm": 205.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "NOIZY BOUNCE[DX]",
+  "bpm": 150.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Jouez Avec Moi?[DX]",
+  "bpm": 162.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Panopticon[SD]",
+  "bpm": 110.0,
+  "level": "14.3",
+  "diff_name": "Re:Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "Latent Kingdom[DX]",
+  "bpm": 201.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 5
+ },
+ {
+  "title": "POWER OF UNITY[DX]",
+  "bpm": 190.0,
+  "level": "12.0",
+  "diff_name": "Expert",
+  "longest_jack": 5
+ },
+ {
+  "title": "Shining Ray ～僕らの絆～[DX]",
+  "bpm": 180.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_jack": 5
+ },
+ {
+  "title": "[r]Garakuta Doll Play[宴]",
+  "bpm": 256.0,
+  "level": "14.0?",
+  "diff_name": "Utage",
+  "longest_jack": 4
+ },
+ {
+  "title": "[狂]FREEDOM DiVE (tpz Overcute Remix[宴]",
+  "bpm": 234.0,
+  "level": "15.0?",
+  "diff_name": "Utage",
+  "longest_jack": 4
+ },
+ {
+  "title": "[即]チューリングの跡[宴]",
+  "bpm": 180.0,
+  "level": "13.0?",
+  "diff_name": "Utage",
+  "longest_jack": 4
+ },
+ {
+  "title": "[助]メズマライザー[宴]",
+  "bpm": 185.0,
+  "level": "13.7?",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "[奏]アカツキアライヴァル[宴]",
+  "bpm": 125.0,
+  "level": "13.0?",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～[宴]",
+  "bpm": 144.0,
+  "level": "13.0?",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "[奏]テレキャスタービーボーイ[宴]",
+  "bpm": 182.0,
+  "level": "12.7?",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "[奏]テレキャスタービーボーイ[宴]",
+  "bpm": 182.0,
+  "level": "12.7?",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "[蔵]Glorious Crown[宴]",
+  "bpm": 225.0,
+  "level": "14.7?",
+  "diff_name": "Utage",
+  "longest_jack": 4
+ },
+ {
+  "title": "[即]ジングルベル[宴]",
+  "bpm": 100.0,
+  "level": "14.6?",
+  "diff_name": "Utage",
+  "longest_jack": 4
+ },
+ {
+  "title": "うぇいびー[DX]",
+  "bpm": 200.0,
+  "level": "7.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "マツケンサンバⅡ[DX]",
+  "bpm": 133.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ファッとして桃源郷[SD]",
+  "bpm": 160.0,
+  "level": "10.4",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ジンギスカン[SD]",
+  "bpm": 150.0,
+  "level": "10.5",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "シュガーソングとビターステップ[SD]",
+  "bpm": 132.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "偉大なる悪魔は実は大天使パトラちゃん様なのだ！[DX]",
+  "bpm": 195.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ホラフキパペット[DX]",
+  "bpm": 205.0,
+  "level": "7.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ホラフキパペット[DX]",
+  "bpm": 205.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "God knows...[DX]",
+  "bpm": 150.0,
+  "level": "13.0",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Baddest[DX]",
+  "bpm": 215.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "にめんせい☆ウラオモテライフ！[SD]",
+  "bpm": 170.0,
+  "level": "10.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ヘビーローテーション[SD]",
+  "bpm": 178.0,
+  "level": "7.6",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "モンスターカミング[DX]",
+  "bpm": 210.0,
+  "level": "7.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "モンスターカミング[DX]",
+  "bpm": 210.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "アイデンティティ[SD]",
+  "bpm": 140.0,
+  "level": "8.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "story[DX]",
+  "bpm": 220.0,
+  "level": "7.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "おいでよ！妖精の森[SD]",
+  "bpm": 220.0,
+  "level": "6.6",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "踊[DX]",
+  "bpm": 128.0,
+  "level": "8.5",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "シリウスの輝きのように[DX]",
+  "bpm": 158.0,
+  "level": "7.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "シリウスの輝きのように[DX]",
+  "bpm": 158.0,
+  "level": "10.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ラブって♡ジュエリー♪えんじぇる☆ブレイク！！[SD]",
+  "bpm": 238.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "いつかいい感じにアレしよう[DX]",
+  "bpm": 144.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Bring it on[DX]",
+  "bpm": 143.0,
+  "level": "10.2",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "REVIVER オルタンシア・サーガ -蒼の騎士団- オリジナルVer.[SD]",
+  "bpm": 200.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "乗ってけ！ジャパリビート[DX]",
+  "bpm": 134.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "MOON NIGHTのせいにして[DX]",
+  "bpm": 141.0,
+  "level": "12.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Can Do[SD]",
+  "bpm": 200.0,
+  "level": "6.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Can Do[SD]",
+  "bpm": 200.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "壱雫空[DX]",
+  "bpm": 204.0,
+  "level": "11.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "きゅびずむ[DX]",
+  "bpm": 185.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "秒針を噛む[DX]",
+  "bpm": 130.0,
+  "level": "11.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ハム太郎とっとこうた[DX]",
+  "bpm": 140.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "きゅびびびびずむ[DX]",
+  "bpm": 185.0,
+  "level": "12.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ココロオドル[SD]",
+  "bpm": 226.0,
+  "level": "8.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Photon Melodies[DX]",
+  "bpm": 128.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "NOISY LOVE POWER☆[SD]",
+  "bpm": 140.0,
+  "level": "12.8",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "恋のヒメヒメぺったんこ[SD]",
+  "bpm": 178.0,
+  "level": "7.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "恋愛サーキュレーション[SD]",
+  "bpm": 120.0,
+  "level": "9.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ようこそジャパリパークへ[SD]",
+  "bpm": 170.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "乙女のルートはひとつじゃない！[DX]",
+  "bpm": 192.0,
+  "level": "9.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "乙女のルートはひとつじゃない！[DX]",
+  "bpm": 192.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Future[SD]",
+  "bpm": 130.0,
+  "level": "7.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Future[SD]",
+  "bpm": 130.0,
+  "level": "9.5",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "SUSHI食べたい feat.ソイソース[SD]",
+  "bpm": 135.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "初音ミクの消失[DX]",
+  "bpm": 240.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "幾望の月[DX]",
+  "bpm": 276.0,
+  "level": "10.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "裏表ラバーズ[SD]",
+  "bpm": 159.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "39[SD]",
+  "bpm": 175.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "抜錨[DX]",
+  "bpm": 140.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "強風オールバック[DX]",
+  "bpm": 135.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "マネマネサイコトロピック[DX]",
+  "bpm": 210.0,
+  "level": "10.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "マネマネサイコトロピック[DX]",
+  "bpm": 210.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "新人類[DX]",
+  "bpm": 144.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "リアライズ[DX]",
+  "bpm": 150.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "このピアノでお前を8759632145回ぶん殴る[SD]",
+  "bpm": 200.0,
+  "level": "11.2",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "このピアノでお前を8759632145回ぶん殴る[SD]",
+  "bpm": 200.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ECHO[SD]",
+  "bpm": 140.0,
+  "level": "11.3",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ECHO[SD]",
+  "bpm": 140.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ヴァンパイア[DX]",
+  "bpm": 164.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "すーぱーぬこになれんかった[DX]",
+  "bpm": 190.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ウルトラトレーラー[DX]",
+  "bpm": 155.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ずんだもんの朝食　〜目覚ましずんラップ〜[DX]",
+  "bpm": 260.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ドクハク[SD]",
+  "bpm": 208.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "イカサマライフゲイム[DX]",
+  "bpm": 200.0,
+  "level": "7.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "右肩の蝶[SD]",
+  "bpm": 140.0,
+  "level": "11.4",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "チュルリラ・チュルリラ・ダッダッダ！[SD]",
+  "bpm": 220.0,
+  "level": "11.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ずんだパーリナイ[DX]",
+  "bpm": 150.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ネトゲ廃人シュプレヒコール[SD]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "メランコリック[SD]",
+  "bpm": 140.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "マーシャル・マキシマイザー[DX]",
+  "bpm": 190.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "フキゲンワルツ[SD]",
+  "bpm": 210.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "KILLER B[DX]",
+  "bpm": 130.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "グリーンライツ・セレナーデ[DX]",
+  "bpm": 200.0,
+  "level": "10.3",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "M.S.S.Planet[DX]",
+  "bpm": 145.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "秋の未確認生物[DX]",
+  "bpm": 185.0,
+  "level": "10.5",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ブリキノダンス[SD]",
+  "bpm": 172.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "放課後ストライド[SD]",
+  "bpm": 225.0,
+  "level": "10.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ボッカデラベリタ[DX]",
+  "bpm": 170.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "へべれけジャンキー[DX]",
+  "bpm": 104.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ワールドワイドワンダー[DX]",
+  "bpm": 142.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "サヨナラチェーンソー[DX]",
+  "bpm": 154.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "パーフェクト生命[SD]",
+  "bpm": 200.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "不毛！[SD]",
+  "bpm": 200.0,
+  "level": "8.1",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "夜咄ディセイブ[SD]",
+  "bpm": 260.0,
+  "level": "12.5",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "初音ミクの激唱[SD]",
+  "bpm": 200.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "メズマライザー[DX]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "グラーヴェ[DX]",
+  "bpm": 185.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "1000年生きてる[DX]",
+  "bpm": 100.0,
+  "level": "9.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ゴーゴー幽霊船[SD]",
+  "bpm": 180.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "初音ミクの消失[SD]",
+  "bpm": 240.0,
+  "level": "8.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "トンデモワンダーズ[DX]",
+  "bpm": 172.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "人マニア[DX]",
+  "bpm": 150.0,
+  "level": "10.9",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ラグトレイン[DX]",
+  "bpm": 147.0,
+  "level": "9.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "セカイ[DX]",
+  "bpm": 133.0,
+  "level": "10.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "カーニバルハッピー[DX]",
+  "bpm": 208.0,
+  "level": "7.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "カーニバルハッピー[DX]",
+  "bpm": 208.0,
+  "level": "11.5",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "アルティメットセンパイ[DX]",
+  "bpm": 145.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "再会[DX]",
+  "bpm": 137.0,
+  "level": "8.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ゴーストルール[DX]",
+  "bpm": 210.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ド屑[DX]",
+  "bpm": 115.0,
+  "level": "9.5",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ド屑[DX]",
+  "bpm": 115.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "きゅうくらりん[DX]",
+  "bpm": 220.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ゴーストルール[SD]",
+  "bpm": 210.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "バグ[DX]",
+  "bpm": 186.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "絶え間なく藍色[DX]",
+  "bpm": 125.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ヒバナ[SD]",
+  "bpm": 200.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "アンドロイドガール[DX]",
+  "bpm": 192.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ロストワンの号哭[SD]",
+  "bpm": 162.0,
+  "level": "10.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "人生リセットボタン[SD]",
+  "bpm": 200.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ミラクルペイント[SD]",
+  "bpm": 215.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "モザイクロール[SD]",
+  "bpm": 145.0,
+  "level": "7.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ロキ[SD]",
+  "bpm": 150.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ロキ[SD]",
+  "bpm": 150.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ダーリンダンス[DX]",
+  "bpm": 153.0,
+  "level": "9.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "アカツキアライヴァル[DX]",
+  "bpm": 125.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Nyan Cat EX[SD]",
+  "bpm": 150.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "テレキャスタービーボーイ[DX]",
+  "bpm": 182.0,
+  "level": "12.8",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "オーバーライド[DX]",
+  "bpm": 204.0,
+  "level": "7.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ザムザ[DX]",
+  "bpm": 121.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "終点[SD]",
+  "bpm": 222.0,
+  "level": "12.4",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "終点[SD]",
+  "bpm": 222.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "毒占欲[SD]",
+  "bpm": 117.0,
+  "level": "7.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "毒占欲[SD]",
+  "bpm": 117.0,
+  "level": "10.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "毒占欲[SD]",
+  "bpm": 117.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "アンハッピーリフレイン[SD]",
+  "bpm": 205.0,
+  "level": "11.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "患部で止まってすぐ溶ける～狂気の優曇華院[DX]",
+  "bpm": 200.0,
+  "level": "7.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Melody！[DX]",
+  "bpm": 175.0,
+  "level": "12.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Calamity Fortune[SD]",
+  "bpm": 200.0,
+  "level": "7.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Calamity Fortune[SD]",
+  "bpm": 200.0,
+  "level": "9.3",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Calamity Fortune[SD]",
+  "bpm": 200.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "taboo tears you up[SD]",
+  "bpm": 180.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Ultimate taste[DX]",
+  "bpm": 200.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "全力ハッピーライフ[DX]",
+  "bpm": 190.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "超最終鬼畜妹フランドール・S[DX]",
+  "bpm": 210.0,
+  "level": "8.2",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "超最終鬼畜妹フランドール・S[DX]",
+  "bpm": 210.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ソリッド[DX]",
+  "bpm": 222.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "クレイジークレイジーダンサーズ[SD]",
+  "bpm": 172.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "最終鬼畜妹フランドール・S[SD]",
+  "bpm": 200.0,
+  "level": "12.1",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Armageddon[DX]",
+  "bpm": 210.0,
+  "level": "8.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "隠然[SD]",
+  "bpm": 210.0,
+  "level": "8.6",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "月に叢雲華に風[SD]",
+  "bpm": 160.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Bad Apple!! feat.nomico (Tetsuya Komuro Remix)[DX]",
+  "bpm": 135.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "サドマミホリック[SD]",
+  "bpm": 200.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "サドマミホリック[SD]",
+  "bpm": 200.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "疾走あんさんぶる[SD]",
+  "bpm": 195.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "患部で止まってすぐ溶ける～狂気の優曇華院[SD]",
+  "bpm": 200.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "みんなの[SD]",
+  "bpm": 190.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "イロトリドリのメロディ[SD]",
+  "bpm": 140.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "なるとなぎのパーフェクトロックンロール教室[SD]",
+  "bpm": 216.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ぱくぱく☆がーる[DX]",
+  "bpm": 121.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ピュグマリオンの咒文[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Session High⤴[SD]",
+  "bpm": 200.0,
+  "level": "10.6",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Infantoon Fantasy[SD]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "インパアフェクシオン・ホワイトガアル[DX]",
+  "bpm": 207.0,
+  "level": "7.9",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "インパアフェクシオン・ホワイトガアル[DX]",
+  "bpm": 207.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "最っ高のエンタメだ!![DX]",
+  "bpm": 276.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "脳天直撃[DX]",
+  "bpm": 145.0,
+  "level": "12.9",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Dazzle hop[DX]",
+  "bpm": 220.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Dazzle hop[DX]",
+  "bpm": 220.0,
+  "level": "9.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Dazzle hop[DX]",
+  "bpm": 220.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ポケットからぬりつぶせ！[DX]",
+  "bpm": 126.0,
+  "level": "10.2",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Ai C[DX]",
+  "bpm": 191.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "SQUAD-Phvntom-[DX]",
+  "bpm": 200.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "SQUAD-Phvntom-[DX]",
+  "bpm": 200.0,
+  "level": "7.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "SQUAD-Phvntom-[DX]",
+  "bpm": 200.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "folern[DX]",
+  "bpm": 200.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "folern[DX]",
+  "bpm": 200.0,
+  "level": "12.2",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "FLUFFY FLASH[DX]",
+  "bpm": 252.0,
+  "level": "8.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "玩具狂奏曲 -終焉-[DX]",
+  "bpm": 130.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "玩具狂奏曲 -終焉-[DX]",
+  "bpm": 130.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "TiamaT:F minor[SD]",
+  "bpm": 215.0,
+  "level": "7.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "TiamaT:F minor[SD]",
+  "bpm": 215.0,
+  "level": "10.3",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "TiamaT:F minor[SD]",
+  "bpm": 215.0,
+  "level": "13.1",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "MEGATON BLAST[DX]",
+  "bpm": 194.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Transcend Lights[DX]",
+  "bpm": 70.0,
+  "level": "7.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Kattobi KEIKYU Rider[SD]",
+  "bpm": 220.0,
+  "level": "13.2",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "LAMIA[DX]",
+  "bpm": 199.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Don't Fight The Music[DX]",
+  "bpm": 195.0,
+  "level": "12.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "R'N'R Monsta[DX]",
+  "bpm": 220.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "R'N'R Monsta[DX]",
+  "bpm": 220.0,
+  "level": "8.2",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "R'N'R Monsta[DX]",
+  "bpm": 220.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "みなえをチェック！[DX]",
+  "bpm": 178.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "幾四音-Ixion-[SD]",
+  "bpm": 210.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "ハードコア・シンドローム[DX]",
+  "bpm": 180.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "-OutsideR:RequieM-[SD]",
+  "bpm": 181.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Climax[DX]",
+  "bpm": 190.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Radiance[DX]",
+  "bpm": 155.0,
+  "level": "10.9",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Radiance[DX]",
+  "bpm": 155.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "まっすぐ→→→ストリーム！[DX]",
+  "bpm": 184.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Zitronectar[DX]",
+  "bpm": 222.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Zitronectar[DX]",
+  "bpm": 222.0,
+  "level": "8.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Good bye, Merry-Go-Round.[DX]",
+  "bpm": 185.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "SUPER AMBULANCE[DX]",
+  "bpm": 200.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "SUPER AMBULANCE[DX]",
+  "bpm": 200.0,
+  "level": "8.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "SUPER AMBULANCE[DX]",
+  "bpm": 200.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "怒槌[SD]",
+  "bpm": 200.0,
+  "level": "13.3",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Apollo[DX]",
+  "bpm": 339.0,
+  "level": "7.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "CHOCOLATE BOMB!!!![DX]",
+  "bpm": 190.0,
+  "level": "11.9",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Resolution[DX]",
+  "bpm": 190.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "World Vanquisher[SD]",
+  "bpm": 170.0,
+  "level": "12.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Λzure Vixen[DX]",
+  "bpm": 163.0,
+  "level": "13.2",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Bang Babang Bang!!![SD]",
+  "bpm": 200.0,
+  "level": "11.6",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Bang Babang Bang!!![SD]",
+  "bpm": 200.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ハート・ビート[SD]",
+  "bpm": 212.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "otorii INNOVATED -[i]3-[DX]",
+  "bpm": 210.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "otorii INNOVATED -[i]3-[DX]",
+  "bpm": 210.0,
+  "level": "8.9",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "otorii INNOVATED -[i]3-[DX]",
+  "bpm": 210.0,
+  "level": "13.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Elemental Ethnic[DX]",
+  "bpm": 163.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "PUPA[DX]",
+  "bpm": 202.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "PUPA[DX]",
+  "bpm": 202.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "End Time[SD]",
+  "bpm": 180.0,
+  "level": "12.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "僕の和風本当上手[DX]",
+  "bpm": 120.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "いっぱい食べる君が好きだよ[DX]",
+  "bpm": 224.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "OMAKENO Stroke[DX]",
+  "bpm": 240.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "OMAKENO Stroke[DX]",
+  "bpm": 240.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "OMAKENO Stroke[DX]",
+  "bpm": 240.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "スーパーシンメトリー[DX]",
+  "bpm": 210.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "スーパーシンメトリー[DX]",
+  "bpm": 210.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Upshift[DX]",
+  "bpm": 155.0,
+  "level": "11.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "最強STRONGER[DX]",
+  "bpm": 205.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Last Brave ～ Go to zero[SD]",
+  "bpm": 132.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ファンタジーゾーン OPA-OPA! -GMT remix-[SD]",
+  "bpm": 142.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Luminaria[DX]",
+  "bpm": 227.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Luminaria[DX]",
+  "bpm": 227.0,
+  "level": "7.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "プナイプナイせんそう[DX]",
+  "bpm": 271.0,
+  "level": "11.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "オパ! オパ! RACER -GMT mashup-[SD]",
+  "bpm": 172.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Destr0yer[DX]",
+  "bpm": 90.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Complex Mind[DX]",
+  "bpm": 175.0,
+  "level": "11.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Everybody Say HARDCORE TANO*C[DX]",
+  "bpm": 170.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Got more raves？[SD]",
+  "bpm": 266.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "源平大戦絵巻テーマソング[SD]",
+  "bpm": 190.0,
+  "level": "14.6",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "鼓動[SD]",
+  "bpm": 121.0,
+  "level": "10.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Chronomia[DX]",
+  "bpm": 227.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Chronomia[DX]",
+  "bpm": 227.0,
+  "level": "8.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Lost Desire[DX]",
+  "bpm": 170.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Fist Bump[SD]",
+  "bpm": 217.0,
+  "level": "11.4",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "天使光輪[DX]",
+  "bpm": 203.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "天使光輪[DX]",
+  "bpm": 203.0,
+  "level": "8.2",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ニルヴの心臓[DX]",
+  "bpm": 256.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "ニルヴの心臓[DX]",
+  "bpm": 256.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ニルヴの心臓[DX]",
+  "bpm": 256.0,
+  "level": "12.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Mjölnir[DX]",
+  "bpm": 222.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Mjölnir[DX]",
+  "bpm": 222.0,
+  "level": "8.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "B.M.S.[SD]",
+  "bpm": 200.0,
+  "level": "8.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Reach For The Stars[SD]",
+  "bpm": 203.0,
+  "level": "8.6",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Reach For The Stars[SD]",
+  "bpm": 203.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Pixel Galaxy[DX]",
+  "bpm": 150.0,
+  "level": "9.9",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Maxi[DX]",
+  "bpm": 180.0,
+  "level": "11.9",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Random[DX]",
+  "bpm": 132.0,
+  "level": "11.2",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Catch The Future[SD]",
+  "bpm": 210.0,
+  "level": "10.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Jack-the-Ripper◆[SD]",
+  "bpm": 210.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "City Escape: Act1[SD]",
+  "bpm": 130.0,
+  "level": "12.7",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "with U[DX]",
+  "bpm": 155.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "HYP3RTRIBE[DX]",
+  "bpm": 190.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Synthesis.[DX]",
+  "bpm": 180.0,
+  "level": "12.6",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "CO5M1C R4ILR0AD[DX]",
+  "bpm": 155.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "はげしこの夜 -Psylent Crazy Night-[DX]",
+  "bpm": 135.0,
+  "level": "11.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Trust[DX]",
+  "bpm": 155.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "DADDY MULK -Groove remix-[SD]",
+  "bpm": 154.0,
+  "level": "7.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "DADDY MULK -Groove remix-[SD]",
+  "bpm": 154.0,
+  "level": "12.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Credits[SD]",
+  "bpm": 179.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "BULK UP (GAME EXCLUSIVE EDIT)[DX]",
+  "bpm": 200.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "BULK UP (GAME EXCLUSIVE EDIT)[DX]",
+  "bpm": 200.0,
+  "level": "8.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "BULK UP (GAME EXCLUSIVE EDIT)[DX]",
+  "bpm": 200.0,
+  "level": "11.9",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "QUATTUORUX[DX]",
+  "bpm": 220.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "QUATTUORUX[DX]",
+  "bpm": 220.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Rooftop Run: Act1[SD]",
+  "bpm": 152.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Eureka[DX]",
+  "bpm": 150.0,
+  "level": "11.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Love's Theme of BADASS ～バッド・アス 愛のテーマ～[DX]",
+  "bpm": 202.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "ピポピポ -People People- feat. ななひら[DX]",
+  "bpm": 230.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ouroboros -twin stroke of the end-[DX]",
+  "bpm": 188.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Rush-More[DX]",
+  "bpm": 160.0,
+  "level": "10.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Rush-More[DX]",
+  "bpm": 160.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "アルカンシエル[DX]",
+  "bpm": 176.0,
+  "level": "10.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Destr0yer[SD]",
+  "bpm": 90.0,
+  "level": "12.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "B.B.K.K.B.K.K.[SD]",
+  "bpm": 170.0,
+  "level": "8.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "How To Make 音ゲ～曲！[DX]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "セイクリッド　ルイン[SD]",
+  "bpm": 186.0,
+  "level": "9.6",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Ignis Danse[SD]",
+  "bpm": 246.0,
+  "level": "8.3",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Grievous Lady[DX]",
+  "bpm": 210.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Grievous Lady[DX]",
+  "bpm": 210.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Scars of FAUNA[SD]",
+  "bpm": 165.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "INFiNiTE ENERZY -Overdoze-[DX]",
+  "bpm": 180.0,
+  "level": "13.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "INFiNiTE ENERZY -Overdoze-[DX]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ozma[DX]",
+  "bpm": 220.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "ozma[DX]",
+  "bpm": 220.0,
+  "level": "8.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Knight Rider[DX]",
+  "bpm": 200.0,
+  "level": "8.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Knight Rider[DX]",
+  "bpm": 200.0,
+  "level": "11.2",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Big Daddy[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "電車で電車でOPA!OPA!OPA! -GMT mashup-[SD]",
+  "bpm": 134.0,
+  "level": "11.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "MORNINGLOOM[DX]",
+  "bpm": 102.0,
+  "level": "8.2",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "MORNINGLOOM[DX]",
+  "bpm": 102.0,
+  "level": "11.5",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ココロスキャンのうた[SD]",
+  "bpm": 203.0,
+  "level": "7.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "お願い！コンコンお稲荷さま[DX]",
+  "bpm": 175.0,
+  "level": "10.5",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Sound Chimera[DX]",
+  "bpm": 190.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Abstruse Dilemma[DX]",
+  "bpm": 216.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Abstruse Dilemma[DX]",
+  "bpm": 216.0,
+  "level": "8.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "夜明けまであと３秒[SD]",
+  "bpm": 182.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Cthugha[DX]",
+  "bpm": 213.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Cthugha[DX]",
+  "bpm": 213.0,
+  "level": "8.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Cthugha[DX]",
+  "bpm": 213.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Retribution ～ Cycle of Redemption ～[DX]",
+  "bpm": 112.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Retribution ～ Cycle of Redemption ～[DX]",
+  "bpm": 112.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ENERGY SYNERGY MATRIX[SD]",
+  "bpm": 160.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "emomomo[DX]",
+  "bpm": 145.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "MEGATON KICK[DX]",
+  "bpm": 200.0,
+  "level": "8.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "MEGATON KICK[DX]",
+  "bpm": 200.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "RIDGE RACER STEPS -GMT remix-[SD]",
+  "bpm": 240.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "RIDGE RACER STEPS -GMT remix-[SD]",
+  "bpm": 240.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "キラメキ居残り大戦争[DX]",
+  "bpm": 212.0,
+  "level": "10.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ミラクルポップ☆アドベンチャー!!!!![DX]",
+  "bpm": 180.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "ミラクルポップ☆アドベンチャー!!!!![DX]",
+  "bpm": 180.0,
+  "level": "8.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ミラクルポップ☆アドベンチャー!!!!![DX]",
+  "bpm": 180.0,
+  "level": "12.5",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "神威[DX]",
+  "bpm": 210.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "神威[DX]",
+  "bpm": 210.0,
+  "level": "8.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "MYTH Re：LEASE[DX]",
+  "bpm": 202.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "MYTH Re：LEASE[DX]",
+  "bpm": 202.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "MYTH Re：LEASE[DX]",
+  "bpm": 202.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "BATTLE NO.1[DX]",
+  "bpm": 200.0,
+  "level": "8.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "BATTLE NO.1[DX]",
+  "bpm": 200.0,
+  "level": "12.2",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "神室雪月花[SD]",
+  "bpm": 86.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Rush-Hour[DX]",
+  "bpm": 224.0,
+  "level": "8.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Rush-Hour[DX]",
+  "bpm": 224.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "きたさいたま2000[SD]",
+  "bpm": 222.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "きたさいたま2000[SD]",
+  "bpm": 222.0,
+  "level": "8.6",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "きたさいたま2000[SD]",
+  "bpm": 222.0,
+  "level": "13.3",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "きたさいたま2000[SD]",
+  "bpm": 222.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "energy trixxx[DX]",
+  "bpm": 160.0,
+  "level": "11.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Southern Cross[DX]",
+  "bpm": 171.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Cyaegha[DX]",
+  "bpm": 200.0,
+  "level": "11.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Entrance[DX]",
+  "bpm": 180.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "極圏[SD]",
+  "bpm": 207.0,
+  "level": "9.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "極圏[SD]",
+  "bpm": 207.0,
+  "level": "12.9",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "In Chaos[SD]",
+  "bpm": 140.0,
+  "level": "7.6",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "In Chaos[SD]",
+  "bpm": 140.0,
+  "level": "9.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "In Chaos[SD]",
+  "bpm": 140.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Reach For The Stars (Re-Colors)[DX]",
+  "bpm": 203.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "∀[DX]",
+  "bpm": 245.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "エナドリおいしいソング[DX]",
+  "bpm": 140.0,
+  "level": "12.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "サンバランド[SD]",
+  "bpm": 132.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "JACKY [Remix][SD]",
+  "bpm": 135.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ALiVE[DX]",
+  "bpm": 170.0,
+  "level": "11.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "GO BACK 2 YOUR RAVE[SD]",
+  "bpm": 170.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "System “Z”[SD]",
+  "bpm": 147.0,
+  "level": "12.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "バーチャルダム　ネーション[DX]",
+  "bpm": 210.0,
+  "level": "10.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "VeRForTe αRtE:VEiN[DX]",
+  "bpm": 190.0,
+  "level": "12.9",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "超熊猫的周遊記（ワンダーパンダートラベラー）[DX]",
+  "bpm": 121.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "TwisteD! XD[DX]",
+  "bpm": 200.0,
+  "level": "8.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Horoscope Express[DX]",
+  "bpm": 236.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Heavenly Blast[DX]",
+  "bpm": 234.0,
+  "level": "12.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Falling[DX]",
+  "bpm": 122.0,
+  "level": "10.2",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "the EmpErroR[SD]",
+  "bpm": 240.0,
+  "level": "10.6",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "the EmpErroR[SD]",
+  "bpm": 240.0,
+  "level": "13.4",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Pixel Voyage[SD]",
+  "bpm": 170.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "トリアージ[DX]",
+  "bpm": 180.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "SILENT BLUE[SD]",
+  "bpm": 210.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "康莊大道[DX]",
+  "bpm": 208.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "康莊大道[DX]",
+  "bpm": 208.0,
+  "level": "8.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "モ°ルモ°ル[DX]",
+  "bpm": 256.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "モ°ルモ°ル[DX]",
+  "bpm": 256.0,
+  "level": "12.2",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Jumble Rumble[SD]",
+  "bpm": 185.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "#狂った民族２ PRAVARGYAZOOQA[DX]",
+  "bpm": 170.0,
+  "level": "12.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Rainbow Rush Story[DX]",
+  "bpm": 200.0,
+  "level": "4.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Blows Up Everything[DX]",
+  "bpm": 215.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Blows Up Everything[DX]",
+  "bpm": 215.0,
+  "level": "9.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "群青シグナル[DX]",
+  "bpm": 206.0,
+  "level": "8.2",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "いっしそう電☆舞舞神拳！[SD]",
+  "bpm": 185.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "TEmPTaTiON[DX]",
+  "bpm": 160.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "TEmPTaTiON[DX]",
+  "bpm": 160.0,
+  "level": "12.6",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Energizing Flame[DX]",
+  "bpm": 201.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Energizing Flame[DX]",
+  "bpm": 201.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Dragoon[DX]",
+  "bpm": 175.0,
+  "level": "11.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Dragoon[DX]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "OTOGEMA[DX]",
+  "bpm": 145.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Boys O’Clock[DX]",
+  "bpm": 262.0,
+  "level": "7.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ViRTUS[DX]",
+  "bpm": 225.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "ViRTUS[DX]",
+  "bpm": 225.0,
+  "level": "9.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ViRTUS[DX]",
+  "bpm": 225.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Caliburne ～Story of the Legendary sword～[SD]",
+  "bpm": 190.0,
+  "level": "9.4",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Regulus[DX]",
+  "bpm": 212.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Regulus[DX]",
+  "bpm": 212.0,
+  "level": "8.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Regulus[DX]",
+  "bpm": 212.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "アポカリプスに反逆の焔を焚べろ[DX]",
+  "bpm": 222.0,
+  "level": "7.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "ワードワードワード[DX]",
+  "bpm": 137.0,
+  "level": "9.9",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ウタヒメナイトストーム[DX]",
+  "bpm": 164.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ぽわわん劇場[DX]",
+  "bpm": 190.0,
+  "level": "11.2",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Night Fly[SD]",
+  "bpm": 127.0,
+  "level": "11.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Night Fly[SD]",
+  "bpm": 127.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "封焔の135秒[DX]",
+  "bpm": 200.0,
+  "level": "8.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "封焔の135秒[DX]",
+  "bpm": 200.0,
+  "level": "12.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Blew Moon[SD]",
+  "bpm": 180.0,
+  "level": "12.5",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "魔ジョ狩リ[DX]",
+  "bpm": 190.0,
+  "level": "11.1",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "\"411Ψ892\"[DX]",
+  "bpm": 184.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "STEEL TRANSONIC[DX]",
+  "bpm": 236.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "STEEL TRANSONIC[DX]",
+  "bpm": 236.0,
+  "level": "8.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Nitrous Fury[SD]",
+  "bpm": 144.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Strive against fate[DX]",
+  "bpm": 209.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "火炎地獄[SD]",
+  "bpm": 216.0,
+  "level": "9.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Xaleid◆scopiX (2)[DX]",
+  "bpm": 180.0,
+  "level": "11.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Xaleid◆scopiX (2)[DX]",
+  "bpm": 180.0,
+  "level": "13.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "系ぎて[DX]",
+  "bpm": 88.0,
+  "level": "10.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Xaleid◆scopiX[DX]",
+  "bpm": 180.0,
+  "level": "11.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Xaleid◆scopiX[DX]",
+  "bpm": 180.0,
+  "level": "13.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "World's end loneliness[DX]",
+  "bpm": 205.0,
+  "level": "7.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "World's end loneliness[DX]",
+  "bpm": 205.0,
+  "level": "9.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "World's end loneliness[DX]",
+  "bpm": 205.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "四月の雨[SD]",
+  "bpm": 79.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "忙シー日[DX]",
+  "bpm": 150.0,
+  "level": "11.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Round Round Spinning Around[DX]",
+  "bpm": 175.0,
+  "level": "10.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "air's gravity[SD]",
+  "bpm": 137.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Aiolos[SD]",
+  "bpm": 205.0,
+  "level": "8.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Link[SD]",
+  "bpm": 132.0,
+  "level": "13.5",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Alea jacta est![SD]",
+  "bpm": 162.0,
+  "level": "14.8",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "PANDORA PARADOXXX[SD]",
+  "bpm": 150.0,
+  "level": "11.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ナミダと流星[DX]",
+  "bpm": 190.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ガラテアの螺旋[SD]",
+  "bpm": 200.0,
+  "level": "14.7",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "raputa[DX]",
+  "bpm": 339.0,
+  "level": "7.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "raputa[DX]",
+  "bpm": 339.0,
+  "level": "13.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Scarlet Wings[DX]",
+  "bpm": 183.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "チエルカ／エソテリカ[DX]",
+  "bpm": 205.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "ぼくたちいつでも　しゅわっしゅわ！[DX]",
+  "bpm": 132.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ジングルベル[SD]",
+  "bpm": 100.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "ジングルベル[SD]",
+  "bpm": 100.0,
+  "level": "10.9",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ジングルベル[SD]",
+  "bpm": 100.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "地球[DX]",
+  "bpm": 79.0,
+  "level": "9.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "VERTeX (rintaro soma deconstructed remix)[DX]",
+  "bpm": 158.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "STEREOSCAPE[DX]",
+  "bpm": 164.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "VANTABLACK RAVER[DX]",
+  "bpm": 170.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "World's end BLACKBOX[DX]",
+  "bpm": 205.0,
+  "level": "7.8",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "World's end BLACKBOX[DX]",
+  "bpm": 205.0,
+  "level": "10.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "World's end BLACKBOX[DX]",
+  "bpm": 205.0,
+  "level": "13.1",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Contrapasso -paradiso-[SD]",
+  "bpm": 243.0,
+  "level": "9.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Contrapasso -paradiso-[SD]",
+  "bpm": 243.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Flashback[DX]",
+  "bpm": 160.0,
+  "level": "11.5",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Flashback[DX]",
+  "bpm": 160.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ATLAS RUSH[DX]",
+  "bpm": 156.0,
+  "level": "12.6",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ATLAS RUSH[DX]",
+  "bpm": 156.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "LANCE[SD]",
+  "bpm": 156.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "蒼穹舞楽[DX]",
+  "bpm": 195.0,
+  "level": "12.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Rising on the horizon[DX]",
+  "bpm": 200.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Rising on the horizon[DX]",
+  "bpm": 200.0,
+  "level": "12.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Danza zandA[SD]",
+  "bpm": 129.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Believe the Rainbow[DX]",
+  "bpm": 133.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "雨露霜雪[DX]",
+  "bpm": 250.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "雨露霜雪[DX]",
+  "bpm": 250.0,
+  "level": "9.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "みんなのマイマイマー[SD]",
+  "bpm": 175.0,
+  "level": "11.2",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "みんなのマイマイマー[SD]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "氷滅の135小節[DX]",
+  "bpm": 205.0,
+  "level": "7.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "氷滅の135小節[DX]",
+  "bpm": 205.0,
+  "level": "9.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "躯樹の墓守[DX]",
+  "bpm": 211.0,
+  "level": "9.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "躯樹の墓守[DX]",
+  "bpm": 211.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ヤミツキ[DX]",
+  "bpm": 208.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Amereistr[DX]",
+  "bpm": 147.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Amereistr[DX]",
+  "bpm": 147.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ヱデン[DX]",
+  "bpm": 137.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Trick tear[DX]",
+  "bpm": 222.0,
+  "level": "12.5",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "アンバークロニクル[DX]",
+  "bpm": 192.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Ututu[DX]",
+  "bpm": 172.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "[X][DX]",
+  "bpm": 162.0,
+  "level": "12.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Our Wrenally[SD]",
+  "bpm": 105.0,
+  "level": "9.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "オレンジの夏[SD]",
+  "bpm": 132.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Moon of Noon[SD]",
+  "bpm": 200.0,
+  "level": "7.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Moon of Noon[SD]",
+  "bpm": 200.0,
+  "level": "13.1",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Valsqotch[DX]",
+  "bpm": 125.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Glorious Crown[SD]",
+  "bpm": 225.0,
+  "level": "7.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Glorious Crown[SD]",
+  "bpm": 225.0,
+  "level": "10.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Redemption[DX]",
+  "bpm": 175.0,
+  "level": "11.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Metamorphosism[DX]",
+  "bpm": 144.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "You Mean the World to Me[DX]",
+  "bpm": 180.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Excalibur ～Revived resolution～[SD]",
+  "bpm": 200.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "BLACK SWAN[DX]",
+  "bpm": 201.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "BLACK SWAN[DX]",
+  "bpm": 201.0,
+  "level": "8.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ブレインジャックシンドローム[DX]",
+  "bpm": 204.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Colorfull:Encounter[DX]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "フェイクフェイス・フェイルセイフ[DX]",
+  "bpm": 202.0,
+  "level": "7.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "SPILL OVER COLORS[SD]",
+  "bpm": 142.0,
+  "level": "11.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "SPILL OVER COLORS[SD]",
+  "bpm": 142.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Churros Parlor[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Prophesy One[SD]",
+  "bpm": 264.0,
+  "level": "7.7",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Tricolor⁂circuS[DX]",
+  "bpm": 180.0,
+  "level": "10.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "KHYMΞXΛ[DX]",
+  "bpm": 220.0,
+  "level": "8.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Divide et impera![DX]",
+  "bpm": 166.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "≠彡\"/了→[DX]",
+  "bpm": 222.0,
+  "level": "9.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "QuiQ[DX]",
+  "bpm": 120.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "QuiQ[DX]",
+  "bpm": 120.0,
+  "level": "8.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Schwarzschild[SD]",
+  "bpm": 188.0,
+  "level": "9.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Schwarzschild[SD]",
+  "bpm": 188.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Schwarzschild[SD]",
+  "bpm": 188.0,
+  "level": "14.9",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Now or Never[DX]",
+  "bpm": 202.0,
+  "level": "14.1",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "End of Twilight[SD]",
+  "bpm": 180.0,
+  "level": "11.9",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Acceleration[SD]",
+  "bpm": 180.0,
+  "level": "11.9",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "白花の天使[DX]",
+  "bpm": 200.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "白花の天使[DX]",
+  "bpm": 200.0,
+  "level": "8.7",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "白花の天使[DX]",
+  "bpm": 200.0,
+  "level": "12.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "UniTas[DX]",
+  "bpm": 205.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "パラマウント☆ショータイム！！[DX]",
+  "bpm": 222.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "トノサマビーム[DX]",
+  "bpm": 170.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "記憶、記録[SD]",
+  "bpm": 185.0,
+  "level": "9.2",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "記憶、記録[SD]",
+  "bpm": 185.0,
+  "level": "14.3",
+  "diff_name": "Re:Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Mutation[DX]",
+  "bpm": 155.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "星詠みとデスペラード[DX]",
+  "bpm": 182.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Raven Emperor[DX]",
+  "bpm": 205.0,
+  "level": "8.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Raven Emperor[DX]",
+  "bpm": 205.0,
+  "level": "12.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ミルキースター・シューティングスター[DX]",
+  "bpm": 184.0,
+  "level": "10.7",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ミルキースター・シューティングスター[DX]",
+  "bpm": 184.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "CiRCLE CAMPAiGN[DX]",
+  "bpm": 182.0,
+  "level": "11.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "ℝ∈Χ LUNATiCA[DX]",
+  "bpm": 230.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "ℝ∈Χ LUNATiCA[DX]",
+  "bpm": 230.0,
+  "level": "9.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Neon Kingdom[DX]",
+  "bpm": 130.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "ほしぞらスペクタクル[DX]",
+  "bpm": 200.0,
+  "level": "8.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ほしぞらスペクタクル[DX]",
+  "bpm": 200.0,
+  "level": "12.5",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "勦滅[DX]",
+  "bpm": 200.0,
+  "level": "5.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "勦滅[DX]",
+  "bpm": 200.0,
+  "level": "7.8",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "勦滅[DX]",
+  "bpm": 200.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "NAGAREBOSHI☆ROCKET[DX]",
+  "bpm": 216.0,
+  "level": "8.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "BETTER CHOICE[SD]",
+  "bpm": 130.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Garakuta Doll Play[SD]",
+  "bpm": 256.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Ourania[DX]",
+  "bpm": 204.0,
+  "level": "8.0",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "ｉｓｏｐｈｏｔｅ[DX]",
+  "bpm": 160.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "longest_jack": 4
+ },
+ {
+  "title": "Cider P@rty[DX]",
+  "bpm": 180.0,
+  "level": "11.0",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Åntinomiε[DX]",
+  "bpm": 242.0,
+  "level": "6.0",
+  "diff_name": "Basic",
+  "longest_jack": 4
+ },
+ {
+  "title": "Åntinomiε[DX]",
+  "bpm": 242.0,
+  "level": "9.5",
+  "diff_name": "Adv",
+  "longest_jack": 4
+ },
+ {
+  "title": "Åntinomiε[DX]",
+  "bpm": 242.0,
+  "level": "12.8",
+  "diff_name": "Expert",
+  "longest_jack": 4
+ },
+ {
+  "title": "Åntinomiε[DX]",
+  "bpm": 242.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "longest_jack": 4
+ }
+]

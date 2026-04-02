@@ -1,9 +1,25 @@
 #!/usr/bin/env python3
 """
-Simai chart parser and ASCII visualizer for maimai charts.
+Simai chart parser for maimai.
 
-Parses maidata.txt files into time-stamped events, then renders them
-as fixed-time-step ASCII representations for pattern analysis.
+Parses maidata.txt files (simai format) into time-stamped Note events
+with proper slide timing (1-beat delay + travel duration), touch note
+handling, BPM changes, and combo counting.
+
+Usage:
+    from simai_parser import parse_maidata, parse_chart_string, Note
+
+    data = parse_maidata('path/to/maidata.txt')
+    notes = parse_chart_string(data['charts'][5], data['metadata'].bpm)
+
+    # Each note has: time_ms, position, note_type, slide timing, combo info
+    for n in notes:
+        if n.note_type == 'slide':
+            print(f'{n.time_ms}ms: slide {n.position}->{n.slide_end}, '
+                  f'action at {n.slide_action_ms}ms, ends at {n.slide_end_ms}ms')
+
+Combo counting: tap=1, break=1, hold=1, slide=2, touch=1
+Slide timing: tap -> 1 beat delay -> action begins -> travel -> end
 """
 
 import re

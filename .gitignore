@@ -3,6 +3,8 @@ __pycache__/
 venv/
 *.json
 !pattern_ground_truth.json
+!data/*.json
+!paika_ground_truth.json
 audio-data/
 Maichart-Converts-*/
 maimai-scores/
@@ -11,3 +13,4 @@ Output_NoBGA_*/
 web/data/
 highlights/
 review-queue/
+app_staging.py

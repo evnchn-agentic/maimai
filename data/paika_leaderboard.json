@@ -1,0 +1,8147 @@
+[
+ {
+  "title": "Future[SD]",
+  "bpm": 130.0,
+  "level": "12.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.8255,
+  "sections": 1,
+  "total_groups": 124
+ },
+ {
+  "title": "planet dancer[SD]",
+  "bpm": 127.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.8206,
+  "sections": 3,
+  "total_groups": 103
+ },
+ {
+  "title": "tape/stop/night[DX]",
+  "bpm": 115.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.6727,
+  "sections": 7,
+  "total_groups": 102
+ },
+ {
+  "title": "弱虫モンブラン[SD]",
+  "bpm": 120.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.6043,
+  "sections": 5,
+  "total_groups": 72
+ },
+ {
+  "title": "Freak Out Hr.[DX]",
+  "bpm": 180.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.5958,
+  "sections": 6,
+  "total_groups": 126
+ },
+ {
+  "title": "[DX]",
+  "bpm": 130.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.5383,
+  "sections": 8,
+  "total_groups": 68
+ },
+ {
+  "title": "不思議の国のクリスマス[SD]",
+  "bpm": 128.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.5084,
+  "sections": 8,
+  "total_groups": 83
+ },
+ {
+  "title": "スリップフリップ[SD]",
+  "bpm": 143.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.4821,
+  "sections": 6,
+  "total_groups": 91
+ },
+ {
+  "title": "Imitation:Loud Lounge[SD]",
+  "bpm": 145.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.4384,
+  "sections": 3,
+  "total_groups": 58
+ },
+ {
+  "title": "SPILL OVER COLORS[SD]",
+  "bpm": 142.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.4222,
+  "sections": 9,
+  "total_groups": 74
+ },
+ {
+  "title": "吉原ラメント[SD]",
+  "bpm": 191.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.4212,
+  "sections": 5,
+  "total_groups": 93
+ },
+ {
+  "title": "ECHO[SD]",
+  "bpm": 140.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.3172,
+  "sections": 3,
+  "total_groups": 66
+ },
+ {
+  "title": "ECHO[SD]",
+  "bpm": 140.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.3172,
+  "sections": 3,
+  "total_groups": 66
+ },
+ {
+  "title": "LOSE CONTROL[DX]",
+  "bpm": 150.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.3119,
+  "sections": 4,
+  "total_groups": 63
+ },
+ {
+  "title": "サンバランド[SD]",
+  "bpm": 132.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.3069,
+  "sections": 3,
+  "total_groups": 65
+ },
+ {
+  "title": "YATTA![SD]",
+  "bpm": 133.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "paika_score": 0.2888,
+  "sections": 4,
+  "total_groups": 36
+ },
+ {
+  "title": "conflict[SD]",
+  "bpm": 160.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.2815,
+  "sections": 4,
+  "total_groups": 64
+ },
+ {
+  "title": "Blows Up Everything[DX]",
+  "bpm": 215.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.2646,
+  "sections": 2,
+  "total_groups": 50
+ },
+ {
+  "title": "ENJOY POLIS[SD]",
+  "bpm": 220.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.2589,
+  "sections": 5,
+  "total_groups": 48
+ },
+ {
+  "title": "Caliburne ～Story of the Legendary sword～[SD]",
+  "bpm": 190.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.2536,
+  "sections": 3,
+  "total_groups": 79
+ },
+ {
+  "title": "はんぶんこ[DX]",
+  "bpm": 124.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.2524,
+  "sections": 6,
+  "total_groups": 31
+ },
+ {
+  "title": "Clattanoia[DX]",
+  "bpm": 190.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.2523,
+  "sections": 4,
+  "total_groups": 33
+ },
+ {
+  "title": "MUSIC PЯAYER[DX]",
+  "bpm": 168.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.2442,
+  "sections": 8,
+  "total_groups": 49
+ },
+ {
+  "title": "Living Universe[SD]",
+  "bpm": 155.0,
+  "level": "12.6",
+  "diff_name": "Re:Master",
+  "paika_score": 0.2323,
+  "sections": 2,
+  "total_groups": 23
+ },
+ {
+  "title": "インフェルノ[DX]",
+  "bpm": 185.0,
+  "level": "13.0",
+  "diff_name": "Re:Master",
+  "paika_score": 0.2281,
+  "sections": 4,
+  "total_groups": 32
+ },
+ {
+  "title": "Ututu[DX]",
+  "bpm": 172.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.2274,
+  "sections": 4,
+  "total_groups": 26
+ },
+ {
+  "title": "イガク[DX]",
+  "bpm": 170.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.2198,
+  "sections": 5,
+  "total_groups": 51
+ },
+ {
+  "title": "片想いサンバ[SD]",
+  "bpm": 150.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.2188,
+  "sections": 3,
+  "total_groups": 31
+ },
+ {
+  "title": "新宝島[DX]",
+  "bpm": 158.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "paika_score": 0.2184,
+  "sections": 3,
+  "total_groups": 16
+ },
+ {
+  "title": "フィクサー[SD]",
+  "bpm": 135.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.2184,
+  "sections": 5,
+  "total_groups": 49
+ },
+ {
+  "title": "東京リアルワールド[SD]",
+  "bpm": 150.0,
+  "level": "10.8",
+  "diff_name": "Master",
+  "paika_score": 0.2137,
+  "sections": 3,
+  "total_groups": 33
+ },
+ {
+  "title": "頓珍漢の宴[SD]",
+  "bpm": 145.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.2137,
+  "sections": 2,
+  "total_groups": 58
+ },
+ {
+  "title": "紅蓮の弓矢[SD]",
+  "bpm": 180.0,
+  "level": "11.1",
+  "diff_name": "Master",
+  "paika_score": 0.2105,
+  "sections": 3,
+  "total_groups": 24
+ },
+ {
+  "title": "最終鬼畜妹・一部声[SD]",
+  "bpm": 200.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.2103,
+  "sections": 1,
+  "total_groups": 42
+ },
+ {
+  "title": "STARTLINER[DX]",
+  "bpm": 135.0,
+  "level": "12.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.2063,
+  "sections": 4,
+  "total_groups": 15
+ },
+ {
+  "title": "クレイジー・ビート[DX]",
+  "bpm": 130.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.2058,
+  "sections": 2,
+  "total_groups": 23
+ },
+ {
+  "title": "ワンダーシャッフェンの法則[DX]",
+  "bpm": 170.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "paika_score": 0.2046,
+  "sections": 5,
+  "total_groups": 39
+ },
+ {
+  "title": "Endless World[SD]",
+  "bpm": 142.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "paika_score": 0.2007,
+  "sections": 3,
+  "total_groups": 26
+ },
+ {
+  "title": "悪戯センセーション[DX]",
+  "bpm": 192.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.1985,
+  "sections": 8,
+  "total_groups": 39
+ },
+ {
+  "title": "終わりなき物語[SD]",
+  "bpm": 150.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.1936,
+  "sections": 2,
+  "total_groups": 26
+ },
+ {
+  "title": "サウンド[SD]",
+  "bpm": 160.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.1914,
+  "sections": 1,
+  "total_groups": 29
+ },
+ {
+  "title": "Fragrance[SD]",
+  "bpm": 180.0,
+  "level": "14.6",
+  "diff_name": "Re:Master",
+  "paika_score": 0.1904,
+  "sections": 3,
+  "total_groups": 34
+ },
+ {
+  "title": "幻想に咲いた花[DX]",
+  "bpm": 186.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.1898,
+  "sections": 6,
+  "total_groups": 40
+ },
+ {
+  "title": "Panopticon[SD]",
+  "bpm": 110.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.1872,
+  "sections": 4,
+  "total_groups": 50
+ },
+ {
+  "title": "INTERNET OVERDOSE[DX]",
+  "bpm": 163.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.1853,
+  "sections": 4,
+  "total_groups": 36
+ },
+ {
+  "title": "SQUAD-Phvntom-[DX]",
+  "bpm": 200.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.1843,
+  "sections": 3,
+  "total_groups": 29
+ },
+ {
+  "title": "猫祭り[SD]",
+  "bpm": 160.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1834,
+  "sections": 3,
+  "total_groups": 52
+ },
+ {
+  "title": "Trust[DX]",
+  "bpm": 155.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.1786,
+  "sections": 3,
+  "total_groups": 45
+ },
+ {
+  "title": "インパアフェクシオン・ホワイトガアル[DX]",
+  "bpm": 207.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.1784,
+  "sections": 9,
+  "total_groups": 44
+ },
+ {
+  "title": "デビル☆アイドル[DX]",
+  "bpm": 180.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.1766,
+  "sections": 3,
+  "total_groups": 18
+ },
+ {
+  "title": "アイドル[DX]",
+  "bpm": 166.0,
+  "level": "13.1",
+  "diff_name": "Re:Master",
+  "paika_score": 0.1764,
+  "sections": 5,
+  "total_groups": 29
+ },
+ {
+  "title": "青空のラプソディ[DX]",
+  "bpm": 135.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.1727,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "ウミユリ海底譚[SD]",
+  "bpm": 120.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1723,
+  "sections": 4,
+  "total_groups": 42
+ },
+ {
+  "title": "好き！雪！本気マジック[SD]",
+  "bpm": 167.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.1722,
+  "sections": 6,
+  "total_groups": 27
+ },
+ {
+  "title": "咲キ誇レ常世ノ華[SD]",
+  "bpm": 170.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.1718,
+  "sections": 8,
+  "total_groups": 30
+ },
+ {
+  "title": "フリィダム ロリィタ[SD]",
+  "bpm": 150.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.1706,
+  "sections": 5,
+  "total_groups": 26
+ },
+ {
+  "title": "キャプテン・ムラサのケツアンカー[SD]",
+  "bpm": 190.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1698,
+  "sections": 2,
+  "total_groups": 24
+ },
+ {
+  "title": "絶え間なく藍色[DX]",
+  "bpm": 125.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1693,
+  "sections": 5,
+  "total_groups": 41
+ },
+ {
+  "title": "Excalibur ～Revived resolution～[SD]",
+  "bpm": 200.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "paika_score": 0.1679,
+  "sections": 4,
+  "total_groups": 50
+ },
+ {
+  "title": "Sweets Time[DX]",
+  "bpm": 150.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.1669,
+  "sections": 1,
+  "total_groups": 25
+ },
+ {
+  "title": "女々しくて[SD]",
+  "bpm": 143.0,
+  "level": "11.1",
+  "diff_name": "Master",
+  "paika_score": 0.1644,
+  "sections": 2,
+  "total_groups": 16
+ },
+ {
+  "title": "Magical Flavor[SD]",
+  "bpm": 98.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.1619,
+  "sections": 2,
+  "total_groups": 27
+ },
+ {
+  "title": "ヤミツキ[DX]",
+  "bpm": 208.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.1591,
+  "sections": 4,
+  "total_groups": 35
+ },
+ {
+  "title": "ジングルベル[DX]",
+  "bpm": 100.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.159,
+  "sections": 3,
+  "total_groups": 24
+ },
+ {
+  "title": "トランスダンスアナーキー[DX]",
+  "bpm": 195.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.1578,
+  "sections": 5,
+  "total_groups": 35
+ },
+ {
+  "title": "ないせんのうた[SD]",
+  "bpm": 184.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.1572,
+  "sections": 9,
+  "total_groups": 32
+ },
+ {
+  "title": "どんぐりGAME[DX]",
+  "bpm": 130.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.1553,
+  "sections": 4,
+  "total_groups": 20
+ },
+ {
+  "title": "ダンスロボットダンス[SD]",
+  "bpm": 190.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.1514,
+  "sections": 3,
+  "total_groups": 36
+ },
+ {
+  "title": "The Great Banquet[DX]",
+  "bpm": 170.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.1508,
+  "sections": 6,
+  "total_groups": 32
+ },
+ {
+  "title": "ってゐ！ ～えいえんてゐVer～[SD]",
+  "bpm": 156.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "paika_score": 0.1497,
+  "sections": 2,
+  "total_groups": 42
+ },
+ {
+  "title": "ダンスロボットダンス[DX]",
+  "bpm": 190.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.1493,
+  "sections": 2,
+  "total_groups": 39
+ },
+ {
+  "title": "撩乱乙女†無双劇[DX]",
+  "bpm": 165.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1492,
+  "sections": 5,
+  "total_groups": 32
+ },
+ {
+  "title": "ド屑[DX]",
+  "bpm": 115.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.1474,
+  "sections": 2,
+  "total_groups": 22
+ },
+ {
+  "title": "にじよめちゃん体操第一億[SD]",
+  "bpm": 120.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.1458,
+  "sections": 1,
+  "total_groups": 14
+ },
+ {
+  "title": "ジンギスカン[SD]",
+  "bpm": 150.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.1455,
+  "sections": 3,
+  "total_groups": 26
+ },
+ {
+  "title": "Flashback[DX]",
+  "bpm": 160.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.1453,
+  "sections": 5,
+  "total_groups": 30
+ },
+ {
+  "title": "Now Loading!!!![SD]",
+  "bpm": 193.0,
+  "level": "11.2",
+  "diff_name": "Master",
+  "paika_score": 0.1411,
+  "sections": 4,
+  "total_groups": 20
+ },
+ {
+  "title": "BOKUTO[DX]",
+  "bpm": 188.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1405,
+  "sections": 3,
+  "total_groups": 27
+ },
+ {
+  "title": "ナイトメア☆パーティーナイト[SD]",
+  "bpm": 175.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "paika_score": 0.1379,
+  "sections": 5,
+  "total_groups": 26
+ },
+ {
+  "title": "病み垢ステロイド[DX]",
+  "bpm": 203.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.1362,
+  "sections": 5,
+  "total_groups": 24
+ },
+ {
+  "title": "Now or Never[DX]",
+  "bpm": 202.0,
+  "level": "14.1",
+  "diff_name": "Re:Master",
+  "paika_score": 0.1351,
+  "sections": 5,
+  "total_groups": 34
+ },
+ {
+  "title": "Bad Apple!! feat.nomico (Tetsuya Komuro Remix)[DX]",
+  "bpm": 135.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.134,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "FEEL the BEATS[SD]",
+  "bpm": 166.0,
+  "level": "13.9",
+  "diff_name": "Re:Master",
+  "paika_score": 0.1335,
+  "sections": 4,
+  "total_groups": 24
+ },
+ {
+  "title": "Help me, ERINNNNNN!![DX]",
+  "bpm": 185.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.1328,
+  "sections": 3,
+  "total_groups": 16
+ },
+ {
+  "title": "H-A-J-I-M-A-R-I-U-T-A-!![SD]",
+  "bpm": 140.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "paika_score": 0.1328,
+  "sections": 3,
+  "total_groups": 29
+ },
+ {
+  "title": "高気圧ねこロック[SD]",
+  "bpm": 260.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.1313,
+  "sections": 4,
+  "total_groups": 36
+ },
+ {
+  "title": "ハオ[DX]",
+  "bpm": 176.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.1297,
+  "sections": 2,
+  "total_groups": 35
+ },
+ {
+  "title": "Baddest[DX]",
+  "bpm": 215.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.1289,
+  "sections": 5,
+  "total_groups": 40
+ },
+ {
+  "title": "Falling[DX]",
+  "bpm": 122.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1288,
+  "sections": 4,
+  "total_groups": 31
+ },
+ {
+  "title": "SAKURAスキップ[SD]",
+  "bpm": 165.0,
+  "level": "10.9",
+  "diff_name": "Master",
+  "paika_score": 0.1281,
+  "sections": 3,
+  "total_groups": 15
+ },
+ {
+  "title": "Crush On You[SD]",
+  "bpm": 125.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.128,
+  "sections": 3,
+  "total_groups": 18
+ },
+ {
+  "title": "アイデンティティ[SD]",
+  "bpm": 140.0,
+  "level": "9.8",
+  "diff_name": "Master",
+  "paika_score": 0.1279,
+  "sections": 2,
+  "total_groups": 14
+ },
+ {
+  "title": "ロストワードクロニカル[DX]",
+  "bpm": 184.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1274,
+  "sections": 5,
+  "total_groups": 33
+ },
+ {
+  "title": "しねばいいのに[SD]",
+  "bpm": 138.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.1269,
+  "sections": 4,
+  "total_groups": 13
+ },
+ {
+  "title": "NOISY LOVE POWER☆[SD]",
+  "bpm": 140.0,
+  "level": "12.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.126,
+  "sections": 4,
+  "total_groups": 28
+ },
+ {
+  "title": "Scars of FAUNA[SD]",
+  "bpm": 165.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.1257,
+  "sections": 3,
+  "total_groups": 22
+ },
+ {
+  "title": "Scarlet Wings[DX]",
+  "bpm": 183.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.1255,
+  "sections": 5,
+  "total_groups": 18
+ },
+ {
+  "title": "with U[DX]",
+  "bpm": 155.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1254,
+  "sections": 2,
+  "total_groups": 39
+ },
+ {
+  "title": "妄想感傷代償連盟[SD]",
+  "bpm": 110.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "paika_score": 0.125,
+  "sections": 4,
+  "total_groups": 32
+ },
+ {
+  "title": "マトリョシカ[SD]",
+  "bpm": 205.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.1244,
+  "sections": 2,
+  "total_groups": 18
+ },
+ {
+  "title": "踊[DX]",
+  "bpm": 128.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "paika_score": 0.1221,
+  "sections": 5,
+  "total_groups": 35
+ },
+ {
+  "title": "熱異常[DX]",
+  "bpm": 183.0,
+  "level": "13.9",
+  "diff_name": "Re:Master",
+  "paika_score": 0.122,
+  "sections": 2,
+  "total_groups": 45
+ },
+ {
+  "title": "TwisteD! XD[DX]",
+  "bpm": 200.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.1217,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "HECATONCHEIR[DX]",
+  "bpm": 155.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "paika_score": 0.1204,
+  "sections": 3,
+  "total_groups": 34
+ },
+ {
+  "title": "AMABIE[DX]",
+  "bpm": 190.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.1199,
+  "sections": 2,
+  "total_groups": 29
+ },
+ {
+  "title": "最強 the サマータイム!!!!![DX]",
+  "bpm": 178.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.1196,
+  "sections": 5,
+  "total_groups": 25
+ },
+ {
+  "title": "HAGAKIRI[DX]",
+  "bpm": 172.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.1196,
+  "sections": 2,
+  "total_groups": 20
+ },
+ {
+  "title": "Sound Chimera[DX]",
+  "bpm": 190.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.1191,
+  "sections": 1,
+  "total_groups": 25
+ },
+ {
+  "title": "CYBER Sparks[SD]",
+  "bpm": 192.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.1189,
+  "sections": 2,
+  "total_groups": 18
+ },
+ {
+  "title": "ツムギボシ[DX]",
+  "bpm": 190.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.1188,
+  "sections": 6,
+  "total_groups": 32
+ },
+ {
+  "title": "源平大戦絵巻テーマソング[SD]",
+  "bpm": 190.0,
+  "level": "14.6",
+  "diff_name": "Re:Master",
+  "paika_score": 0.1182,
+  "sections": 4,
+  "total_groups": 27
+ },
+ {
+  "title": "Strive against fate[DX]",
+  "bpm": 209.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.1181,
+  "sections": 4,
+  "total_groups": 27
+ },
+ {
+  "title": "うっせぇわ[DX]",
+  "bpm": 178.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "paika_score": 0.1175,
+  "sections": 2,
+  "total_groups": 21
+ },
+ {
+  "title": "Bad Apple!! feat.nomico[SD]",
+  "bpm": 138.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.1165,
+  "sections": 2,
+  "total_groups": 27
+ },
+ {
+  "title": "Cyaegha[DX]",
+  "bpm": 200.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.1165,
+  "sections": 4,
+  "total_groups": 27
+ },
+ {
+  "title": "Overjoy ★ OVERDOSE!![DX]",
+  "bpm": 143.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "paika_score": 0.1161,
+  "sections": 4,
+  "total_groups": 29
+ },
+ {
+  "title": "ATLAS RUSH[DX]",
+  "bpm": 156.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "paika_score": 0.1155,
+  "sections": 3,
+  "total_groups": 27
+ },
+ {
+  "title": "極圏[SD]",
+  "bpm": 207.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.1148,
+  "sections": 6,
+  "total_groups": 33
+ },
+ {
+  "title": "ベースラインやってる？笑[DX]",
+  "bpm": 128.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1144,
+  "sections": 6,
+  "total_groups": 22
+ },
+ {
+  "title": "veil[DX]",
+  "bpm": 150.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.114,
+  "sections": 4,
+  "total_groups": 23
+ },
+ {
+  "title": "モエチャッカファイア[DX]",
+  "bpm": 163.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.1131,
+  "sections": 5,
+  "total_groups": 24
+ },
+ {
+  "title": "Burn My Soul[DX]",
+  "bpm": 180.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.1122,
+  "sections": 4,
+  "total_groups": 34
+ },
+ {
+  "title": "コネクト[SD]",
+  "bpm": 175.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "paika_score": 0.1119,
+  "sections": 1,
+  "total_groups": 16
+ },
+ {
+  "title": "極上スマイル[SD]",
+  "bpm": 143.0,
+  "level": "10.8",
+  "diff_name": "Master",
+  "paika_score": 0.1118,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "うまるん体操[SD]",
+  "bpm": 170.0,
+  "level": "10.8",
+  "diff_name": "Master",
+  "paika_score": 0.1116,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "Irresistible[DX]",
+  "bpm": 157.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.1116,
+  "sections": 2,
+  "total_groups": 26
+ },
+ {
+  "title": "Schwarzschild[SD]",
+  "bpm": 188.0,
+  "level": "14.9",
+  "diff_name": "Re:Master",
+  "paika_score": 0.111,
+  "sections": 3,
+  "total_groups": 27
+ },
+ {
+  "title": "進捗どうですか？[SD]",
+  "bpm": 199.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.1109,
+  "sections": 7,
+  "total_groups": 24
+ },
+ {
+  "title": "Contrapasso -paradiso-[SD]",
+  "bpm": 243.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.1108,
+  "sections": 4,
+  "total_groups": 31
+ },
+ {
+  "title": "ラビットホール[DX]",
+  "bpm": 173.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.1105,
+  "sections": 3,
+  "total_groups": 28
+ },
+ {
+  "title": "Imperishable Night 2006 (2016 Refine)[SD]",
+  "bpm": 161.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.1101,
+  "sections": 3,
+  "total_groups": 21
+ },
+ {
+  "title": "New York Back Raise[DX]",
+  "bpm": 160.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.1098,
+  "sections": 2,
+  "total_groups": 31
+ },
+ {
+  "title": "ユビキリ[SD]",
+  "bpm": 174.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.1098,
+  "sections": 4,
+  "total_groups": 23
+ },
+ {
+  "title": "とりあえずアナタがいなくなるまえに[DX]",
+  "bpm": 140.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "paika_score": 0.1096,
+  "sections": 4,
+  "total_groups": 16
+ },
+ {
+  "title": "モザイクロール[DX]",
+  "bpm": 145.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.1086,
+  "sections": 3,
+  "total_groups": 27
+ },
+ {
+  "title": "Southern Cross[DX]",
+  "bpm": 171.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.1083,
+  "sections": 4,
+  "total_groups": 27
+ },
+ {
+  "title": "今、誰が為のかがり火へ[DX]",
+  "bpm": 156.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "paika_score": 0.1075,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "fantastic dreamer[SD]",
+  "bpm": 185.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.1063,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "GOODMEN[SD]",
+  "bpm": 175.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1063,
+  "sections": 1,
+  "total_groups": 15
+ },
+ {
+  "title": "ドクハク[SD]",
+  "bpm": 208.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1061,
+  "sections": 4,
+  "total_groups": 24
+ },
+ {
+  "title": "Sky High [Reborn][SD]",
+  "bpm": 144.0,
+  "level": "12.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.106,
+  "sections": 4,
+  "total_groups": 20
+ },
+ {
+  "title": "Rainbow Rush Story[DX]",
+  "bpm": 200.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.1055,
+  "sections": 3,
+  "total_groups": 24
+ },
+ {
+  "title": "エスオーエス[DX]",
+  "bpm": 196.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.1054,
+  "sections": 4,
+  "total_groups": 27
+ },
+ {
+  "title": "INTERNET YAMERO[DX]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.1053,
+  "sections": 2,
+  "total_groups": 40
+ },
+ {
+  "title": "未来(ソラ)の歌[SD]",
+  "bpm": 153.0,
+  "level": "11.4",
+  "diff_name": "Master",
+  "paika_score": 0.105,
+  "sections": 4,
+  "total_groups": 15
+ },
+ {
+  "title": "星めぐり、果ての君へ。[DX]",
+  "bpm": 175.0,
+  "level": "13.1",
+  "diff_name": "Re:Master",
+  "paika_score": 0.1049,
+  "sections": 4,
+  "total_groups": 23
+ },
+ {
+  "title": "popcorn[DX]",
+  "bpm": 130.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.1046,
+  "sections": 4,
+  "total_groups": 14
+ },
+ {
+  "title": "Love Kills U[DX]",
+  "bpm": 160.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1046,
+  "sections": 2,
+  "total_groups": 29
+ },
+ {
+  "title": "ミルキースター・シューティングスター[DX]",
+  "bpm": 184.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.1044,
+  "sections": 3,
+  "total_groups": 21
+ },
+ {
+  "title": "コネクト[DX]",
+  "bpm": 175.0,
+  "level": "12.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.104,
+  "sections": 1,
+  "total_groups": 16
+ },
+ {
+  "title": "ミラクル・ショッピング[SD]",
+  "bpm": 167.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.1039,
+  "sections": 4,
+  "total_groups": 18
+ },
+ {
+  "title": "蒼空に舞え、墨染の桜[SD]",
+  "bpm": 150.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1038,
+  "sections": 5,
+  "total_groups": 24
+ },
+ {
+  "title": "Garakuta Doll Play[SD]",
+  "bpm": 256.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.1038,
+  "sections": 3,
+  "total_groups": 24
+ },
+ {
+  "title": "コスモポップファンクラブ[DX]",
+  "bpm": 129.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.1035,
+  "sections": 5,
+  "total_groups": 17
+ },
+ {
+  "title": "Deep in Abyss[SD]",
+  "bpm": 135.0,
+  "level": "12.3",
+  "diff_name": "Master",
+  "paika_score": 0.1034,
+  "sections": 3,
+  "total_groups": 11
+ },
+ {
+  "title": "あなたは世界の終わりにずんだを食べるのだ[DX]",
+  "bpm": 140.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.1029,
+  "sections": 4,
+  "total_groups": 28
+ },
+ {
+  "title": "OMAKENO Stroke[DX]",
+  "bpm": 240.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.1027,
+  "sections": 3,
+  "total_groups": 17
+ },
+ {
+  "title": "QuiQ[DX]",
+  "bpm": 120.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.1023,
+  "sections": 6,
+  "total_groups": 28
+ },
+ {
+  "title": "渦状銀河のシンフォニエッタ[SD]",
+  "bpm": 238.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.1022,
+  "sections": 4,
+  "total_groups": 21
+ },
+ {
+  "title": "39みゅーじっく！[DX]",
+  "bpm": 130.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "paika_score": 0.1021,
+  "sections": 1,
+  "total_groups": 12
+ },
+ {
+  "title": "残響散歌[DX]",
+  "bpm": 171.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.1017,
+  "sections": 4,
+  "total_groups": 23
+ },
+ {
+  "title": "Party 4U ”holy nite mix”[SD]",
+  "bpm": 159.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.1011,
+  "sections": 1,
+  "total_groups": 23
+ },
+ {
+  "title": "明星ロケット[SD]",
+  "bpm": 163.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.1009,
+  "sections": 1,
+  "total_groups": 10
+ },
+ {
+  "title": "赤心性：カマトト荒療治[SD]",
+  "bpm": 205.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.1001,
+  "sections": 2,
+  "total_groups": 16
+ },
+ {
+  "title": "Everybody Say HARDCORE TANO*C[DX]",
+  "bpm": 170.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0998,
+  "sections": 3,
+  "total_groups": 27
+ },
+ {
+  "title": "Beat Opera op.1[DX]",
+  "bpm": 145.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0998,
+  "sections": 6,
+  "total_groups": 22
+ },
+ {
+  "title": "大輪の魂 (feat. AO, 司芭扶)[DX]",
+  "bpm": 137.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0996,
+  "sections": 3,
+  "total_groups": 30
+ },
+ {
+  "title": "曖昧mind[SD]",
+  "bpm": 135.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0993,
+  "sections": 1,
+  "total_groups": 23
+ },
+ {
+  "title": "ぼくたちいつでも　しゅわっしゅわ！[DX]",
+  "bpm": 132.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0992,
+  "sections": 2,
+  "total_groups": 25
+ },
+ {
+  "title": "フタタビ[DX]",
+  "bpm": 136.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0989,
+  "sections": 5,
+  "total_groups": 17
+ },
+ {
+  "title": "もぺもぺ[DX]",
+  "bpm": 100.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0988,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "RIFFRAIN[DX]",
+  "bpm": 122.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0988,
+  "sections": 3,
+  "total_groups": 24
+ },
+ {
+  "title": "お呪い[DX]",
+  "bpm": 115.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0987,
+  "sections": 3,
+  "total_groups": 12
+ },
+ {
+  "title": "コネクト[DX]",
+  "bpm": 175.0,
+  "level": "11.3",
+  "diff_name": "Master",
+  "paika_score": 0.0986,
+  "sections": 1,
+  "total_groups": 14
+ },
+ {
+  "title": "電車で電車でGO!GO!GO!GC! -GMT remix-[SD]",
+  "bpm": 134.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0984,
+  "sections": 6,
+  "total_groups": 18
+ },
+ {
+  "title": "円舞曲、君に[SD]",
+  "bpm": 128.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0983,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "グリーンライツ・セレナーデ[DX]",
+  "bpm": 200.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0982,
+  "sections": 8,
+  "total_groups": 24
+ },
+ {
+  "title": "ナイトメア☆パーティーナイト[SD]",
+  "bpm": 175.0,
+  "level": "12.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0976,
+  "sections": 4,
+  "total_groups": 18
+ },
+ {
+  "title": "Play merrily NEO[DX]",
+  "bpm": 180.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0973,
+  "sections": 1,
+  "total_groups": 17
+ },
+ {
+  "title": "Starlight Dance Floor[SD]",
+  "bpm": 128.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0969,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "Money Money[SD]",
+  "bpm": 145.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0963,
+  "sections": 5,
+  "total_groups": 22
+ },
+ {
+  "title": "#狂った民族２ PRAVARGYAZOOQA[DX]",
+  "bpm": 170.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0955,
+  "sections": 2,
+  "total_groups": 22
+ },
+ {
+  "title": "GRÄNDIR[DX]",
+  "bpm": 170.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0951,
+  "sections": 2,
+  "total_groups": 17
+ },
+ {
+  "title": "少女幻葬戦慄曲 ～ Necro Fantasia[SD]",
+  "bpm": 182.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0942,
+  "sections": 5,
+  "total_groups": 19
+ },
+ {
+  "title": "玩具狂奏曲 -終焉-[DX]",
+  "bpm": 130.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.094,
+  "sections": 1,
+  "total_groups": 10
+ },
+ {
+  "title": "Halcyon[SD]",
+  "bpm": 191.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.094,
+  "sections": 3,
+  "total_groups": 29
+ },
+ {
+  "title": "ワードワードワード[DX]",
+  "bpm": 137.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0936,
+  "sections": 5,
+  "total_groups": 26
+ },
+ {
+  "title": "ラグトレイン[DX]",
+  "bpm": 147.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0934,
+  "sections": 3,
+  "total_groups": 20
+ },
+ {
+  "title": "Tic Tac DREAMIN’[SD]",
+  "bpm": 125.0,
+  "level": "12.1",
+  "diff_name": "Master",
+  "paika_score": 0.0934,
+  "sections": 4,
+  "total_groups": 16
+ },
+ {
+  "title": "果ての空、僕らが見た光。[DX]",
+  "bpm": 178.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0932,
+  "sections": 5,
+  "total_groups": 22
+ },
+ {
+  "title": "CHAOS[DX]",
+  "bpm": 150.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.093,
+  "sections": 1,
+  "total_groups": 15
+ },
+ {
+  "title": "Seyana. ～何でも言うことを聞いてくれるアカネチャン～[SD]",
+  "bpm": 144.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0925,
+  "sections": 5,
+  "total_groups": 15
+ },
+ {
+  "title": "プリズム△▽リズム[DX]",
+  "bpm": 155.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0924,
+  "sections": 3,
+  "total_groups": 20
+ },
+ {
+  "title": "シスターシスター[DX]",
+  "bpm": 150.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0924,
+  "sections": 4,
+  "total_groups": 16
+ },
+ {
+  "title": "アルティメットセンパイ[DX]",
+  "bpm": 145.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0921,
+  "sections": 2,
+  "total_groups": 16
+ },
+ {
+  "title": "ステップアンドライム[DX]",
+  "bpm": 155.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0918,
+  "sections": 3,
+  "total_groups": 23
+ },
+ {
+  "title": "Selector[SD]",
+  "bpm": 148.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0909,
+  "sections": 4,
+  "total_groups": 21
+ },
+ {
+  "title": "東方スイーツ！～鬼畜姉妹と受難メイド～[SD]",
+  "bpm": 179.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0907,
+  "sections": 1,
+  "total_groups": 12
+ },
+ {
+  "title": "Beat Of Mind[SD]",
+  "bpm": 140.0,
+  "level": "14.2",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0905,
+  "sections": 3,
+  "total_groups": 18
+ },
+ {
+  "title": "184億回のマルチトニック[DX]",
+  "bpm": 184.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "paika_score": 0.0896,
+  "sections": 6,
+  "total_groups": 23
+ },
+ {
+  "title": "天使の翼。[DX]",
+  "bpm": 125.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0895,
+  "sections": 3,
+  "total_groups": 14
+ },
+ {
+  "title": "My Dearest Song[SD]",
+  "bpm": 145.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0894,
+  "sections": 2,
+  "total_groups": 20
+ },
+ {
+  "title": "We Are Us[DX]",
+  "bpm": 145.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.089,
+  "sections": 1,
+  "total_groups": 12
+ },
+ {
+  "title": "ジャガーノート[DX]",
+  "bpm": 190.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "paika_score": 0.0886,
+  "sections": 4,
+  "total_groups": 12
+ },
+ {
+  "title": "Altale[SD]",
+  "bpm": 90.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0884,
+  "sections": 1,
+  "total_groups": 13
+ },
+ {
+  "title": "アンチクロックワイズ[SD]",
+  "bpm": 186.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.088,
+  "sections": 5,
+  "total_groups": 17
+ },
+ {
+  "title": "囲い無き世は一期の月影[SD]",
+  "bpm": 172.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.0879,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "Grievous Lady[DX]",
+  "bpm": 210.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.0879,
+  "sections": 5,
+  "total_groups": 29
+ },
+ {
+  "title": "ねぇ、壊れタ人形ハ何処へ棄テらレるノ？[SD]",
+  "bpm": 188.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.0878,
+  "sections": 2,
+  "total_groups": 20
+ },
+ {
+  "title": "生命不詳[DX]",
+  "bpm": 200.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0878,
+  "sections": 7,
+  "total_groups": 22
+ },
+ {
+  "title": "D✪N’T  ST✪P  R✪CKIN’[SD]",
+  "bpm": 140.0,
+  "level": "13.5",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0878,
+  "sections": 1,
+  "total_groups": 13
+ },
+ {
+  "title": "采配の刻 Power of order[SD]",
+  "bpm": 185.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0877,
+  "sections": 3,
+  "total_groups": 14
+ },
+ {
+  "title": "カラッポ・ノンフィクション[DX]",
+  "bpm": 170.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0876,
+  "sections": 3,
+  "total_groups": 21
+ },
+ {
+  "title": "パズルリボン[DX]",
+  "bpm": 215.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0874,
+  "sections": 6,
+  "total_groups": 20
+ },
+ {
+  "title": "FestivaLight[SD]",
+  "bpm": 125.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0874,
+  "sections": 2,
+  "total_groups": 14
+ },
+ {
+  "title": "Fraq[DX]",
+  "bpm": 221.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0873,
+  "sections": 7,
+  "total_groups": 26
+ },
+ {
+  "title": "City Escape: Act1[SD]",
+  "bpm": 130.0,
+  "level": "12.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0867,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "7thSense[SD]",
+  "bpm": 150.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0862,
+  "sections": 2,
+  "total_groups": 22
+ },
+ {
+  "title": "天ノ弱[SD]",
+  "bpm": 200.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0857,
+  "sections": 3,
+  "total_groups": 20
+ },
+ {
+  "title": "はちみつアドベンチャー[DX]",
+  "bpm": 160.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0854,
+  "sections": 3,
+  "total_groups": 14
+ },
+ {
+  "title": "Change Our MIRAI！[DX]",
+  "bpm": 256.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.0848,
+  "sections": 3,
+  "total_groups": 10
+ },
+ {
+  "title": "全力☆Summer![SD]",
+  "bpm": 158.0,
+  "level": "10.8",
+  "diff_name": "Master",
+  "paika_score": 0.0842,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "徒花ネクロマンシー[DX]",
+  "bpm": 172.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.0841,
+  "sections": 3,
+  "total_groups": 13
+ },
+ {
+  "title": "きらっせ☆ウッド村ファーム[SD]",
+  "bpm": 190.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0839,
+  "sections": 2,
+  "total_groups": 15
+ },
+ {
+  "title": "東京レトロ[SD]",
+  "bpm": 126.0,
+  "level": "11.6",
+  "diff_name": "Master",
+  "paika_score": 0.0838,
+  "sections": 1,
+  "total_groups": 10
+ },
+ {
+  "title": "Luminaria[DX]",
+  "bpm": 227.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0837,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "恋のヒメヒメぺったんこ[SD]",
+  "bpm": 178.0,
+  "level": "10.3",
+  "diff_name": "Master",
+  "paika_score": 0.0836,
+  "sections": 1,
+  "total_groups": 12
+ },
+ {
+  "title": "カゲロウデイズ[SD]",
+  "bpm": 200.0,
+  "level": "14.1",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0836,
+  "sections": 3,
+  "total_groups": 20
+ },
+ {
+  "title": "きゅびびびびずむ[DX]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0831,
+  "sections": 4,
+  "total_groups": 25
+ },
+ {
+  "title": "ネコ日和。[DX]",
+  "bpm": 171.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0831,
+  "sections": 3,
+  "total_groups": 13
+ },
+ {
+  "title": "World Vanquisher[SD]",
+  "bpm": 170.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0829,
+  "sections": 2,
+  "total_groups": 22
+ },
+ {
+  "title": "Grip & Break down !![DX]",
+  "bpm": 160.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0828,
+  "sections": 8,
+  "total_groups": 24
+ },
+ {
+  "title": "WE'RE BACK!![DX]",
+  "bpm": 185.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0825,
+  "sections": 4,
+  "total_groups": 12
+ },
+ {
+  "title": "ViRTUS[DX]",
+  "bpm": 225.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.0825,
+  "sections": 4,
+  "total_groups": 16
+ },
+ {
+  "title": "ネクロファンタジア～Arr.Demetori[SD]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0824,
+  "sections": 6,
+  "total_groups": 22
+ },
+ {
+  "title": "Paradisus-Paradoxum[SD]",
+  "bpm": 201.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.082,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "ウマイネームイズうまみちゃん[DX]",
+  "bpm": 184.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "paika_score": 0.0819,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "絵の上手かった友達[SD]",
+  "bpm": 128.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "paika_score": 0.0818,
+  "sections": 1,
+  "total_groups": 12
+ },
+ {
+  "title": "いちげき！のテーマ[DX]",
+  "bpm": 175.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0815,
+  "sections": 3,
+  "total_groups": 19
+ },
+ {
+  "title": "B.B.K.K.B.K.K.[SD]",
+  "bpm": 170.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0815,
+  "sections": 1,
+  "total_groups": 17
+ },
+ {
+  "title": "結ンデ開イテ羅刹ト骸[SD]",
+  "bpm": 169.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0813,
+  "sections": 4,
+  "total_groups": 15
+ },
+ {
+  "title": "阿吽のビーツ[DX]",
+  "bpm": 103.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0808,
+  "sections": 3,
+  "total_groups": 12
+ },
+ {
+  "title": "MOBILYS[DX]",
+  "bpm": 144.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0808,
+  "sections": 2,
+  "total_groups": 24
+ },
+ {
+  "title": "はやくそれになりたい！[SD]",
+  "bpm": 185.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "paika_score": 0.0806,
+  "sections": 5,
+  "total_groups": 18
+ },
+ {
+  "title": "若い力[DX]",
+  "bpm": 114.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0806,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "クレイジークレイジーダンサーズ[SD]",
+  "bpm": 172.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "paika_score": 0.0803,
+  "sections": 5,
+  "total_groups": 17
+ },
+ {
+  "title": "Backyun! －悪い女－[SD]",
+  "bpm": 140.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0802,
+  "sections": 1,
+  "total_groups": 9
+ },
+ {
+  "title": "ライアーダンサー[DX]",
+  "bpm": 170.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0799,
+  "sections": 3,
+  "total_groups": 17
+ },
+ {
+  "title": "バッド・ダンス・ホール[SD]",
+  "bpm": 152.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0794,
+  "sections": 3,
+  "total_groups": 19
+ },
+ {
+  "title": "HANIPAGANDA[DX]",
+  "bpm": 181.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0791,
+  "sections": 1,
+  "total_groups": 23
+ },
+ {
+  "title": "四次元跳躍機関[SD]",
+  "bpm": 135.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.079,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "Knight Rider[DX]",
+  "bpm": 200.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0789,
+  "sections": 4,
+  "total_groups": 17
+ },
+ {
+  "title": "メズマライザー[DX]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0787,
+  "sections": 5,
+  "total_groups": 24
+ },
+ {
+  "title": "バラライカ[SD]",
+  "bpm": 140.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "paika_score": 0.0782,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "keep hopping[SD]",
+  "bpm": 155.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.078,
+  "sections": 2,
+  "total_groups": 14
+ },
+ {
+  "title": "フレ！フレ！ベストフレンズ[DX]",
+  "bpm": 166.0,
+  "level": "11.5",
+  "diff_name": "Master",
+  "paika_score": 0.0779,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "Blows Up Everything[DX]",
+  "bpm": 215.0,
+  "level": "14.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0771,
+  "sections": 2,
+  "total_groups": 18
+ },
+ {
+  "title": "華の集落、秋のお届け[DX]",
+  "bpm": 165.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.077,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "Valsqotch[DX]",
+  "bpm": 125.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "paika_score": 0.0768,
+  "sections": 2,
+  "total_groups": 13
+ },
+ {
+  "title": "N3V3R G3T OV3R[DX]",
+  "bpm": 128.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0766,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "白い雪のプリンセスは[SD]",
+  "bpm": 200.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0764,
+  "sections": 4,
+  "total_groups": 22
+ },
+ {
+  "title": "≠彡\"/了→[DX]",
+  "bpm": 222.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0763,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "パーフェクト生命[SD]",
+  "bpm": 200.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0761,
+  "sections": 6,
+  "total_groups": 18
+ },
+ {
+  "title": "Last Brave ～ Go to zero[SD]",
+  "bpm": 132.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0759,
+  "sections": 5,
+  "total_groups": 20
+ },
+ {
+  "title": "スティールユー[DX]",
+  "bpm": 190.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0757,
+  "sections": 4,
+  "total_groups": 24
+ },
+ {
+  "title": "Blank Paper (Prod. TEMPLIME)[DX]",
+  "bpm": 133.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0754,
+  "sections": 4,
+  "total_groups": 20
+ },
+ {
+  "title": "電光石火[DX]",
+  "bpm": 165.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0748,
+  "sections": 3,
+  "total_groups": 16
+ },
+ {
+  "title": "電光石火[DX]",
+  "bpm": 165.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0748,
+  "sections": 3,
+  "total_groups": 16
+ },
+ {
+  "title": "ピュグマリオンの咒文[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0747,
+  "sections": 3,
+  "total_groups": 12
+ },
+ {
+  "title": "VIIIbit Explorer[SD]",
+  "bpm": 188.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.0747,
+  "sections": 4,
+  "total_groups": 22
+ },
+ {
+  "title": "ハードコア・シンドローム[DX]",
+  "bpm": 180.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0744,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ハジマリノピアノ[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.074,
+  "sections": 3,
+  "total_groups": 25
+ },
+ {
+  "title": "Schwarzschild[SD]",
+  "bpm": 188.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.074,
+  "sections": 3,
+  "total_groups": 18
+ },
+ {
+  "title": "DANGEROOOOUS JUNGLE[DX]",
+  "bpm": 160.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0739,
+  "sections": 3,
+  "total_groups": 14
+ },
+ {
+  "title": "悪魔の踊り方[DX]",
+  "bpm": 106.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0733,
+  "sections": 3,
+  "total_groups": 17
+ },
+ {
+  "title": "星界ちゃんと可不ちゃんのおつかい合騒曲[DX]",
+  "bpm": 220.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0733,
+  "sections": 3,
+  "total_groups": 21
+ },
+ {
+  "title": "患部で止まってすぐ溶ける～狂気の優曇華院[SD]",
+  "bpm": 200.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.073,
+  "sections": 5,
+  "total_groups": 21
+ },
+ {
+  "title": "Lost Princess[SD]",
+  "bpm": 150.0,
+  "level": "11.3",
+  "diff_name": "Master",
+  "paika_score": 0.0729,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "JUMPIN' JUMPIN'[SD]",
+  "bpm": 163.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0728,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "Infantoon Fantasy[SD]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0727,
+  "sections": 2,
+  "total_groups": 28
+ },
+ {
+  "title": "ミラクルポップ☆アドベンチャー!!!!![DX]",
+  "bpm": 180.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.0727,
+  "sections": 6,
+  "total_groups": 26
+ },
+ {
+  "title": "Alcyone[DX]",
+  "bpm": 176.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0724,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "BULK UP (GAME EXCLUSIVE EDIT)[DX]",
+  "bpm": 200.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.0723,
+  "sections": 3,
+  "total_groups": 26
+ },
+ {
+  "title": "からくりピエロ[SD]",
+  "bpm": 102.0,
+  "level": "12.9",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0721,
+  "sections": 1,
+  "total_groups": 12
+ },
+ {
+  "title": "Rush-More[DX]",
+  "bpm": 160.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0719,
+  "sections": 1,
+  "total_groups": 13
+ },
+ {
+  "title": "みんなのマイマイマー[SD]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0719,
+  "sections": 1,
+  "total_groups": 10
+ },
+ {
+  "title": "Limits[DX]",
+  "bpm": 140.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0717,
+  "sections": 2,
+  "total_groups": 18
+ },
+ {
+  "title": "Live & Learn[SD]",
+  "bpm": 172.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0716,
+  "sections": 5,
+  "total_groups": 17
+ },
+ {
+  "title": "サドマミホリック[SD]",
+  "bpm": 200.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0714,
+  "sections": 1,
+  "total_groups": 23
+ },
+ {
+  "title": "二息歩行[SD]",
+  "bpm": 180.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0713,
+  "sections": 3,
+  "total_groups": 14
+ },
+ {
+  "title": "デスパレイト[SD]",
+  "bpm": 145.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0713,
+  "sections": 2,
+  "total_groups": 18
+ },
+ {
+  "title": "connecting with you[SD]",
+  "bpm": 155.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0713,
+  "sections": 5,
+  "total_groups": 16
+ },
+ {
+  "title": "フキゲンワルツ[SD]",
+  "bpm": 210.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0712,
+  "sections": 3,
+  "total_groups": 12
+ },
+ {
+  "title": "ヒステリックナイトガール[DX]",
+  "bpm": 126.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.071,
+  "sections": 3,
+  "total_groups": 17
+ },
+ {
+  "title": "つづみぐさ[DX]",
+  "bpm": 170.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0707,
+  "sections": 4,
+  "total_groups": 22
+ },
+ {
+  "title": "演劇[DX]",
+  "bpm": 176.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0703,
+  "sections": 2,
+  "total_groups": 16
+ },
+ {
+  "title": "冬のこもりうた[DX]",
+  "bpm": 118.0,
+  "level": "13.0",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0699,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "Empire of Winter[DX]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0697,
+  "sections": 1,
+  "total_groups": 10
+ },
+ {
+  "title": "ENERGY SYNERGY MATRIX[SD]",
+  "bpm": 160.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0694,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "Never Give Up![DX]",
+  "bpm": 171.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0689,
+  "sections": 5,
+  "total_groups": 18
+ },
+ {
+  "title": "甲賀忍法帖[SD]",
+  "bpm": 178.0,
+  "level": "12.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0684,
+  "sections": 4,
+  "total_groups": 15
+ },
+ {
+  "title": "ヤバい○○[SD]",
+  "bpm": 133.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "paika_score": 0.0681,
+  "sections": 3,
+  "total_groups": 10
+ },
+ {
+  "title": "Oshama Scramble![SD]",
+  "bpm": 190.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.0679,
+  "sections": 4,
+  "total_groups": 24
+ },
+ {
+  "title": "Cosmic Magic Shooter[SD]",
+  "bpm": 163.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0678,
+  "sections": 3,
+  "total_groups": 13
+ },
+ {
+  "title": "My First Phone[SD]",
+  "bpm": 114.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0674,
+  "sections": 1,
+  "total_groups": 13
+ },
+ {
+  "title": "7 Girls War[SD]",
+  "bpm": 180.0,
+  "level": "10.2",
+  "diff_name": "Master",
+  "paika_score": 0.0673,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "The Gong of Knockout[DX]",
+  "bpm": 180.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0673,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "STARRED HEART[DX]",
+  "bpm": 140.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0672,
+  "sections": 4,
+  "total_groups": 18
+ },
+ {
+  "title": "RondeauX of RagnaroQ[DX]",
+  "bpm": 185.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.0672,
+  "sections": 4,
+  "total_groups": 25
+ },
+ {
+  "title": "Xevel[SD]",
+  "bpm": 176.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.067,
+  "sections": 5,
+  "total_groups": 24
+ },
+ {
+  "title": "Los! Los! Los![SD]",
+  "bpm": 240.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.0669,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "System “Z”[SD]",
+  "bpm": 147.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0669,
+  "sections": 2,
+  "total_groups": 18
+ },
+ {
+  "title": "えれくとりっく・えんじぇぅ[SD]",
+  "bpm": 150.0,
+  "level": "11.6",
+  "diff_name": "Master",
+  "paika_score": 0.0667,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "エイリアンエイリアン[SD]",
+  "bpm": 152.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0667,
+  "sections": 3,
+  "total_groups": 21
+ },
+ {
+  "title": "デリヘル呼んだら君が来た[DX]",
+  "bpm": 190.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0658,
+  "sections": 3,
+  "total_groups": 13
+ },
+ {
+  "title": "永遠のメロディ[SD]",
+  "bpm": 155.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0657,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "相思創愛[SD]",
+  "bpm": 195.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0654,
+  "sections": 4,
+  "total_groups": 16
+ },
+ {
+  "title": "アウターサイエンス[SD]",
+  "bpm": 195.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0652,
+  "sections": 1,
+  "total_groups": 12
+ },
+ {
+  "title": "M@GICAL☆CURE! LOVE ♥ SHOT![DX]",
+  "bpm": 192.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0649,
+  "sections": 3,
+  "total_groups": 13
+ },
+ {
+  "title": "うまぴょい伝説[DX]",
+  "bpm": 170.0,
+  "level": "13.5",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0646,
+  "sections": 3,
+  "total_groups": 15
+ },
+ {
+  "title": "ドーナツホール[SD]",
+  "bpm": 252.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0644,
+  "sections": 4,
+  "total_groups": 18
+ },
+ {
+  "title": "ナミダと流星[DX]",
+  "bpm": 190.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0644,
+  "sections": 3,
+  "total_groups": 12
+ },
+ {
+  "title": "Mare Maris[SD]",
+  "bpm": 150.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0644,
+  "sections": 1,
+  "total_groups": 14
+ },
+ {
+  "title": "L4TS:2018 (feat. あひる & KTA)[SD]",
+  "bpm": 190.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0642,
+  "sections": 2,
+  "total_groups": 14
+ },
+ {
+  "title": "Make Up Your World feat. キョンシーのCiちゃん & らっぷびと[DX]",
+  "bpm": 180.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0638,
+  "sections": 3,
+  "total_groups": 10
+ },
+ {
+  "title": "メランコリック[SD]",
+  "bpm": 140.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "paika_score": 0.0637,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "命に嫌われている[DX]",
+  "bpm": 200.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0636,
+  "sections": 4,
+  "total_groups": 22
+ },
+ {
+  "title": "Dazzle hop[DX]",
+  "bpm": 220.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.0631,
+  "sections": 1,
+  "total_groups": 13
+ },
+ {
+  "title": "アイム・マイヒーロー[DX]",
+  "bpm": 138.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0629,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "イチズレシピ[SD]",
+  "bpm": 170.0,
+  "level": "10.7",
+  "diff_name": "Master",
+  "paika_score": 0.0625,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "Melody！[DX]",
+  "bpm": 175.0,
+  "level": "12.2",
+  "diff_name": "Master",
+  "paika_score": 0.0625,
+  "sections": 5,
+  "total_groups": 15
+ },
+ {
+  "title": "The wheel to the right[SD]",
+  "bpm": 200.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0625,
+  "sections": 4,
+  "total_groups": 17
+ },
+ {
+  "title": "私のドッペルゲンガー[DX]",
+  "bpm": 190.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0621,
+  "sections": 4,
+  "total_groups": 19
+ },
+ {
+  "title": "ナイト・オブ・ナイツ[DX]",
+  "bpm": 180.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0618,
+  "sections": 1,
+  "total_groups": 11
+ },
+ {
+  "title": "届かない花束[DX]",
+  "bpm": 180.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0617,
+  "sections": 1,
+  "total_groups": 13
+ },
+ {
+  "title": "ロウワー[DX]",
+  "bpm": 132.0,
+  "level": "13.5",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0615,
+  "sections": 3,
+  "total_groups": 18
+ },
+ {
+  "title": "クレイジークレイジーダンサーズ[SD]",
+  "bpm": 172.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0615,
+  "sections": 4,
+  "total_groups": 16
+ },
+ {
+  "title": "フェイクフェイス・フェイルセイフ[DX]",
+  "bpm": 202.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0615,
+  "sections": 2,
+  "total_groups": 16
+ },
+ {
+  "title": "Sweet Devil[SD]",
+  "bpm": 132.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0614,
+  "sections": 4,
+  "total_groups": 12
+ },
+ {
+  "title": "NightTheater[DX]",
+  "bpm": 151.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0614,
+  "sections": 2,
+  "total_groups": 17
+ },
+ {
+  "title": "タテマエと本心の大乱闘[DX]",
+  "bpm": 180.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0612,
+  "sections": 4,
+  "total_groups": 13
+ },
+ {
+  "title": "デッドレッドガールズ[SD]",
+  "bpm": 230.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0611,
+  "sections": 1,
+  "total_groups": 17
+ },
+ {
+  "title": "インターネットサバイバー[DX]",
+  "bpm": 172.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.061,
+  "sections": 3,
+  "total_groups": 16
+ },
+ {
+  "title": "アンクローズ・ヒューマン[DX]",
+  "bpm": 178.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0609,
+  "sections": 4,
+  "total_groups": 13
+ },
+ {
+  "title": "the EmpErroR[SD]",
+  "bpm": 240.0,
+  "level": "14.9",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0607,
+  "sections": 5,
+  "total_groups": 15
+ },
+ {
+  "title": "イロトリドリのメロディ[SD]",
+  "bpm": 140.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0601,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "サンバランド[DX]",
+  "bpm": 132.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0599,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Arrival of Tears[SD]",
+  "bpm": 200.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0598,
+  "sections": 4,
+  "total_groups": 12
+ },
+ {
+  "title": "チュルリラ・チュルリラ・ダッダッダ！[SD]",
+  "bpm": 220.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0595,
+  "sections": 1,
+  "total_groups": 13
+ },
+ {
+  "title": "We Gonna Journey[SD]",
+  "bpm": 160.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0593,
+  "sections": 6,
+  "total_groups": 18
+ },
+ {
+  "title": "スナネコのうた[DX]",
+  "bpm": 92.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0591,
+  "sections": 3,
+  "total_groups": 10
+ },
+ {
+  "title": "居並ぶ穀物と溜息まじりの運送屋[DX]",
+  "bpm": 160.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0591,
+  "sections": 3,
+  "total_groups": 18
+ },
+ {
+  "title": "幾四音-Ixion-[SD]",
+  "bpm": 210.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0584,
+  "sections": 3,
+  "total_groups": 17
+ },
+ {
+  "title": "スカーレット警察のゲットーパトロール24時[DX]",
+  "bpm": 160.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0577,
+  "sections": 2,
+  "total_groups": 16
+ },
+ {
+  "title": "お気に召すまま[SD]",
+  "bpm": 143.0,
+  "level": "13.0",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0576,
+  "sections": 1,
+  "total_groups": 9
+ },
+ {
+  "title": "Session High⤴[SD]",
+  "bpm": 200.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0576,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "Divide et impera![DX]",
+  "bpm": 166.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "paika_score": 0.0576,
+  "sections": 1,
+  "total_groups": 21
+ },
+ {
+  "title": "ふらふらふら、[DX]",
+  "bpm": 125.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0575,
+  "sections": 3,
+  "total_groups": 10
+ },
+ {
+  "title": "MAXRAGE[DX]",
+  "bpm": 222.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0574,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "We Gonna Party[SD]",
+  "bpm": 159.0,
+  "level": "13.9",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0574,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "お願い！コンコンお稲荷さま[DX]",
+  "bpm": 175.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0572,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "アトロポスと最果の探究者[DX]",
+  "bpm": 230.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0569,
+  "sections": 3,
+  "total_groups": 11
+ },
+ {
+  "title": "Energizing Flame[DX]",
+  "bpm": 201.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0568,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "有頂天ドリーマーズ[DX]",
+  "bpm": 188.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0567,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "TiamaT:F minor[SD]",
+  "bpm": 215.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.0567,
+  "sections": 2,
+  "total_groups": 17
+ },
+ {
+  "title": "宿星審判[DX]",
+  "bpm": 189.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0566,
+  "sections": 3,
+  "total_groups": 18
+ },
+ {
+  "title": "御旗のもとに[DX]",
+  "bpm": 147.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0559,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "終点[SD]",
+  "bpm": 222.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0557,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "BlackFlagBreaker!![DX]",
+  "bpm": 163.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0553,
+  "sections": 2,
+  "total_groups": 13
+ },
+ {
+  "title": "名探偵連続殺人事件[SD]",
+  "bpm": 140.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0551,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "Paradisoda[DX]",
+  "bpm": 135.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.055,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "下克上々[DX]",
+  "bpm": 164.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0549,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "CiRCLE CAMPAiGN[DX]",
+  "bpm": 182.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0549,
+  "sections": 3,
+  "total_groups": 16
+ },
+ {
+  "title": "日本の米は世界一[SD]",
+  "bpm": 138.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0547,
+  "sections": 1,
+  "total_groups": 13
+ },
+ {
+  "title": "KING[DX]",
+  "bpm": 166.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0544,
+  "sections": 4,
+  "total_groups": 16
+ },
+ {
+  "title": "フォニイ[DX]",
+  "bpm": 170.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0543,
+  "sections": 3,
+  "total_groups": 17
+ },
+ {
+  "title": "Supersonic Generation[DX]",
+  "bpm": 155.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0543,
+  "sections": 3,
+  "total_groups": 15
+ },
+ {
+  "title": "Save This World νMIX[SD]",
+  "bpm": 143.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0543,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "転生林檎[DX]",
+  "bpm": 145.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0542,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "Mystic Parade[DX]",
+  "bpm": 133.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0542,
+  "sections": 5,
+  "total_groups": 15
+ },
+ {
+  "title": "隠密あんみつDX[DX]",
+  "bpm": 155.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0542,
+  "sections": 4,
+  "total_groups": 14
+ },
+ {
+  "title": "共感覚おばけ[SD]",
+  "bpm": 184.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0541,
+  "sections": 3,
+  "total_groups": 12
+ },
+ {
+  "title": "Last Kingdom[DX]",
+  "bpm": 150.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.054,
+  "sections": 2,
+  "total_groups": 16
+ },
+ {
+  "title": "マイオドレ！舞舞タイム[DX]",
+  "bpm": 183.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0539,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "拝啓ドッペルゲンガー[SD]",
+  "bpm": 181.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0536,
+  "sections": 1,
+  "total_groups": 12
+ },
+ {
+  "title": "劣等上等[DX]",
+  "bpm": 160.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0534,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "ヘタリアン☆ジェット[SD]",
+  "bpm": 132.0,
+  "level": "10.5",
+  "diff_name": "Master",
+  "paika_score": 0.0533,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Endless World[SD]",
+  "bpm": 142.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0533,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "魂のルフラン[DX]",
+  "bpm": 130.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0531,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "群青シグナル[DX]",
+  "bpm": 206.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0531,
+  "sections": 3,
+  "total_groups": 13
+ },
+ {
+  "title": "Starry Colors[DX]",
+  "bpm": 177.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0531,
+  "sections": 4,
+  "total_groups": 12
+ },
+ {
+  "title": "BOOM! BOOM!! BOOM!!![DX]",
+  "bpm": 170.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0529,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "brilliant better[SD]",
+  "bpm": 172.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0528,
+  "sections": 4,
+  "total_groups": 13
+ },
+ {
+  "title": "ココロ[SD]",
+  "bpm": 140.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0526,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "UTAKATA[DX]",
+  "bpm": 185.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.0525,
+  "sections": 3,
+  "total_groups": 11
+ },
+ {
+  "title": "とびだせ！TO THE COSMIC!![DX]",
+  "bpm": 185.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0524,
+  "sections": 4,
+  "total_groups": 21
+ },
+ {
+  "title": "バーチャルダム　ネーション[DX]",
+  "bpm": 210.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0522,
+  "sections": 4,
+  "total_groups": 12
+ },
+ {
+  "title": "Lost Desire[DX]",
+  "bpm": 170.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0521,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "Synthesis.[DX]",
+  "bpm": 180.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "paika_score": 0.052,
+  "sections": 4,
+  "total_groups": 12
+ },
+ {
+  "title": "MIRACLE RUSH[DX]",
+  "bpm": 168.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "paika_score": 0.0519,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "SPICY SWINGY STYLE[SD]",
+  "bpm": 242.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0518,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "PERSONA feat. PANXI[DX]",
+  "bpm": 175.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0517,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "Signature[SD]",
+  "bpm": 128.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0515,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "Get Happy[SD]",
+  "bpm": 150.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0515,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "YURUSHITE[DX]",
+  "bpm": 270.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0513,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "Lia=Fail[DX]",
+  "bpm": 186.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "paika_score": 0.0513,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "oboro[DX]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0512,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "寝起きヤシの木[DX]",
+  "bpm": 160.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0511,
+  "sections": 3,
+  "total_groups": 11
+ },
+ {
+  "title": "絡めトリック利己ライザー[DX]",
+  "bpm": 150.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0508,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "Ghost Dance[DX]",
+  "bpm": 154.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0506,
+  "sections": 4,
+  "total_groups": 15
+ },
+ {
+  "title": "閃鋼のブリューナク[SD]",
+  "bpm": 140.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0506,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "エゴロック[DX]",
+  "bpm": 225.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0505,
+  "sections": 2,
+  "total_groups": 15
+ },
+ {
+  "title": "リンカーネイション[SD]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0504,
+  "sections": 3,
+  "total_groups": 11
+ },
+ {
+  "title": "腐れ外道とチョコレゐト[SD]",
+  "bpm": 260.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0504,
+  "sections": 1,
+  "total_groups": 10
+ },
+ {
+  "title": "ハム太郎とっとこうた[DX]",
+  "bpm": 140.0,
+  "level": "12.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.05,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "ピーマンたべたら[SD]",
+  "bpm": 178.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.05,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "YKWTD[DX]",
+  "bpm": 174.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.05,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "Jouez Avec Moi?[DX]",
+  "bpm": 162.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.05,
+  "sections": 3,
+  "total_groups": 13
+ },
+ {
+  "title": "おとせサンダー[DX]",
+  "bpm": 177.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0498,
+  "sections": 3,
+  "total_groups": 15
+ },
+ {
+  "title": "Vallista[DX]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0497,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "RE:INCARNATED DRAGNER[DX]",
+  "bpm": 188.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0497,
+  "sections": 4,
+  "total_groups": 15
+ },
+ {
+  "title": "独りんぼエンヴィー[DX]",
+  "bpm": 132.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0496,
+  "sections": 3,
+  "total_groups": 14
+ },
+ {
+  "title": "おジャ魔女カーニバル!![DX]",
+  "bpm": 147.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0495,
+  "sections": 1,
+  "total_groups": 13
+ },
+ {
+  "title": "OTOGEMA[DX]",
+  "bpm": 145.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0495,
+  "sections": 3,
+  "total_groups": 16
+ },
+ {
+  "title": "木彫り鯰と右肩ゾンビ[SD]",
+  "bpm": 150.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0493,
+  "sections": 1,
+  "total_groups": 15
+ },
+ {
+  "title": "Ragnarok[SD]",
+  "bpm": 184.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "paika_score": 0.0492,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "Deicide[DX]",
+  "bpm": 163.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0491,
+  "sections": 3,
+  "total_groups": 16
+ },
+ {
+  "title": "Garakuta Doll Play[SD]",
+  "bpm": 256.0,
+  "level": "14.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0491,
+  "sections": 2,
+  "total_groups": 15
+ },
+ {
+  "title": "青春コンプレックス[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0489,
+  "sections": 2,
+  "total_groups": 17
+ },
+ {
+  "title": "Moon of Noon[SD]",
+  "bpm": 200.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0485,
+  "sections": 1,
+  "total_groups": 9
+ },
+ {
+  "title": "Jörqer[DX]",
+  "bpm": 98.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0484,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "甲賀忍法帖[SD]",
+  "bpm": 178.0,
+  "level": "11.3",
+  "diff_name": "Master",
+  "paika_score": 0.0482,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "光線チューニング[SD]",
+  "bpm": 190.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0482,
+  "sections": 3,
+  "total_groups": 11
+ },
+ {
+  "title": "Random[DX]",
+  "bpm": 132.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0481,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "メイトなやつら（FEAT. 天開司, 佐藤ホームズ, あっくん大魔王 & 歌衣メイカ）[DX]",
+  "bpm": 160.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.048,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "PANDORA PARADOXXX[SD]",
+  "bpm": 150.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "paika_score": 0.048,
+  "sections": 3,
+  "total_groups": 14
+ },
+ {
+  "title": "キレキャリオン[SD]",
+  "bpm": 170.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0477,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "GIGANTØMAKHIA[DX]",
+  "bpm": 190.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "paika_score": 0.0476,
+  "sections": 3,
+  "total_groups": 13
+ },
+ {
+  "title": "なるとなぎのパーフェクトロックンロール教室[SD]",
+  "bpm": 216.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0474,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "マヌルネコのうた[DX]",
+  "bpm": 137.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0472,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "スイートマジック[SD]",
+  "bpm": 123.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "paika_score": 0.0471,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "無敵We are one!![SD]",
+  "bpm": 190.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0471,
+  "sections": 3,
+  "total_groups": 15
+ },
+ {
+  "title": "HYP3RTRIBE[DX]",
+  "bpm": 190.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.0469,
+  "sections": 2,
+  "total_groups": 14
+ },
+ {
+  "title": "酔いどれ知らず[DX]",
+  "bpm": 115.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0467,
+  "sections": 3,
+  "total_groups": 12
+ },
+ {
+  "title": "シリウスの輝きのように[DX]",
+  "bpm": 158.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0464,
+  "sections": 3,
+  "total_groups": 15
+ },
+ {
+  "title": "アンドロイドガール[DX]",
+  "bpm": 192.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0464,
+  "sections": 5,
+  "total_groups": 15
+ },
+ {
+  "title": "Ievan Polkka[SD]",
+  "bpm": 119.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0463,
+  "sections": 1,
+  "total_groups": 7
+ },
+ {
+  "title": "ダブルラリアット[SD]",
+  "bpm": 138.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0463,
+  "sections": 1,
+  "total_groups": 10
+ },
+ {
+  "title": "Bring it on[DX]",
+  "bpm": 143.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0462,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "Limit Break[SD]",
+  "bpm": 153.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0462,
+  "sections": 3,
+  "total_groups": 13
+ },
+ {
+  "title": "トンデモワンダーズ[DX]",
+  "bpm": 172.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0459,
+  "sections": 4,
+  "total_groups": 14
+ },
+ {
+  "title": "LOVE EAST[SD]",
+  "bpm": 168.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0454,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "猫猫的宇宙論[DX]",
+  "bpm": 134.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0453,
+  "sections": 3,
+  "total_groups": 10
+ },
+ {
+  "title": "リフヴェイン[DX]",
+  "bpm": 148.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0453,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "アンダーキッズ[DX]",
+  "bpm": 225.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0452,
+  "sections": 3,
+  "total_groups": 13
+ },
+ {
+  "title": "敗北の少年[SD]",
+  "bpm": 185.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0452,
+  "sections": 5,
+  "total_groups": 16
+ },
+ {
+  "title": "Retribution ～ Cycle of Redemption ～[DX]",
+  "bpm": 112.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0452,
+  "sections": 2,
+  "total_groups": 15
+ },
+ {
+  "title": "Party☆People☆Princess[DX]",
+  "bpm": 152.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0452,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "Heartbeats[SD]",
+  "bpm": 170.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0451,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "帝国少女[DX]",
+  "bpm": 118.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.045,
+  "sections": 4,
+  "total_groups": 12
+ },
+ {
+  "title": "Like the Wind [Reborn][SD]",
+  "bpm": 200.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.045,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "星見草[DX]",
+  "bpm": 164.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.045,
+  "sections": 3,
+  "total_groups": 11
+ },
+ {
+  "title": "WARNING×WARNING×WARNING[SD]",
+  "bpm": 172.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.0449,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "Rush-Hour[DX]",
+  "bpm": 224.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0449,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "Seize The Day[DX]",
+  "bpm": 122.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "paika_score": 0.0448,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ヴァンパイア[DX]",
+  "bpm": 164.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0445,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "デビルじゃないもん[DX]",
+  "bpm": 154.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0444,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "Love or Lies[SD]",
+  "bpm": 128.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "paika_score": 0.0442,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "アスヘノBRAVE[DX]",
+  "bpm": 150.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0442,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "ストリーミングハート[SD]",
+  "bpm": 210.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0442,
+  "sections": 1,
+  "total_groups": 9
+ },
+ {
+  "title": "QUATTUORUX[DX]",
+  "bpm": 220.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.0442,
+  "sections": 4,
+  "total_groups": 20
+ },
+ {
+  "title": "迷える音色は恋の唄[DX]",
+  "bpm": 165.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0442,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "Ultimate taste[DX]",
+  "bpm": 200.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.044,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "Sunday Night feat Kanata.N[DX]",
+  "bpm": 143.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0436,
+  "sections": 3,
+  "total_groups": 11
+ },
+ {
+  "title": "三妖精SAY YA!!![DX]",
+  "bpm": 150.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0435,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "Let you DIVE![DX]",
+  "bpm": 185.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0435,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "R'N'R Monsta[DX]",
+  "bpm": 220.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "paika_score": 0.0434,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "シリウスの輝きのように[DX]",
+  "bpm": 158.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "paika_score": 0.0433,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "Alea jacta est![SD]",
+  "bpm": 162.0,
+  "level": "14.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0433,
+  "sections": 1,
+  "total_groups": 12
+ },
+ {
+  "title": "みなえをチェック！[DX]",
+  "bpm": 178.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0432,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "BREaK! BREaK! BREaK![DX]",
+  "bpm": 165.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.0429,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "一か罰[DX]",
+  "bpm": 196.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0427,
+  "sections": 3,
+  "total_groups": 15
+ },
+ {
+  "title": "青春コンプレックス[DX]",
+  "bpm": 190.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "paika_score": 0.0426,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "奏者はただ背中と提琴で語るのみ[SD]",
+  "bpm": 230.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0424,
+  "sections": 3,
+  "total_groups": 11
+ },
+ {
+  "title": "幻想に咲いた花[DX]",
+  "bpm": 186.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0423,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "Soul-ride ON![DX]",
+  "bpm": 146.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "paika_score": 0.0421,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "キズナの物語[SD]",
+  "bpm": 128.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0419,
+  "sections": 1,
+  "total_groups": 9
+ },
+ {
+  "title": "VANTABLACK RAVER[DX]",
+  "bpm": 170.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0419,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "MEGATON KICK[DX]",
+  "bpm": 200.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0418,
+  "sections": 1,
+  "total_groups": 12
+ },
+ {
+  "title": "このふざけた素晴らしき世界は、僕の為にある[SD]",
+  "bpm": 152.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0416,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "カルマ[SD]",
+  "bpm": 195.0,
+  "level": "9.9",
+  "diff_name": "Master",
+  "paika_score": 0.0414,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "Bloody Trail[DX]",
+  "bpm": 195.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.0412,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "オトヒメモリー☆ウタゲーション[SD]",
+  "bpm": 140.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0409,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "幸せになれる隠しコマンドがあるらしい[SD]",
+  "bpm": 142.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0407,
+  "sections": 1,
+  "total_groups": 13
+ },
+ {
+  "title": "マツケンサンバⅡ[DX]",
+  "bpm": 133.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0406,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "オシオキGIMMICK!![DX]",
+  "bpm": 176.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0405,
+  "sections": 1,
+  "total_groups": 10
+ },
+ {
+  "title": "インフェルノ[DX]",
+  "bpm": 185.0,
+  "level": "11.7",
+  "diff_name": "Master",
+  "paika_score": 0.0404,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "全力ハッピーライフ[DX]",
+  "bpm": 190.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0404,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "神威[DX]",
+  "bpm": 210.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.0404,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "はやくそれになりたい！[SD]",
+  "bpm": 185.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0403,
+  "sections": 4,
+  "total_groups": 12
+ },
+ {
+  "title": "Snow Colored Score[DX]",
+  "bpm": 164.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0403,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "Barbed Eye[SD]",
+  "bpm": 135.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0403,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "天ノ弱[DX]",
+  "bpm": 200.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0402,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "紅蓮華[DX]",
+  "bpm": 135.0,
+  "level": "13.0",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0401,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "一か罰[DX]",
+  "bpm": 196.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.04,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "\"411Ψ892\"[DX]",
+  "bpm": 184.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0398,
+  "sections": 4,
+  "total_groups": 15
+ },
+ {
+  "title": "Axeria[SD]",
+  "bpm": 193.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.0398,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "MilK[SD]",
+  "bpm": 150.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0394,
+  "sections": 1,
+  "total_groups": 10
+ },
+ {
+  "title": "春を告げる[DX]",
+  "bpm": 120.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0393,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "結ンデ開イテ羅刹ト骸[SD]",
+  "bpm": 169.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "paika_score": 0.0393,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "患部で止まってすぐ溶ける～狂気の優曇華院[SD]",
+  "bpm": 200.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0393,
+  "sections": 2,
+  "total_groups": 14
+ },
+ {
+  "title": "エンドマークに希望と涙を添えて[SD]",
+  "bpm": 257.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0392,
+  "sections": 1,
+  "total_groups": 16
+ },
+ {
+  "title": "conflict[DX]",
+  "bpm": 160.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0392,
+  "sections": 3,
+  "total_groups": 10
+ },
+ {
+  "title": "アンノウン・マザーグース[SD]",
+  "bpm": 222.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0389,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "sweet little sister[DX]",
+  "bpm": 168.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0389,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "天使光輪[DX]",
+  "bpm": 203.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0389,
+  "sections": 3,
+  "total_groups": 10
+ },
+ {
+  "title": "ローリンガール[DX]",
+  "bpm": 195.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0388,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "QZKago Requiem[SD]",
+  "bpm": 257.0,
+  "level": "14.9",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0388,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "quiet room[DX]",
+  "bpm": 93.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0385,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "BLUE ZONE[DX]",
+  "bpm": 168.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "paika_score": 0.0384,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "夜明けまであと３秒[SD]",
+  "bpm": 182.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0384,
+  "sections": 1,
+  "total_groups": 12
+ },
+ {
+  "title": "町かどタンジェント[DX]",
+  "bpm": 165.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "paika_score": 0.0383,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ノーポイッ![DX]",
+  "bpm": 158.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "paika_score": 0.0381,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ギリギリ最強あいまいみー！[SD]",
+  "bpm": 185.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0381,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "アンバークロニクル[DX]",
+  "bpm": 192.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0381,
+  "sections": 3,
+  "total_groups": 15
+ },
+ {
+  "title": "ふ・れ・ん・ど・し・た・い[SD]",
+  "bpm": 148.0,
+  "level": "11.5",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0379,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "華の集落、秋のお届け[SD]",
+  "bpm": 165.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0378,
+  "sections": 1,
+  "total_groups": 13
+ },
+ {
+  "title": "StargazeR[SD]",
+  "bpm": 195.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0377,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "福宿音屋魂音泉[DX]",
+  "bpm": 162.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0374,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "RED[DX]",
+  "bpm": 168.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0372,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "ウルトラトレーラー[DX]",
+  "bpm": 155.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.037,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "まっすぐ→→→ストリーム！[DX]",
+  "bpm": 184.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.037,
+  "sections": 4,
+  "total_groups": 13
+ },
+ {
+  "title": "東奔西走行進曲[DX]",
+  "bpm": 165.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0369,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "Justified[SD]",
+  "bpm": 185.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0368,
+  "sections": 1,
+  "total_groups": 11
+ },
+ {
+  "title": "Oath Act[DX]",
+  "bpm": 172.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0365,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "System “Z”[SD]",
+  "bpm": 147.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0364,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "Metamorphosism[DX]",
+  "bpm": 144.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "paika_score": 0.0364,
+  "sections": 1,
+  "total_groups": 13
+ },
+ {
+  "title": "炎歌 -ほむらうた-[DX]",
+  "bpm": 108.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0363,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "Now or Never[DX]",
+  "bpm": 202.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0362,
+  "sections": 1,
+  "total_groups": 7
+ },
+ {
+  "title": "キミとボクのミライ[SD]",
+  "bpm": 178.0,
+  "level": "12.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0361,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "BLACK SWAN[DX]",
+  "bpm": 201.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.0361,
+  "sections": 3,
+  "total_groups": 10
+ },
+ {
+  "title": "マネマネサイコトロピック[DX]",
+  "bpm": 210.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.036,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "♡マイマイマイラブ♡[DX]",
+  "bpm": 170.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.036,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "アポカリプスに反逆の焔を焚べろ[DX]",
+  "bpm": 222.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.0359,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "サドマミホリック[SD]",
+  "bpm": 200.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0357,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "I’m Here (feat. Merry Kirk-Holmes)[DX]",
+  "bpm": 187.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0357,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "宛城、炎上！！[DX]",
+  "bpm": 175.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0355,
+  "sections": 4,
+  "total_groups": 22
+ },
+ {
+  "title": "AFTER PANDORA[SD]",
+  "bpm": 85.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.0355,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "only my railgun[SD]",
+  "bpm": 143.0,
+  "level": "12.6",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0352,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "ヒバナ[SD]",
+  "bpm": 200.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "paika_score": 0.0352,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "勇者[DX]",
+  "bpm": 104.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0351,
+  "sections": 1,
+  "total_groups": 9
+ },
+ {
+  "title": "ホシトハナ[SD]",
+  "bpm": 158.0,
+  "level": "11.0",
+  "diff_name": "Master",
+  "paika_score": 0.0349,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ようこそジャパリパークへ[SD]",
+  "bpm": 170.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0349,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ヒビカセ[SD]",
+  "bpm": 140.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0349,
+  "sections": 1,
+  "total_groups": 7
+ },
+ {
+  "title": "華鳥風月[SD]",
+  "bpm": 123.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0349,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Maxi[SD]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0347,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "UniTas[DX]",
+  "bpm": 205.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0347,
+  "sections": 1,
+  "total_groups": 10
+ },
+ {
+  "title": "ウタヒメナイトストーム[DX]",
+  "bpm": 164.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0345,
+  "sections": 1,
+  "total_groups": 10
+ },
+ {
+  "title": "Love's Theme of BADASS ～バッド・アス 愛のテーマ～[DX]",
+  "bpm": 202.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "paika_score": 0.0341,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Ring[DX]",
+  "bpm": 132.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.034,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "Destr0yer[DX]",
+  "bpm": 90.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.034,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "幽闇に目醒めしは[SD]",
+  "bpm": 120.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0339,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "超絶！Superlative[SD]",
+  "bpm": 200.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0338,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "マリアをはげませ[SD]",
+  "bpm": 131.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "paika_score": 0.0338,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Believe the Rainbow[DX]",
+  "bpm": 133.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0338,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "超常マイマイン[DX]",
+  "bpm": 178.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0338,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "超常マイマイン[DX]",
+  "bpm": 178.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0338,
+  "sections": 3,
+  "total_groups": 11
+ },
+ {
+  "title": "BANG![DX]",
+  "bpm": 128.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0337,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "Everyday、カチューシャ[SD]",
+  "bpm": 172.0,
+  "level": "8.9",
+  "diff_name": "Master",
+  "paika_score": 0.0336,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "インビジブル[SD]",
+  "bpm": 192.0,
+  "level": "12.3",
+  "diff_name": "Master",
+  "paika_score": 0.0336,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "回レ！雪月花[SD]",
+  "bpm": 160.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0335,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "インビジブル[SD]",
+  "bpm": 192.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0335,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "みんなのマイマイマー[SD]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0335,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "リクライム[SD]",
+  "bpm": 188.0,
+  "level": "10.9",
+  "diff_name": "Master",
+  "paika_score": 0.0332,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Scarlet Lance[SD]",
+  "bpm": 185.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.0332,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "サイエンス[DX]",
+  "bpm": 188.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0331,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "ジレンマ[DX]",
+  "bpm": 188.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0331,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "on the rocks[DX]",
+  "bpm": 150.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0326,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "ガチャガチャきゅ～と・ふぃぎゅ@メイト[SD]",
+  "bpm": 178.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0324,
+  "sections": 1,
+  "total_groups": 9
+ },
+ {
+  "title": "夜に駆ける[DX]",
+  "bpm": 130.0,
+  "level": "13.0",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0321,
+  "sections": 1,
+  "total_groups": 11
+ },
+ {
+  "title": "Calamity Fortune[DX]",
+  "bpm": 200.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0321,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Halfway(>∀<)[DX]",
+  "bpm": 175.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0321,
+  "sections": 1,
+  "total_groups": 10
+ },
+ {
+  "title": "Dragoon[SD]",
+  "bpm": 175.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.032,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "うまるん体操[SD]",
+  "bpm": 170.0,
+  "level": "12.2",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0318,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "ツギハギスタッカート[DX]",
+  "bpm": 139.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0317,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "骸骨楽団とリリア[DX]",
+  "bpm": 260.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0317,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "DETARAME ROCK&ROLL THEORY[SD]",
+  "bpm": 140.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0317,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "larva[SD]",
+  "bpm": 202.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "paika_score": 0.0316,
+  "sections": 2,
+  "total_groups": 11
+ },
+ {
+  "title": "イカサマライフゲイム[DX]",
+  "bpm": 200.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0315,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "唱[DX]",
+  "bpm": 132.0,
+  "level": "13.4",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0314,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "One Step Ahead[DX]",
+  "bpm": 186.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0314,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "ロータスイーター[DX]",
+  "bpm": 142.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0314,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "sweet little sister[SD]",
+  "bpm": 168.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0314,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "Mjölnir[DX]",
+  "bpm": 222.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0314,
+  "sections": 2,
+  "total_groups": 12
+ },
+ {
+  "title": "Burning Hearts ～炎のANGEL～[SD]",
+  "bpm": 155.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0314,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Estahv[DX]",
+  "bpm": 191.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0314,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "TRUST[SD]",
+  "bpm": 190.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0313,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "World's end BLACKBOX[DX]",
+  "bpm": 205.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "paika_score": 0.0313,
+  "sections": 2,
+  "total_groups": 14
+ },
+ {
+  "title": "クノイチでも恋がしたい[SD]",
+  "bpm": 185.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.031,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "Λzure Vixen[DX]",
+  "bpm": 163.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.031,
+  "sections": 2,
+  "total_groups": 14
+ },
+ {
+  "title": "Revive The Rave[SD]",
+  "bpm": 165.0,
+  "level": "14.4",
+  "diff_name": "Re:Master",
+  "paika_score": 0.031,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "シャルル[SD]",
+  "bpm": 145.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0309,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "GO BACK 2 YOUR RAVE[SD]",
+  "bpm": 170.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0308,
+  "sections": 1,
+  "total_groups": 9
+ },
+ {
+  "title": "Cthugha[DX]",
+  "bpm": 213.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.0305,
+  "sections": 3,
+  "total_groups": 11
+ },
+ {
+  "title": "人生リセットボタン[SD]",
+  "bpm": 200.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0304,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "Zitronectar[DX]",
+  "bpm": 222.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0303,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "RAD DOGS[DX]",
+  "bpm": 140.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.03,
+  "sections": 1,
+  "total_groups": 7
+ },
+ {
+  "title": "サウンドプレイヤー[DX]",
+  "bpm": 143.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0297,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "壱雫空[DX]",
+  "bpm": 204.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0296,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "Final Step![DX]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0295,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "君の知らない物語[DX]",
+  "bpm": 165.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "paika_score": 0.0292,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "神々が恋した幻想郷[DX]",
+  "bpm": 155.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.029,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "初音ミクの消失[DX]",
+  "bpm": 240.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.0289,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "MOON NIGHTのせいにして[DX]",
+  "bpm": 141.0,
+  "level": "12.2",
+  "diff_name": "Master",
+  "paika_score": 0.0287,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ULTRA POWER[DX]",
+  "bpm": 142.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0287,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "月光[DX]",
+  "bpm": 195.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0287,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "39[DX]",
+  "bpm": 175.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0286,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "なんかノイズにきこえる[DX]",
+  "bpm": 160.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0286,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "吾輩よ猫であれ[DX]",
+  "bpm": 136.0,
+  "level": "12.2",
+  "diff_name": "Master",
+  "paika_score": 0.0283,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "乙女のルートはひとつじゃない！[DX]",
+  "bpm": 192.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0282,
+  "sections": 1,
+  "total_groups": 7
+ },
+ {
+  "title": "終焉逃避行[DX]",
+  "bpm": 147.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0281,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "BOUNCE & DANCE[DX]",
+  "bpm": 135.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0281,
+  "sections": 1,
+  "total_groups": 7
+ },
+ {
+  "title": "LOVEドッきゅん♥[SD]",
+  "bpm": 149.0,
+  "level": "10.2",
+  "diff_name": "Master",
+  "paika_score": 0.028,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "空威張りビヘイビア[SD]",
+  "bpm": 186.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.028,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "Beginning together![DX]",
+  "bpm": 142.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.028,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "Latent Kingdom[DX]",
+  "bpm": 201.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "paika_score": 0.028,
+  "sections": 2,
+  "total_groups": 13
+ },
+ {
+  "title": "初音ミクの消失[SD]",
+  "bpm": 240.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0279,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "にめんせい☆ウラオモテライフ！[SD]",
+  "bpm": 170.0,
+  "level": "10.8",
+  "diff_name": "Master",
+  "paika_score": 0.0276,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "にめんせい☆ウラオモテライフ！[SD]",
+  "bpm": 170.0,
+  "level": "11.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0276,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "地球[DX]",
+  "bpm": 79.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0276,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "新人類[DX]",
+  "bpm": 144.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0275,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "1000年生きてる[DX]",
+  "bpm": 100.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0275,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "ぱくぱく☆がーる[DX]",
+  "bpm": 121.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0275,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "サンバディ！[DX]",
+  "bpm": 136.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0275,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Halcyon[DX]",
+  "bpm": 191.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0272,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "U.S.A.[DX]",
+  "bpm": 139.0,
+  "level": "12.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0269,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "Hand in Hand[SD]",
+  "bpm": 128.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0269,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "ハウリング[DX]",
+  "bpm": 184.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0269,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "KILLER B[DX]",
+  "bpm": 130.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0267,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "DATAERR0R[DX]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0267,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "Beautiful Future[DX]",
+  "bpm": 172.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0266,
+  "sections": 3,
+  "total_groups": 9
+ },
+ {
+  "title": "サブリナ[SD]",
+  "bpm": 136.0,
+  "level": "11.3",
+  "diff_name": "Master",
+  "paika_score": 0.0265,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "プラネタリウム・レヴュー[DX]",
+  "bpm": 170.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0265,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "Limit Break[SD]",
+  "bpm": 153.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0264,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "シエルブルーマルシェ[DX]",
+  "bpm": 180.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0263,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "JIGOKU STATION CENTRAL GATE[DX]",
+  "bpm": 160.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0262,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "Falling Roses[SD]",
+  "bpm": 200.0,
+  "level": "12.3",
+  "diff_name": "Master",
+  "paika_score": 0.0261,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Titania[DX]",
+  "bpm": 212.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.0261,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "星詠みとデスペラード[DX]",
+  "bpm": 182.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0261,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Ai C[DX]",
+  "bpm": 191.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.026,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "LANCE[SD]",
+  "bpm": 156.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.026,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "Jump!! Jump!! Jump!![DX]",
+  "bpm": 183.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "paika_score": 0.0258,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "VOLTAGE[DX]",
+  "bpm": 194.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0255,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "このピアノでお前を8759632145回ぶん殴る[SD]",
+  "bpm": 200.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0255,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "B.M.S.[SD]",
+  "bpm": 200.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.0255,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "Big Daddy[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0255,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "ヒミツCULT[DX]",
+  "bpm": 190.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0255,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "World's end loneliness[DX]",
+  "bpm": 205.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "paika_score": 0.0255,
+  "sections": 2,
+  "total_groups": 10
+ },
+ {
+  "title": "偉大なる悪魔は実は大天使パトラちゃん様なのだ！[DX]",
+  "bpm": 195.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0254,
+  "sections": 1,
+  "total_groups": 9
+ },
+ {
+  "title": "In my world (Prod. KOTONOHOUSE)[DX]",
+  "bpm": 160.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0254,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ビックカメラのテーマソング[DX]",
+  "bpm": 160.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0254,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "アルカンシエル[DX]",
+  "bpm": 176.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0254,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ARAIS[DX]",
+  "bpm": 180.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0253,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "きゅびずむ[DX]",
+  "bpm": 185.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0252,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "SAVIOR OF SONG[SD]",
+  "bpm": 192.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0252,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "バレリーコ[SD]",
+  "bpm": 150.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.0251,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "好きな惣菜発表ドラゴン[DX]",
+  "bpm": 160.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0251,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "トリドリ⇒モリモリ！Lovely fruits☆[DX]",
+  "bpm": 185.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0251,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "カラフル×メロディ[SD]",
+  "bpm": 185.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.025,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "前衛的Landscape[DX]",
+  "bpm": 153.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.025,
+  "sections": 1,
+  "total_groups": 7
+ },
+ {
+  "title": "プリズム△▽リズム[SD]",
+  "bpm": 155.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.025,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "うぇいびー[DX]",
+  "bpm": 200.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0249,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "Colorfull:Encounter[DX]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0249,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "メルティランドナイトメア[DX]",
+  "bpm": 140.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "paika_score": 0.0245,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "少女A[DX]",
+  "bpm": 130.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0243,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Dreampainter[SD]",
+  "bpm": 136.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0243,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "進め！イッスン軍団 -Rebellion of the Dwarfs-[SD]",
+  "bpm": 172.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0241,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "Tidal Wave[DX]",
+  "bpm": 175.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0241,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "Conquista Ciela[SD]",
+  "bpm": 140.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0241,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "星空パーティーチューン[DX]",
+  "bpm": 230.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0241,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "パラボラ[DX]",
+  "bpm": 192.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0239,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "Good Bye, Mr. Jack[SD]",
+  "bpm": 180.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0238,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "チエルカ／エソテリカ[DX]",
+  "bpm": 205.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0235,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "すーぱーぬこになれんかった[DX]",
+  "bpm": 190.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0234,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "深海少女[DX]",
+  "bpm": 137.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0234,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "Caterpillar Song[DX]",
+  "bpm": 90.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0234,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "BATTLE NO.1[DX]",
+  "bpm": 200.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.0234,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "レッツゴー!陰陽師[SD]",
+  "bpm": 150.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0233,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "DEVOTION[DX]",
+  "bpm": 167.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0233,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "群青讃歌[DX]",
+  "bpm": 168.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "paika_score": 0.0231,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "未完成人[DX]",
+  "bpm": 148.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "paika_score": 0.023,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "magician's operation[SD]",
+  "bpm": 125.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.023,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "MYTHOS[SD]",
+  "bpm": 158.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0227,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ヒバリ[DX]",
+  "bpm": 140.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0226,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ALiVE[DX]",
+  "bpm": 170.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0226,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "さよならヒストリー[DX]",
+  "bpm": 180.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0223,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Kattobi KEIKYU Rider[SD]",
+  "bpm": 220.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0223,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "Unwelcome School[DX]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0223,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "Virtual to LIVE[DX]",
+  "bpm": 156.0,
+  "level": "12.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0222,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "いぇす！ゆゆゆ☆ゆるゆり♪♪[SD]",
+  "bpm": 182.0,
+  "level": "11.2",
+  "diff_name": "Master",
+  "paika_score": 0.0222,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "やめろ！聴くな！[SD]",
+  "bpm": 160.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0222,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "だんだん早くなる[SD]",
+  "bpm": 160.0,
+  "level": "12.0",
+  "diff_name": "Master",
+  "paika_score": 0.0222,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "wheel[DX]",
+  "bpm": 136.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0222,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "れっつ！みらくる☆はーどこあっ！[DX]",
+  "bpm": 185.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0221,
+  "sections": 2,
+  "total_groups": 9
+ },
+ {
+  "title": "ロキ[SD]",
+  "bpm": 150.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "paika_score": 0.022,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "POWER OF UNITY[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.022,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "初音ミクの激唱[SD]",
+  "bpm": 200.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.0219,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "Good bye, Merry-Go-Round.[DX]",
+  "bpm": 185.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "paika_score": 0.0219,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ラブチーノ[SD]",
+  "bpm": 126.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "paika_score": 0.0218,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "STEREOSCAPE[DX]",
+  "bpm": 164.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0218,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2[DX]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0217,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "死ぬな！[DX]",
+  "bpm": 220.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0216,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "Bad Apple!! feat.nomico ～五十嵐 撫子 Ver.～[DX]",
+  "bpm": 141.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0216,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Luminescence[DX]",
+  "bpm": 184.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0216,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Saika[DX]",
+  "bpm": 145.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0215,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "カゲロウデイズ[SD]",
+  "bpm": 200.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0212,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Heavenly Blast[DX]",
+  "bpm": 234.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "paika_score": 0.0212,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "おくすり飲んで寝よう[DX]",
+  "bpm": 130.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0211,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "Ourania[DX]",
+  "bpm": 204.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.021,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "U.S.A.[DX]",
+  "bpm": 139.0,
+  "level": "11.5",
+  "diff_name": "Master",
+  "paika_score": 0.0209,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "雷切-RAIKIRI-[SD]",
+  "bpm": 165.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.0209,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Panopticon[SD]",
+  "bpm": 110.0,
+  "level": "14.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0209,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "まにまに[DX]",
+  "bpm": 174.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0208,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "宵の鳥[DX]",
+  "bpm": 145.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0207,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "LOSTPHANTASIA[DX]",
+  "bpm": 133.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.0204,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "コトバ・カラフル[SD]",
+  "bpm": 169.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0204,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Aiolos[SD]",
+  "bpm": 205.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0204,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "PANDORA PARADOXXX[SD]",
+  "bpm": 150.0,
+  "level": "15.0",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0204,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "泥の分際で私だけの大切を奪おうだなんて[DX]",
+  "bpm": 225.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0203,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "テリトリーバトル[DX]",
+  "bpm": 140.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0202,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ガラテアの螺旋[SD]",
+  "bpm": 200.0,
+  "level": "14.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0201,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "オントロジー[DX]",
+  "bpm": 192.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0199,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "テトリス[DX]",
+  "bpm": 170.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0199,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "FLUFFY FLASH[DX]",
+  "bpm": 252.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0198,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "砂の函[DX]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0198,
+  "sections": 1,
+  "total_groups": 7
+ },
+ {
+  "title": "ココロオドル[SD]",
+  "bpm": 226.0,
+  "level": "11.5",
+  "diff_name": "Master",
+  "paika_score": 0.0197,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "WARNING×WARNING×WARNING[DX]",
+  "bpm": 172.0,
+  "level": "11.9",
+  "diff_name": "Master",
+  "paika_score": 0.0197,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Change Our MIRAI！[SD]",
+  "bpm": 256.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0197,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Abstruse Dilemma[DX]",
+  "bpm": 216.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0195,
+  "sections": 1,
+  "total_groups": 10
+ },
+ {
+  "title": "あつすぎの歌[DX]",
+  "bpm": 180.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0194,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "ようこそジャパリパークへ[SD]",
+  "bpm": 170.0,
+  "level": "12.9",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0194,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "魔法少女になるしかねぇ[SD]",
+  "bpm": 165.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0194,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Round Round Spinning Around[DX]",
+  "bpm": 175.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0194,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "星めぐり、果ての君へ。[DX]",
+  "bpm": 175.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0192,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "サヨナラチェーンソー[DX]",
+  "bpm": 154.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0191,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "康莊大道[DX]",
+  "bpm": 208.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "paika_score": 0.0191,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "絶対敵対メチャキライヤー[DX]",
+  "bpm": 190.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.019,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "Re：End of a Dream[DX]",
+  "bpm": 212.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.019,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "MYTH Re：LEASE[DX]",
+  "bpm": 202.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.019,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "オーケー？　オーライ！[DX]",
+  "bpm": 150.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0187,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "躯樹の墓守[DX]",
+  "bpm": 211.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "paika_score": 0.0187,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "VERTeX[SD]",
+  "bpm": 237.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "paika_score": 0.0186,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "Climax[DX]",
+  "bpm": 190.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0185,
+  "sections": 2,
+  "total_groups": 8
+ },
+ {
+  "title": "REVIVER オルタンシア・サーガ -蒼の騎士団- オリジナルVer.[SD]",
+  "bpm": 200.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0184,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "有明/Ariake[DX]",
+  "bpm": 190.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0184,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "+♂[SD]",
+  "bpm": 180.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0182,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "LANCE[DX]",
+  "bpm": 156.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0182,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "分解収束テイル[DX]",
+  "bpm": 186.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0182,
+  "sections": 1,
+  "total_groups": 8
+ },
+ {
+  "title": "クーネル・エンゲイザー[DX]",
+  "bpm": 170.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.018,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "美夜月鏡[DX]",
+  "bpm": 164.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.0179,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Flashkick[DX]",
+  "bpm": 175.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0179,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ozma[DX]",
+  "bpm": 220.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0178,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "天蓋[DX]",
+  "bpm": 178.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0178,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ゆりかご[DX]",
+  "bpm": 120.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0177,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "勦滅[DX]",
+  "bpm": 200.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.0177,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "M.S.S.Planet[SD]",
+  "bpm": 145.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.0176,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "フォルテシモBELL[SD]",
+  "bpm": 121.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.0176,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "ヨミビトシラズ[DX]",
+  "bpm": 188.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0176,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "洗脳[SD]",
+  "bpm": 125.0,
+  "level": "12.4",
+  "diff_name": "Master",
+  "paika_score": 0.0174,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "きゅうくらりん[DX]",
+  "bpm": 220.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0173,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "モンスターカミング[DX]",
+  "bpm": 210.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0171,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "Still[SD]",
+  "bpm": 176.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0171,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "回レ！雪月花[DX]",
+  "bpm": 160.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0169,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "taboo tears you up[DX]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0169,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "麒麟[SD]",
+  "bpm": 220.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "paika_score": 0.0169,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Oshama Scramble![DX]",
+  "bpm": 190.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0169,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "彗星ハネムーン[SD]",
+  "bpm": 145.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0168,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "超最終鬼畜妹フランドール・S[DX]",
+  "bpm": 210.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0168,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "Magical Paradox[DX]",
+  "bpm": 192.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0168,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "疾走あんさんぶる[SD]",
+  "bpm": 195.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0167,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "パーフェクション[DX]",
+  "bpm": 190.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0167,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Bad Apple!! feat.nomico (REDALiCE Remix)[DX]",
+  "bpm": 170.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.0166,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Death Scythe[SD]",
+  "bpm": 182.0,
+  "level": "14.2",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0166,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "アスノヨゾラ哨戒班[DX]",
+  "bpm": 185.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0165,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "Tell Your World[SD]",
+  "bpm": 150.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0165,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Phantasm Brigade[SD]",
+  "bpm": 168.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0165,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "AMAZING MIGHTYYYY!!!![SD]",
+  "bpm": 185.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "paika_score": 0.0164,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "ガラテアの螺旋[SD]",
+  "bpm": 200.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.0163,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "WORLD'S END UMBRELLA[SD]",
+  "bpm": 180.0,
+  "level": "12.5",
+  "diff_name": "Master",
+  "paika_score": 0.0161,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "立川浄穢捕物帳[DX]",
+  "bpm": 210.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0161,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "ニルヴの心臓[DX]",
+  "bpm": 256.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0161,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "Comet Panto Men![DX]",
+  "bpm": 170.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0161,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "Cryptarithm[DX]",
+  "bpm": 175.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "paika_score": 0.0161,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "オルフェ[SD]",
+  "bpm": 184.0,
+  "level": "10.4",
+  "diff_name": "Master",
+  "paika_score": 0.0159,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "へべれけジャンキー[DX]",
+  "bpm": 104.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0159,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "CITRUS MONSTER[SD]",
+  "bpm": 220.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.0158,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ヒトガタ[DX]",
+  "bpm": 150.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0157,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "春嵐[DX]",
+  "bpm": 140.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0157,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "バグ[DX]",
+  "bpm": 186.0,
+  "level": "11.8",
+  "diff_name": "Master",
+  "paika_score": 0.0157,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "FFT[SD]",
+  "bpm": 180.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0156,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "若い力 -SEGA HARD GIRLS MIX-[SD]",
+  "bpm": 162.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0155,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Hainuwele[DX]",
+  "bpm": 175.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0154,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "Straight into the lights[DX]",
+  "bpm": 90.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "paika_score": 0.0154,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Black Lair[DX]",
+  "bpm": 150.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0153,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "ワンダーラスト[SD]",
+  "bpm": 230.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0152,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "初音天地開闢神話[DX]",
+  "bpm": 240.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0152,
+  "sections": 2,
+  "total_groups": 7
+ },
+ {
+  "title": "You Mean the World to Me[DX]",
+  "bpm": 180.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0152,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "宙天[DX]",
+  "bpm": 125.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "paika_score": 0.0151,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "アマノジャクリバース feat. ｙｔｒ[SD]",
+  "bpm": 160.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.015,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Splash Dance!![DX]",
+  "bpm": 155.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.015,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Trick tear[DX]",
+  "bpm": 222.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0148,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "アカリがやってきたぞっ[DX]",
+  "bpm": 136.0,
+  "level": "12.7",
+  "diff_name": "Master",
+  "paika_score": 0.0147,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "マツヨイナイトバグ[DX]",
+  "bpm": 190.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0147,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "単一指向性オーバーブルーム[DX]",
+  "bpm": 158.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0147,
+  "sections": 1,
+  "total_groups": 6
+ },
+ {
+  "title": "Unfinished Epic[DX]",
+  "bpm": 185.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0144,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "人マニア[DX]",
+  "bpm": 150.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0143,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "DUAL ROZES[DX]",
+  "bpm": 160.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0143,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Alea jacta est![SD]",
+  "bpm": 162.0,
+  "level": "14.4",
+  "diff_name": "Master",
+  "paika_score": 0.0142,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "HERA[SD]",
+  "bpm": 185.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0142,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "ずんだパーリナイ[DX]",
+  "bpm": 150.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0141,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "グッバイ宣言[DX]",
+  "bpm": 170.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0141,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "Elemental Ethnic[DX]",
+  "bpm": 163.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0141,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "遺伝子レベル∞スパイラル[DX]",
+  "bpm": 164.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0141,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "ダーリンダンス[DX]",
+  "bpm": 153.0,
+  "level": "13.5",
+  "diff_name": "Re:Master",
+  "paika_score": 0.014,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "君だったから[DX]",
+  "bpm": 125.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0139,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "洗脳[SD]",
+  "bpm": 125.0,
+  "level": "12.9",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0139,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "おとせサンダー[DX]",
+  "bpm": 177.0,
+  "level": "11.5",
+  "diff_name": "Master",
+  "paika_score": 0.0138,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "匿名M[DX]",
+  "bpm": 140.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0138,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "QZKago Requiem[SD]",
+  "bpm": 257.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "paika_score": 0.0138,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "スローアライズ[DX]",
+  "bpm": 185.0,
+  "level": "12.8",
+  "diff_name": "Master",
+  "paika_score": 0.0138,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "ロキ[SD]",
+  "bpm": 150.0,
+  "level": "13.3",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0137,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "超熊猫的周遊記（ワンダーパンダートラベラー）[DX]",
+  "bpm": 121.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.0137,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "バカ通信[DX]",
+  "bpm": 240.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0136,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "P-qoq[DX]",
+  "bpm": 175.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0136,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "レーイレーイ[DX]",
+  "bpm": 188.0,
+  "level": "13.7",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0135,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "シックスプラン[DX]",
+  "bpm": 120.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0135,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Neon Kingdom[DX]",
+  "bpm": 130.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0135,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "バイオレンストリガー[DX]",
+  "bpm": 196.0,
+  "level": "13.2",
+  "diff_name": "Master",
+  "paika_score": 0.0134,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "FREEDOM DiVE (tpz Overcute Remix)[SD]",
+  "bpm": 234.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "paika_score": 0.0133,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "The Cursed Doll[DX]",
+  "bpm": 131.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0133,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Ultranova[SD]",
+  "bpm": 156.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0133,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Crazy Circle[DX]",
+  "bpm": 145.0,
+  "level": "12.6",
+  "diff_name": "Master",
+  "paika_score": 0.0132,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Ether Second[DX]",
+  "bpm": 150.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0132,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Raven Emperor[DX]",
+  "bpm": 205.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.0132,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "Destiny Runner[DX]",
+  "bpm": 190.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.013,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "L'épilogue[SD]",
+  "bpm": 145.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.013,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "[X][DX]",
+  "bpm": 162.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0129,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "竹[DX]",
+  "bpm": 150.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.0126,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Xaleid◆scopiX (2)[DX]",
+  "bpm": 180.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "paika_score": 0.0125,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "雨露霜雪[DX]",
+  "bpm": 250.0,
+  "level": "14.7",
+  "diff_name": "Master",
+  "paika_score": 0.0124,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "三日月ステップ 2023[DX]",
+  "bpm": 167.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0123,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "怒槌[SD]",
+  "bpm": 200.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "paika_score": 0.0123,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "最強STRONGER[DX]",
+  "bpm": 205.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.0123,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "無間嫉妬劇場『666』[DX]",
+  "bpm": 108.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0122,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "アンビバレンス[DX]",
+  "bpm": 187.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0122,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "最っ高のエンタメだ!![DX]",
+  "bpm": 276.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0121,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "NOIZY BOUNCE[DX]",
+  "bpm": 150.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0121,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "ULTRA SYNERGY MATRIX[DX]",
+  "bpm": 160.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.012,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Paranoia[DX]",
+  "bpm": 150.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0119,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "のだ[DX]",
+  "bpm": 142.0,
+  "level": "13.3",
+  "diff_name": "Master",
+  "paika_score": 0.0118,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "失敗作少女[DX]",
+  "bpm": 235.0,
+  "level": "13.1",
+  "diff_name": "Master",
+  "paika_score": 0.0117,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "時計の国のジェミニ[DX]",
+  "bpm": 180.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0117,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Hello, Hologram[DX]",
+  "bpm": 181.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0116,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "秋の未確認生物[DX]",
+  "bpm": 185.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0115,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Don't Fight The Music[DX]",
+  "bpm": 195.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "paika_score": 0.0115,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "Edelweiss[DX]",
+  "bpm": 252.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0115,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Cider P@rty[DX]",
+  "bpm": 180.0,
+  "level": "13.5",
+  "diff_name": "Master",
+  "paika_score": 0.0115,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "ロストワンの号哭[SD]",
+  "bpm": 162.0,
+  "level": "14.2",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0114,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "天火明命[SD]",
+  "bpm": 155.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0114,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "ｉｓｏｐｈｏｔｅ[DX]",
+  "bpm": 160.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0113,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "少女レイ[DX]",
+  "bpm": 150.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0112,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "渦状銀河のシンフォニエッタ[DX]",
+  "bpm": 238.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.0112,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Princess♂[DX]",
+  "bpm": 92.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0111,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "MAGENTA POTION[DX]",
+  "bpm": 150.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0111,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "VERTeX (rintaro soma deconstructed remix)[DX]",
+  "bpm": 158.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.011,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Armageddon[DX]",
+  "bpm": 210.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0109,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "オーバーライド[DX]",
+  "bpm": 204.0,
+  "level": "13.4",
+  "diff_name": "Master",
+  "paika_score": 0.0107,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "The 90's Decision[DX]",
+  "bpm": 128.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0107,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "エンヴィーベイビー[DX]",
+  "bpm": 171.0,
+  "level": "13.0",
+  "diff_name": "Master",
+  "paika_score": 0.0106,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "M.S.S.Planet[DX]",
+  "bpm": 145.0,
+  "level": "12.9",
+  "diff_name": "Master",
+  "paika_score": 0.0105,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "はいよろこんで[DX]",
+  "bpm": 147.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0104,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "IMBRUED:FLUX[DX]",
+  "bpm": 176.0,
+  "level": "14.1",
+  "diff_name": "Master",
+  "paika_score": 0.0102,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "MAGNETAR GIRL[DX]",
+  "bpm": 170.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0101,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "MarbleBlue.[DX]",
+  "bpm": 198.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.01,
+  "sections": 1,
+  "total_groups": 5
+ },
+ {
+  "title": "U&iVERSE -銀河鸞翔-[DX]",
+  "bpm": 140.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.01,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "地獄[DX]",
+  "bpm": 190.0,
+  "level": "13.6",
+  "diff_name": "Master",
+  "paika_score": 0.0099,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Swift Swing[DX]",
+  "bpm": 150.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0099,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "セイクリッド　ルイン[SD]",
+  "bpm": 186.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0098,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "First Dance[DX]",
+  "bpm": 174.0,
+  "level": "13.9",
+  "diff_name": "Master",
+  "paika_score": 0.0097,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "DADDY MULK -Groove remix-[SD]",
+  "bpm": 154.0,
+  "level": "13.8",
+  "diff_name": "Re:Master",
+  "paika_score": 0.0094,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "封焔の135秒[DX]",
+  "bpm": 200.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "paika_score": 0.0092,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "ビビデバ[DX]",
+  "bpm": 120.0,
+  "level": "13.2",
+  "diff_name": "Re:Master",
+  "paika_score": 0.009,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "にゃーにゃー冒険譚[DX]",
+  "bpm": 188.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.009,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Maboroshi[DX]",
+  "bpm": 190.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.0089,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Alice's Suitcase[DX]",
+  "bpm": 190.0,
+  "level": "13.7",
+  "diff_name": "Master",
+  "paika_score": 0.0085,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Churros Parlor[DX]",
+  "bpm": 190.0,
+  "level": "13.8",
+  "diff_name": "Master",
+  "paika_score": 0.0085,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Xaleid◆scopiX[DX]",
+  "bpm": 180.0,
+  "level": "14.9",
+  "diff_name": "Master",
+  "paika_score": 0.0079,
+  "sections": 2,
+  "total_groups": 6
+ },
+ {
+  "title": "Xenovcipher[DX]",
+  "bpm": 210.0,
+  "level": "14.3",
+  "diff_name": "Master",
+  "paika_score": 0.0077,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "WiPE OUT MEMORIES[DX]",
+  "bpm": 210.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "paika_score": 0.0075,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "脳天直撃[DX]",
+  "bpm": 145.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.0074,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "氷滅の135小節[DX]",
+  "bpm": 205.0,
+  "level": "14.8",
+  "diff_name": "Master",
+  "paika_score": 0.0071,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Aegleseeker[DX]",
+  "bpm": 234.0,
+  "level": "14.5",
+  "diff_name": "Master",
+  "paika_score": 0.007,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Destined Marionette[DX]",
+  "bpm": 186.0,
+  "level": "14.2",
+  "diff_name": "Master",
+  "paika_score": 0.0068,
+  "sections": 1,
+  "total_groups": 3
+ },
+ {
+  "title": "Ref:rain (for 7th Heaven)[DX]",
+  "bpm": 188.0,
+  "level": "14.0",
+  "diff_name": "Master",
+  "paika_score": 0.0067,
+  "sections": 1,
+  "total_groups": 4
+ },
+ {
+  "title": "Åntinomiε[DX]",
+  "bpm": 242.0,
+  "level": "14.6",
+  "diff_name": "Master",
+  "paika_score": 0.0052,
+  "sections": 1,
+  "total_groups": 3
+ }
+]
