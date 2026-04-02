@@ -6,6 +6,8 @@
 
 > Built through agentic coding with [Claude Code](https://claude.ai/claude-code). The AI wrote the code, ran the experiments, and iterated on false positives — while the human validated by reviewing gameplay captures and testing on a simulator.
 
+**Live demo: https://maimai.evnchn.io/**
+
 ---
 
 ### Multi-timeline detector — all patterns analyzed simultaneously
@@ -50,6 +52,7 @@ The system:
 | **縦連** | 929 | Longest same-position run |
 | **トリル** | 2,157 | Longest alternating two-position run (with cross-hand distance) |
 | **乱打/散打** | 2,472 | Longest non-directional run (≥30% direction changes) |
+
 
 ---
 
@@ -131,6 +134,48 @@ Each revision was validated against growing ground truth before deployment — a
 | RIFFRAIN | DX MAS | 9.2% | classic |
 | + 11 more confirmed positives | | | |
 | 11 confirmed negatives | | 0.0% | — |
+
+### Act 4: The 1-Beat Slide Delay — The Key That Unlocked Everything
+
+A [YouTube video](https://www.youtube.com/watch?v=k4MuJr8f9t4) from Maimai Inner Project revealed the critical mechanic: **slides don't start immediately**. There's a 1-beat (quarter note) delay between tapping the star and the slide beginning to move. This is BPM-dependent (500ms at 120 BPM, 333ms at 180 BPM).
+
+This single insight explained:
+- Why 拍滑 works: the tap at the star position **prevents early swiping** during the delay
+- Why Umiyuri feels like hand-independence: the tap resolves the PREVIOUS slide's arrival, while the NEW slide waits 1 beat
+- The positional chain rule: `tap(t).position == slide(t-1).start_position` — verified at 90-100% on all confirmed songs
+
+Confirmed from [SimaiSharp source code](https://github.com/reflektone-games/SimaiSharp): default delay = `SecondsPerBeat`. Can be overridden with `[D##X:Y]` syntax.
+
+### Act 5: 拍滑 and Slide Reading — Built in One Try
+
+With the slide delay understood, the 拍滑 detector worked **on the first attempt**. The rule: find each(tap+slide) groups where tap and slide are at different positions (different hands). Future Re:Master ranked #1 at 82.5% — exactly what the community calls "the canonical 拍滑 practice chart."
+
+The **slide reading** detector followed naturally: taps placed during the delay window (after star tap, before slide action) but NOT simultaneous. These are the notes beginners miss because they mentally "check out" during slides. A structurally distinct pattern from 拍滑 — different failure mode, different skill.
+
+### Act 6: Tap Patterns — Streams, Jacks, Trills, 乱打
+
+The coarse window-based detectors from Act 2 were replaced with **run-based** metrics — because as the human pointed out, accumulative error means short bursts are forgiving but long stretches are where you die.
+
+- **轉圈/掃鍵 (Rotation)**: longest directional run in cycles. 14/14 community-cited songs matched.
+- **縦連 (Jacks)**: longest same-position run. [狂]タカハせ！名人マン at 428 hits.
+- **トリル (Trills)**: longest alternating two-position run, with distance metric for cross-hand.
+- **乱打/散打 (Scattered)**: longest run with ≥30% direction changes. 10/10 community songs matched. ナイト・オブ・ナイツ — "the archetype of 乱打" per community wiki — correctly detected.
+
+### Act 7: Community Validation and Terminology
+
+Every detector was cross-referenced against JP, CN, and EN community sources:
+
+| Term (JP) | Term (CN) | Our detector |
+|---|---|---|
+| ウミユリ配置 / 海底譚配置 | 海底谭配置 / 错位星 | Umiyuri detector |
+| 拍滑 | 拍滑 / 同起点slide | 拍滑 detector |
+| 回転 / 流し | 轉圈 / 掃鍵 | Rotation (cycles) |
+| 縦連 | 縦連 | Jacks (longest run) |
+| トリル | 交叉 | Trills (with distance) |
+| 乱打 | 散打 | Scattered (direction changes) |
+| 物量 | 物量 | Not a pattern — raw note density |
+
+Sources: [Gamerch wiki](https://gamerch.com/maimai/533406), [kioblog 10 Famous Patterns](https://gekkouga-kio.hatenablog.com/entry/2023/12/18/000144), [Tonevo Advent Calendar](https://tonevoadventcalendar.hatenablog.com/entry/2023/12/14/2), [Bahamut guide](https://forum.gamer.com.tw/C.php?bsn=21890&snA=955), [乱打のお話 blog](https://keionkakimasen.hatenablog.com/entry/2024/12/25/111359)
 
 ## Files
 
