@@ -30,7 +30,7 @@ def detect_slide_reading(notes: List[Note], min_consecutive: int = 3,
         return []
 
     sorted_notes = sorted(notes, key=lambda n: n.time_ms)
-    slides = [n for n in sorted_notes if n.note_type == 'slide' and n.slide_duration_ms > 0]
+    slides = [n for n in sorted_notes if n.note_type == 'slide' and n.slide_duration_ms > 0 and not n.headless]
 
     # For each slide, find taps in the delay window (star_time+50ms to action_time)
     # These are the "reading challenge" taps

@@ -202,7 +202,9 @@ def parse_note_token(token: str) -> list:
                 continue
             results.append({**base,
                             'note_type': 'slide',
-                            'slide_shape': segs[0][0],
+                            # chain keeps its inner vertices (1-3-5 -> '-3-'), so
+                            # f'{position}{slide_shape}{slide_end}' is the route
+                            'slide_shape': ''.join(a + b for a, b in segs[:-1]) + segs[-1][0],
                             'slide_end': int(segs[-1][1][-1]),
                             'slide_dur_strs': re.findall(r'\[([^\]]+)\]', path),
                             'headless': k > 0 or bool(set(modifiers) & set('?!'))})
@@ -241,7 +243,7 @@ def calc_slide_timing(dur_strs: list, bpm: float):
             if d.startswith('#'):
                 d = d[1:]
                 delay = float(head) * 1000.0
-            else:
+            elif head:
                 tempo = float(head)
                 delay = 60000.0 / tempo
         if ':' in d:

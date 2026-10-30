@@ -26,6 +26,22 @@ def test_chain_ends_at_last_vertex_and_sums_durations():
     assert (s.slide_end, s.slide_duration_ms) == (5, 1000.0)
 
 
+def test_chain_is_not_a_straight_chord():
+    s, = slides('1-3-5[4:1]')
+    assert f'{s.position}{s.slide_shape}{s.slide_end}' == '1-3-5'
+    assert s.slide_shape != '-'
+
+
+def test_seconds_only_duration_does_not_crash():
+    s, = slides('1-5[#1.5]')
+    assert s.slide_duration_ms == 1500.0
+
+
+def test_siblings_are_one_slide_reading_event():
+    from slide_reading_detector import detect_slide_reading
+    assert detect_slide_reading(parse_chart_string('(120){8}1-3[4:1]*-5[4:1]*-7[4:1],2,E', 120)) == []
+
+
 def test_break_marker_after_endpoint():
     s, = slides('6-1b[4:1]')
     assert s.slide_duration_ms == 500.0
