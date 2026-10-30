@@ -41,10 +41,14 @@ class Note:
     modifiers: str = ''     # b, x, etc.
     slide_duration_ms: float = 0.0  # how long the slide takes to travel
     bpm: float = 120.0              # BPM at time of this note (for slide delay calc)
+    slide_delay_override_ms: Optional[float] = None  # from [T#..] or [D##..]
+    headless: bool = False          # slide with no star tap: '*' sibling or '?'/'!' slide
 
     @property
     def slide_delay_ms(self) -> float:
-        """The 1-beat delay before the slide star starts moving."""
+        """The delay before the slide star starts moving (1 beat unless overridden)."""
+        if self.slide_delay_override_ms is not None:
+            return self.slide_delay_override_ms
         return 60000.0 / self.bpm  # 1 quarter note in ms
 
     @property
@@ -129,6 +133,9 @@ def parse_maidata(filepath: str) -> dict:
     return result
 
 
+SLIDE_SEGMENT = re.compile(r'(pp|qq|V|[-><^pqszwv])(\d+)')
+
+
 def parse_note_token(token: str) -> list:
     """Parse a single note token (may contain Each '/' separators).
     Returns list of (position, note_type, modifiers, slide_info, hold_info) tuples."""
@@ -153,12 +160,10 @@ def parse_note_token(token: str) -> list:
 
         note_type = 'tap'
         modifiers = ''
-        slide_shape = ''
-        slide_end = 0
         hold_dur_str = ''
 
         # Check for modifiers at start (before slide/hold)
-        while rest and rest[0] in 'bxf$@':
+        while rest and rest[0] in 'bxf$@?!':
             modifiers += rest[0]
             rest = rest[1:]
 
@@ -172,30 +177,37 @@ def parse_note_token(token: str) -> list:
                 hold_dur_str = hm.group(1)
                 rest = rest[hm.end():]
 
-        # Check for slide
-        slide_dur_str = ''
-        slide_match = re.match(r'([-><^pqszwvV]+)(\d)(\[([^\]]+)\])?', rest)
-        if slide_match:
-            note_type = 'slide'
-            slide_shape = slide_match.group(1)
-            slide_end = int(slide_match.group(2))
-            if slide_match.group(4):
-                slide_dur_str = slide_match.group(4)
+        if 'b' in modifiers and note_type == 'tap':
+            note_type = 'break'
 
-        if 'b' in modifiers:
-            if note_type == 'tap':
-                note_type = 'break'
-
-        results.append({
+        base = {
             'position': position,
             'note_type': note_type,
             'modifiers': modifiers,
-            'slide_shape': slide_shape,
-            'slide_end': slide_end,
+            'slide_shape': '',
+            'slide_end': 0,
             'hold_dur_str': hold_dur_str,
-            'slide_dur_str': slide_dur_str,
+            'slide_dur_strs': [],
+            'headless': False,
             'raw': part,
-        })
+        }
+
+        # Slides: '*' joins sibling paths from one star; each path may chain
+        # segments (1-3-5) and V takes a turn vertex (1V35). Durations can sit
+        # after any segment and add up (SimaiSharp SlideReader).
+        paths = rest.split('*') if SLIDE_SEGMENT.match(rest) else []
+        for k, path in enumerate(paths):
+            segs = SLIDE_SEGMENT.findall(re.sub(r'\[[^\]]*\]', '', path))
+            if not segs:
+                continue
+            results.append({**base,
+                            'note_type': 'slide',
+                            'slide_shape': segs[0][0],
+                            'slide_end': int(segs[-1][1][-1]),
+                            'slide_dur_strs': re.findall(r'\[([^\]]+)\]', path),
+                            'headless': k > 0 or bool(set(modifiers) & set('?!'))})
+        if not paths:
+            results.append(base)
 
     return results
 
@@ -215,6 +227,28 @@ def calc_hold_duration_ms(dur_str: str, bpm: float) -> float:
         beat_ms = 60000.0 / bpm
         return (4.0 / divisor) * count * beat_ms
     return 0.0
+
+
+def calc_slide_timing(dur_strs: list, bpm: float):
+    """Return (delay_override_ms or None, travel_ms) for a slide's [..] blocks.
+    Forms: X:Y, seconds, T#X:Y (tempo override), D##X:Y or D##seconds (explicit delay)."""
+    delay = None
+    travel = 0.0
+    for d in dur_strs:
+        tempo = bpm
+        if '#' in d:
+            head, d = d.split('#', 1)
+            if d.startswith('#'):
+                d = d[1:]
+                delay = float(head) * 1000.0
+            else:
+                tempo = float(head)
+                delay = 60000.0 / tempo
+        if ':' in d:
+            travel += calc_hold_duration_ms(d, tempo)
+        else:
+            travel += float(d) * 1000.0
+    return delay, travel
 
 
 def parse_chart_string(chart_str: str, bpm: float) -> list:
@@ -310,7 +344,7 @@ def parse_chart_string(chart_str: str, bpm: float) -> list:
             parsed = parse_note_token(token)
             for p in parsed:
                 hold_ms = calc_hold_duration_ms(p['hold_dur_str'], current_bpm)
-                slide_ms = calc_hold_duration_ms(p.get('slide_dur_str', ''), current_bpm)
+                slide_delay, slide_ms = calc_slide_timing(p['slide_dur_strs'], current_bpm)
                 note = Note(
                     time_ms=current_time_ms,
                     position=p['position'],
@@ -322,6 +356,8 @@ def parse_chart_string(chart_str: str, bpm: float) -> list:
                     modifiers=p['modifiers'],
                     slide_duration_ms=slide_ms,
                     bpm=current_bpm,
+                    slide_delay_override_ms=slide_delay,
+                    headless=p['headless'],
                 )
                 notes.append(note)
 
