@@ -307,8 +307,9 @@ def main_page():
                 combo_map = []
                 combo_num = 0
                 for n in sorted_notes_for_combo:
-                    combo_num += 1
-                    combo_map.append((combo_num, n.time_ms))
+                    if not n.headless:
+                        combo_num += 1
+                        combo_map.append((combo_num, n.time_ms))
                     if n.note_type == 'slide':
                         combo_num += 1
                         combo_map.append((combo_num, n.slide_end_ms))
