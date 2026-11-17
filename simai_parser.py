@@ -271,7 +271,7 @@ def parse_chart_string(chart_str: str, bpm: float) -> list:
         if c in 'ABCDE' and i + 1 < len(chart_str) and chart_str[i + 1].isdigit():
             # Skip touch note token (e.g., A4, E4f, C1h[...])
             j = i + 2  # past letter + digit
-            while j < len(chart_str) and chart_str[j] not in ',({' and chart_str[j] != 'E':
+            while j < len(chart_str) and chart_str[j] not in ',({/' and chart_str[j] != 'E':
                 if chart_str[j] == '[':
                     while j < len(chart_str) and chart_str[j] != ']':
                         j += 1
